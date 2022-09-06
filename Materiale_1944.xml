@@ -8,5 +8,25 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Materiale_1944.xml">3046</gml:identifier>
 			<gml:name>Berg</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="3048">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Materiale_1944.xml">3048</gml:identifier>
+			<gml:name>Sprengt stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3596">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Materiale_1944.xml">3596</gml:identifier>
+			<gml:name>Løsmasse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13798">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Materiale_1944.xml">13798</gml:identifier>
+			<gml:name>Kombinasjon løsmasse/berg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3932">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Materiale_1944.xml">3932</gml:identifier>
+			<gml:name>Myr</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

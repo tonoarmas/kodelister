@@ -178,15 +178,15 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17976</gml:identifier>
 			<gml:name>DB 100S K220 - (H2-W5)</gml:name>
 		</gml:Definition>
-		<gml:Definition gml:id="20351">
-			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20351</gml:identifier>
-			<gml:name>DB 80 - T180S - (H2-W5)</gml:name>
-		</gml:Definition>
 		<gml:Definition gml:id="20350">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20350</gml:identifier>
 			<gml:name>DB 100S K220 - (N2-W3)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20351">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20351</gml:identifier>
+			<gml:name>DB 80 - T180S - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20352">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>

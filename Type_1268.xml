@@ -8,5 +8,10 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">5450</gml:identifier>
 			<gml:name>Drensgrøft, dyp</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="5451">
+			<gml:description>Rørgrøft med drensledning. Ikke frostfri dybde. Se også Håndbok N200 (018).</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">5451</gml:identifier>
+			<gml:name>Drensgrøft, grunn</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

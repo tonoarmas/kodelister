@@ -8,5 +8,50 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7922</gml:identifier>
 			<gml:name>Betong</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="7923">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7923</gml:identifier>
+			<gml:name>Betong, farget</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7924">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7924</gml:identifier>
+			<gml:name>Betong, mønstret og farget</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7925">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7925</gml:identifier>
+			<gml:name>Betong, heller</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7926">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7926</gml:identifier>
+			<gml:name>Betongstein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7927">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7927</gml:identifier>
+			<gml:name>Brostein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11231">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">11231</gml:identifier>
+			<gml:name>Granitt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11230">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">11230</gml:identifier>
+			<gml:name>Skiferheller</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7928">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7928</gml:identifier>
+			<gml:name>Asfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7929">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning_5637.xml">7929</gml:identifier>
+			<gml:name>Grus</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

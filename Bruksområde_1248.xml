@@ -8,5 +8,65 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">2393</gml:identifier>
 			<gml:name>Skråning</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="4045">
+			<gml:description>Rekkverk mot fjellskjæring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4045</gml:identifier>
+			<gml:name>Fjell</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2396">
+			<gml:description>Sikrer mot vann, sjø, elv</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">2396</gml:identifier>
+			<gml:name>Vann</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2394">
+			<gml:description>Rekkverk benyttet som sikring mot trafikk på veg/areal ved siden av vegen, f.eks skille mellom hovedveg og sideveg, i forbindelse med parkeringsområde eller andre trafikerte sideareal. Merk: For midtdelere, gang- og sykkelveg og jernbane skal det benyttes egne verdier</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">2394</gml:identifier>
+			<gml:name>Trafikk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11789">
+			<gml:description>Rekkverket er plassert på midtdeler, dvs på areal som fysisk skiller trafikk i motsatte retninger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">11789</gml:identifier>
+			<gml:name>Midtdeler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11788">
+			<gml:description>Rekkverket er eneste skille mellom motgående trafikk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">11788</gml:identifier>
+			<gml:name>Midtrekkverk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2395">
+			<gml:description>Rekkverk satt opp for beskytte mot trafikkfarlige element nær vegen, f.eks store trær, stolper, brupilarer</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">2395</gml:identifier>
+			<gml:name>Naboelement</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4044">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4044</gml:identifier>
+			<gml:name>Gang/sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17369">
+			<gml:description>Rekkverk skjermer mot sideaktivitet nært inn mot vegen. Dette kan være næringsvirksomhet, privat/offentlig område, mm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">17369</gml:identifier>
+			<gml:name>Sideaktivitet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4591">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4591</gml:identifier>
+			<gml:name>Jernbane</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4667">
+			<gml:description>Gjelder rekkverk som benyttes for å hindre utforkjøring ved brukant eller stup</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4667</gml:identifier>
+			<gml:name>Brukant/stup</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4043">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4043</gml:identifier>
+			<gml:name>Utgår_Brufot</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4594">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4594</gml:identifier>
+			<gml:name>Utgår_Undergang</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

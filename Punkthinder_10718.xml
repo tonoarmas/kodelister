@@ -8,5 +8,35 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17370</gml:identifier>
 			<gml:name>Tre/beplantning</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="17371">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17371</gml:identifier>
+			<gml:name>Skilt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17372">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17372</gml:identifier>
+			<gml:name>Lysmast</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17373">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17373</gml:identifier>
+			<gml:name>Bygning/konstruksjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17374">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17374</gml:identifier>
+			<gml:name>Holdeplass/leskur</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17375">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">17375</gml:identifier>
+			<gml:name>Annet hinder</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19465">
+			<gml:description>Det er ikke punkthinder knyttet til fortauet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Punkthinder_10718.xml">19465</gml:identifier>
+			<gml:name>Ikke punkthinder</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

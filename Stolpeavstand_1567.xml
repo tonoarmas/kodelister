@@ -8,5 +8,40 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">3998</gml:identifier>
 			<gml:name>4</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="3996">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">3996</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3995">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">3995</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3997">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">3997</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20070">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">20070</gml:identifier>
+			<gml:name>6</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13722">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">13722</gml:identifier>
+			<gml:name>1.3300000000000001</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13723">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">13723</gml:identifier>
+			<gml:name>1.8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13724">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stolpeavstand_1567.xml">13724</gml:identifier>
+			<gml:name>2.2999999999999998</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

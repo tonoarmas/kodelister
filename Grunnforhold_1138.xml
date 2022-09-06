@@ -8,5 +8,20 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnforhold_1138.xml">2287</gml:identifier>
 			<gml:name>Løsmasse</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="2326">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnforhold_1138.xml">2326</gml:identifier>
+			<gml:name>Berg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3284">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnforhold_1138.xml">3284</gml:identifier>
+			<gml:name>Kombinert løsmasse og berg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13793">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnforhold_1138.xml">13793</gml:identifier>
+			<gml:name>Sprengt stein</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
