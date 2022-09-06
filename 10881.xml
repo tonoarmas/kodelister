@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10881">
+	<gml:description>Refererer til produktnavn og typegodkjenning (samsvarsgodkjenning) for rekkverk godkjent av Statens vegvesen.Jfr: http://www.vegvesen.no/fag/Teknologi/Rekkverk+og+master.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17944">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508484</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17945">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508485</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17946">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508486</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17947">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>759725</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17948">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>759710</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17949">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>759724</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17950">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>759706</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17951">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>759700</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20344">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2685572</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20345">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2685569</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17952">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1093960</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17953">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1110332</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17954">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1110336</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17956">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>523590</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17955">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>523578</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17957">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1265144</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20346">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2449783</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20347">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2872257</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17958">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508010</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17959">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508567</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20348">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2687456</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17960">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201254</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17961">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201256</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17962">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>908521</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17963">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>908520</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17964">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>908518</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17965">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>908517</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17966">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>908519</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20349">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1822939</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17983">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508168</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17973">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508447</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20442">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318118</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17974">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508453</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17975">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508456</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17976">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508455</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20351">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318247</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20350">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2316356</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20352">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318245</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17985">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508187</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17984">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508183</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17986">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508189</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17990">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508180</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17991">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508182</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20443">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318292</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20353">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318324</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20354">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318348</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20444">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318409</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20355">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2318564</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17969">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508192</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17970">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508449</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17971">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508194</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17972">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508443</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17997">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508095</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17996">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508129</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17995">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508093</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20356">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2064696</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21580">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2004</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20357">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508028</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21579">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2003</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20359">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2063330</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20358">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2063319</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18136">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508011</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18137">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508020</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18138">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508026</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18139">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508028</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18140">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508031</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18141">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508034</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18005">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1333921</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18003">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1333946</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18004">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508004</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18007">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508001</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18006">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>691901</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18008">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507997</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18009">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507998</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18010">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1355419</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20360">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2213904</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18001">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>526179</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18002">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>526176</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18011">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507989</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20361">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507989</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20362">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2549081</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20363">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2058367</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20364">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2058366</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18012">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507987</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18014">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>717776</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18013">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508458</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21576">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2000</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18015">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508596</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18016">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508590</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18017">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508589</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18018">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201295</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18019">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201296</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18020">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201304</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18021">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201306</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18022">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1201314</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21577">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2001</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21578">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2002</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18028">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507962</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20368">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507964</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20369">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2446473</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20370">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2549129</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20371">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553714</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21581">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2005</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20372">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553646</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20373">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553497</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20374">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553577</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20375">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553555</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18032">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>974857</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18033">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>974855</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20376">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1712770</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20377">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1712798</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18034">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>727881</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18036">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>727887</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18037">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>727880</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18035">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>727883</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18038">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508603</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21582">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2008</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21583">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2009</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21584">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2010</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21585">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2011</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21586">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2012</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21587">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2013</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21588">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2014</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21589">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2015</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21590">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2016</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21591">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2017</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18050">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508489</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18051">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508496</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20379">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2320000</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20380">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2446427</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20381">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2446452</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18056">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508501</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18055">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508499</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20390">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1982191</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20391">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2446407</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20392">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1915911</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20393">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2446392</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20395">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2320080</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20399">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2852104</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21592">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2018</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21593">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2019</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21594">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2020</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21595">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2021</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21596">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2022</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21597">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2023</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21598">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2024</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21599">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2025</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18057">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>737891</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18058">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>737894</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20400">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553908</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20401">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553909</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18059">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>737895</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18060">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>737899</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18061">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>737900</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18062">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508598</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18063">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508599</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18064">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>974638</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18065">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>974636</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20404">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749444</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20403">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749442</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20402">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749441</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21600">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2026</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21601">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2027</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21602">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2028</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20405">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2780285</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20407">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2780274</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20406">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2780278</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18066">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508558</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18067">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508561</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18068">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508559</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18074">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508134</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18076">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508132</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18077">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1416586</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18078">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507945</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18080">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507949</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18079">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507957</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20412">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749399</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21603">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2029</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21604">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2030</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21605">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2031</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21606">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2032</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21607">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2033</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21608">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2034</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20413">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749117</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20414">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2750098</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18081">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>602122</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18082">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>602192</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18083">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>602208</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18084">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>602217</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18085">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>602239</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20415">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1822832</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18087">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261089</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18086">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261073</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21609">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2035</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18088">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261029</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18089">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261040</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21610">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2036</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20072">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2691278</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18093">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261412</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18092">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261403</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18091">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261187</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18090">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1261100</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20416">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2749338</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18094">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507934</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18095">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507936</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18096">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507585</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18097">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507582</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18100">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507592</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18099">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507589</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18098">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507588</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18101">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507587</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18102">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508577</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18103">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508573</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18104">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508581</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18106">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508586</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18105">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508583</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20417">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1823082</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18108">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508037</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18107">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508040</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18109">
+			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508042</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20418">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1982116</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18117">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507606</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18118">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>510160</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18119">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>510156</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21381">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk/vik-eo-megarail-eo/</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>N276</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21611">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2037</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20419">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2010839</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20420">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2010876</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18120">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>620921</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18121">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>620770</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18122">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>620812</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18123">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>621756</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18124">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk/vik-n2-2m/</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>621801</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18125">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>979608</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18126">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>979629</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20421">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2135775</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20422">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2135784</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20423">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2690093</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18127">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508049</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18128">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507600</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20424">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2319645</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20425">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2319646</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20426">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2319647</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20427">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553786</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20428">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553787</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20429">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553806</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20430">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2553807</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18130">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>536073</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18129">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>508036</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18131">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>536791</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18133">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507991</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18132">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507993</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18134">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1260925</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20431">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248229</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20432">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248335</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20433">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248284</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20434">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248368</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20435">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2247994</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20436">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248062</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18135">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>537638</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20437">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1949560</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20438">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1951353</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20439">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2247987</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20440">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>2248031</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20441">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>1712300</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18143">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626819</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18142">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626804</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18150">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>588475</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18151">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626949</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18153">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626376</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18152">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626379</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18154">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>626333</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18155">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507982</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18156">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/10881">10881</gml:identifier>
+			<gml:name>507966</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

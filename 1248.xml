@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1248">
+	<gml:description>Angir hva vegobjektet brukes til, hvilken funksjon det har, hva det skjermer mot.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2393">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>s</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4045">
+			<gml:description>Rekkverk mot fjellskjæring</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>f</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2396">
+			<gml:description>Sikrer mot vann, sjø, elv</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>v</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2394">
+			<gml:description>Rekkverk benyttet som sikring mot trafikk på veg/areal ved siden av vegen, f.eks skille mellom hovedveg og sideveg, i forbindelse med parkeringsområde eller andre trafikerte sideareal. Merk: For midtdelere, gang- og sykkelveg og jernbane skal det benyttes egne verdier</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11789">
+			<gml:description>Rekkverket er plassert på midtdeler, dvs på areal som fysisk skiller trafikk i motsatte retninger.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>md</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11788">
+			<gml:description>Rekkverket er eneste skille mellom motgående trafikk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>mr</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2395">
+			<gml:description>Rekkverk satt opp for beskytte mot trafikkfarlige element nær vegen, f.eks store trær, stolper, brupilarer</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>n</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4044">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>g</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17369">
+			<gml:description>Rekkverk skjermer mot sideaktivitet nært inn mot vegen. Dette kan være næringsvirksomhet, privat/offentlig område, mm</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>sa</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4591">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>jban</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4667">
+			<gml:description>Gjelder rekkverk som benyttes for å hindre utforkjøring ved brukant eller stup</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>br</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4594">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>undg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4043">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1248">1248</gml:identifier>
+			<gml:name>b</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

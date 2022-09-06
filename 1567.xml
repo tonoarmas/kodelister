@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1567">
+	<gml:description>Angir normal avstand mellom stolper.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3998">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>04</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3996">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>02</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3995">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>01</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3997">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>03</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20070">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>6</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13722">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>1,33</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13723">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>1,8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13724">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1567">1567</gml:identifier>
+			<gml:name>2,3</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

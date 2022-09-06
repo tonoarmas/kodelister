@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9554">
+	<gml:description>Angir styrkeklasse i henhold til håndbok N101 (231), vedlegg 1.1.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13726">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>h1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13727">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>h2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13728">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>h3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13729">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>h4a</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13730">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>h4b</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13731">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>l1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13732">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>l2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13733">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>l3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13734">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>l4a</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13735">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>l4b</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13736">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>n1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13737">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>n2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13738">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>t1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13739">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>t2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13740">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/9554">9554</gml:identifier>
+			<gml:name>t3</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

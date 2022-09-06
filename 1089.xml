@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1089">
+	<gml:description>Angir hvilken type rekkverk det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13747">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>st</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13746">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>ss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13790">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>sss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13745">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>sp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13791">
+			<gml:description>Rekkverksskinne er festet på mur, vegg, skjerm, etc og ikke på egen stolper</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>smv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3366">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bps</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3367">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bpf</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3368">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bnj</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13748">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>srs</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13749">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>srss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13750">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>srt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3371">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>wr</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13752">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>tt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13751">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>ts</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3370">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>sst</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13743">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bf</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13744">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>buf</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3467">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bb</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17305">
+			<gml:description>Rekkverk som er dimensjonert for gående og syklende. Kan f.eks være for å hindre  utforkjørsel med sykkel. Benyttes ikke på/ved veger med biltrafikk</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>RGS</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11405">
+			<gml:description>Rør festet til stolper</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>rs</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5700">
+			<gml:description>Rekkverk plassert på toppen av betongrekkverk/kantdrager (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.  Mye brukt på bruer.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11330">
+			<gml:description>Rekkverkstype levert av Varmforzinkning AB i Sverige.  Benyttet som midtdeler</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>Z</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3369">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>s</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3365">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>b</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3970">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1089">1089</gml:identifier>
+			<gml:name>bx</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

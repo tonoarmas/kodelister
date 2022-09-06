@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4665">
+	<gml:description>Angir hvor på brua rekkverket er plassert.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/4665">4665</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5728">
+			<gml:description>Rekkverk på bru som er plassert langs bruas ytterkant (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/4665">4665</gml:identifier>
+			<gml:name> </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5729">
+			<gml:description>Rekkverk på bru som benyttes innenfor bruas ytterkanter med trafikk på en eller begge sider (se figur 1.4). Rekkverket kan f.eks. benyttes som:  rekkverk mellom kjørebaner, rekkverk mellom kjørebane og g/s veg eller som rekkverk mellom kjørebane og sikkerhetsrom for motorvegbruer.  Kilde: Rekkverksnormal.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/4665">4665</gml:identifier>
+			<gml:name> </gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

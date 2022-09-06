@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1645">
+	<gml:description>Anordning mellom rekkverksskinne og rekkverksstolper for å skape større avstand mellom skinnen og stive stolper (se figur 1.2 i Rekkverksnormal). Kilde: Rekkverksnormal.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1645">1645</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13742">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1645">1645</gml:identifier>
+			<gml:name>bl</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13741">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1645">1645</gml:identifier>
+			<gml:name>baksk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3513">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1645">1645</gml:identifier>
+			<gml:name>j</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

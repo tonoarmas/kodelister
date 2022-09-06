@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8048">
+	<gml:description>Angir hvem som er ansvarlig for vedlikehold av vegobjektet.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="10442">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>SVV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18694">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>NV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19919">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>FK</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18823">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>OPS</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10520">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>K</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10598">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>P</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17701">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/8048">8048</gml:identifier>
+			<gml:name>U</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

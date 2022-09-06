@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1647">
+	<gml:description>Angir skinneutrustning for rekkverket.</gml:description>
+	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3725">
+			<gml:description>Ei skinne</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>ee</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3461">
+			<gml:description>To skinner over hverandre på samme side av stolper</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>ed</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3734">
+			<gml:description>Ei skinne på hver side av stolper</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>te</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3462">
+			<gml:description>To skinner over hverandre på hver side av stolper</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>td</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3464">
+			<gml:description>To skinner over hverandre på side inn mot veg, ei på motsatt side.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>tde</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4076">
+			<gml:description>Ei skinne på side inn mot veg, to skinne under hverandre på motsatt side.</gml:description>
+			<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1647">1647</gml:identifier>
+			<gml:name>ted</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
