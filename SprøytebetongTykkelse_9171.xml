@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9171">
+	<gml:description>Angir gjennomsnittlig tykkelse av sprøytebetong.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SprøytebetongTykkelse_9171.xml">SprøytebetongTykkelse_9171</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12264">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SprøytebetongTykkelse_9171.xml">12264</gml:identifier>
+			<gml:name>2 cm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12265">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SprøytebetongTykkelse_9171.xml">12265</gml:identifier>
+			<gml:name>6 cm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12266">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SprøytebetongTykkelse_9171.xml">12266</gml:identifier>
+			<gml:name>8 cm</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

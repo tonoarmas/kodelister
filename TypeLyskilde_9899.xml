@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9899">
+	<gml:description>Angir type lyskilde.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">TypeLyskilde_9899</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16082">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">16082</gml:identifier>
+			<gml:name>LED-armatur</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19015">
+			<gml:description>Sammenhengende LED-belysning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">19015</gml:identifier>
+			<gml:name>LED-list</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16083">
+			<gml:description>Armatur med lysstoffrør med fast innbyrdes avstand</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">16083</gml:identifier>
+			<gml:name>Lysstoffrør</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16722">
+			<gml:description>Glødelamper med fast innbyrdes avstand</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">16722</gml:identifier>
+			<gml:name>Glødelamper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16721">
+			<gml:description>Tråd som lyser i hele trådens lengde</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeLyskilde_9899.xml">16721</gml:identifier>
+			<gml:name>Utgår_Lystråd</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

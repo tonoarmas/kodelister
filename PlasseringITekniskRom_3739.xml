@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3739">
+	<gml:description>Angir om objektet er plassert i teknisk rom.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlasseringITekniskRom_3739.xml">PlasseringITekniskRom_3739</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16019">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlasseringITekniskRom_3739.xml">16019</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16020">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlasseringITekniskRom_3739.xml">16020</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5051">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlasseringITekniskRom_3739.xml">5051</gml:identifier>
+			<gml:name>Utgår_I skap</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5052">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlasseringITekniskRom_3739.xml">5052</gml:identifier>
+			<gml:name>Utgår_I kiosk</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

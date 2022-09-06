@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12146">
+	<gml:description>Bredde på enkeltlinjene i i sperreområdet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_BreddeLinjeISp_12146.xml">Utgår_BreddeLinjeISp_12146</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21097">
+			<gml:description>Bredde benyttes ved fartsgrense 70 km/t eller lavere</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_BreddeLinjeISp_12146.xml">21097</gml:identifier>
+			<gml:name>0.25</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21098">
+			<gml:description>Bredde benyttes ved fartsgrense 80 km eller høyere</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_BreddeLinjeISp_12146.xml">21098</gml:identifier>
+			<gml:name>0.5</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7023">
+	<gml:description>Verdien på fartsgrensen i angitt tidsrom.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">Fartsgrense_7023</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11577">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">11577</gml:identifier>
+			<gml:name>20</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9333">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">9333</gml:identifier>
+			<gml:name>30</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9334">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">9334</gml:identifier>
+			<gml:name>40</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9335">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">9335</gml:identifier>
+			<gml:name>50</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9336">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">9336</gml:identifier>
+			<gml:name>60</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9337">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fartsgrense_7023.xml">9337</gml:identifier>
+			<gml:name>70</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

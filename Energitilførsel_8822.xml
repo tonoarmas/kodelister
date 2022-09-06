@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8822">
+	<gml:description>Angir hvilken energitilførsel det er til signalanlegget.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Energitilførsel_8822.xml">Energitilførsel_8822</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11735">
+			<gml:description> (0-50VAC, 0-120VDC)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Energitilførsel_8822.xml">11735</gml:identifier>
+			<gml:name>Spenningsbånd I</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11736">
+			<gml:description>(50-1000VAC, 120-1500VDC)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Energitilførsel_8822.xml">11736</gml:identifier>
+			<gml:name>Spenningsbånd II</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

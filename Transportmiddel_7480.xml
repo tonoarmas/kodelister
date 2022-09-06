@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7480">
+	<gml:description>Angir hvilket transportmiddel holdeplassen gjelder for.  En holdeplass skal pr definisjon bare betjene en type transportmiddel (unntak er trikkeholdeplasser som kan betjene både trikk og buss).  Det defineres trafikknutepunkt for å binde sammen holdeplasser for ulike transportmiddel .</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">Transportmiddel_7480</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9726">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9726</gml:identifier>
+			<gml:name>Fly</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9728">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9728</gml:identifier>
+			<gml:name>Båt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9729">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9729</gml:identifier>
+			<gml:name>Ferje</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9727">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9727</gml:identifier>
+			<gml:name>Tog</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9731">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9731</gml:identifier>
+			<gml:name>T-bane</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9732">
+			<gml:description>Holdeplass for av og påstigning av trikk.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9732</gml:identifier>
+			<gml:name>Trikk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9730">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9730</gml:identifier>
+			<gml:name>Buss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9733">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">9733</gml:identifier>
+			<gml:name>Drosje</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13038">
+			<gml:description>Holdeplass som ikke har transportmiddel knyttet til seg.  Gjerne gangveg til nærmeste holdeplass</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Transportmiddel_7480.xml">13038</gml:identifier>
+			<gml:name>Ikke betjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

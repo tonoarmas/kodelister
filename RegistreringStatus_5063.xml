@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5063">
+	<gml:description>Merke for om alle data om ulykken er registrert eller ikke.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/RegistreringStatus_5063.xml">RegistreringStatus_5063</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6253">
+			<gml:description>Ikke ferdigregistrert </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/RegistreringStatus_5063.xml">6253</gml:identifier>
+			<gml:name>Ikke ferdigregistrert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6254">
+			<gml:description>Ferdigregistrert</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/RegistreringStatus_5063.xml">6254</gml:identifier>
+			<gml:name>Ferdigregistrert</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

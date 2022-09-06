@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10923">
+	<gml:description>Angir dispensasjon for spesialtransport avhengig av bruenes tilstand.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Veggruppe_10923.xml">Veggruppe_10923</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18261">
+			<gml:description>Veger som har bruer med flere kjørefelt, nyere bruer med ett kjørefelt eller veger som ikke har bruer. (Vegliste, spesialtransport)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Veggruppe_10923.xml">18261</gml:identifier>
+			<gml:name>A</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

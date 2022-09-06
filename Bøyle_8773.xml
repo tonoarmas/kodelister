@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8773">
+	<gml:description>Angir om skiltplaten(e) er festet inn i en metallbøyle (som igjen er festet på oppsettingsutstyret).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">Bøyle_8773</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11619">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">11619</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16848">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">16848</gml:identifier>
+			<gml:name>Ja, toppmontert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16849">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">16849</gml:identifier>
+			<gml:name>Ja, sidemontert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16850">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">16850</gml:identifier>
+			<gml:name>Ja, midtmontert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17268">
+			<gml:description>Skiltstolpe med forgrening. En eller flere av skiltplatene er festet på forgreningen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">17268</gml:identifier>
+			<gml:name>Forgrening</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11620">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bøyle_8773.xml">11620</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

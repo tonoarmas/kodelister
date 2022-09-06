@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11893">
+	<gml:description>Angir type tilhenger.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">Tilhengertype_Ny__11893</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20184">
+			<gml:description>Campingvogn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20184</gml:identifier>
+			<gml:name>Campingvogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20185">
+			<gml:description>Slepevogn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20185</gml:identifier>
+			<gml:name>Slepevogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20186">
+			<gml:description>Semitrailer</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20186</gml:identifier>
+			<gml:name>Semitrailer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20187">
+			<gml:description>Påhengsvogn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20187</gml:identifier>
+			<gml:name>Påhengsvogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20188">
+			<gml:description>Tilhenger/tilhengerredskap</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20188</gml:identifier>
+			<gml:name>Tilhenger/tilhengerredskap</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21044">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">21044</gml:identifier>
+			<gml:name>Ingen tilhenger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20189">
+			<gml:description>Ukjent tilhenger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilhengertype_Ny__11893.xml">20189</gml:identifier>
+			<gml:name>Ukjent tilhenger</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

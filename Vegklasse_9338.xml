@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9338">
+	<gml:description>Angir funksjonell vegklasse.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">Vegklasse_9338</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13060">
+			<gml:description>De viktigste vegene i et vegnettverk, f.eks. motorveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13060</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13061">
+			<gml:description>De nest viktigste vegene i et vegnettverk, f.eks. større riksveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13061</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13062">
+			<gml:description>De tredje viktigste vegene i et vegnettverk, f.eks. mindre riksveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13062</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13063">
+			<gml:description>De fjerde viktigste vegene i et vegnettverk, f.eks. større fylkesveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13063</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13064">
+			<gml:description>De femte viktigste vegene i et vegnettverk, f.eks. mindre fylkesveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13064</gml:identifier>
+			<gml:name>4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13065">
+			<gml:description>De sjette viktigste vegene i et vegnettverk, f.eks. de minste fylkesvegene og viktige kommunale veger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13065</gml:identifier>
+			<gml:name>5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13066">
+			<gml:description>De sjuende viktigste vegene i et vegnettverk, f.eks. kommunale veger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13066</gml:identifier>
+			<gml:name>6</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13067">
+			<gml:description>De åttende viktigste vegene i et vegnettverk, f.eks. private veger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13067</gml:identifier>
+			<gml:name>7</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13068">
+			<gml:description>De niende viktigste vegene i et vegnettverk, f.eks. skogsbilveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13068</gml:identifier>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13069">
+			<gml:description>De minst viktige vegene i et vegnettverk, f.eks. veger det ikke er anbefalt å kjøre på, men mulig å kjøre på.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vegklasse_9338.xml">13069</gml:identifier>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

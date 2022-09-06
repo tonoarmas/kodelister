@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12541">
+	<gml:description>Angir nominell spenning når anlegget leverer spenning</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">NominellSpenning_12541</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21569">
+			<gml:description>AC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21569</gml:identifier>
+			<gml:name>690</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21564">
+			<gml:description>DC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21564</gml:identifier>
+			<gml:name>12</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21565">
+			<gml:description>DC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21565</gml:identifier>
+			<gml:name>24</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21566">
+			<gml:description>DC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21566</gml:identifier>
+			<gml:name>48</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21567">
+			<gml:description>AC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21567</gml:identifier>
+			<gml:name>230</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21568">
+			<gml:description>AC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NominellSpenning_12541.xml">21568</gml:identifier>
+			<gml:name>400</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

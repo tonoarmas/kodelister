@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4022">
+	<gml:description>Angir hvilken type korrosjonsbeskyttelse som er benyttet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Korrosjonsbeskyttelse_4022.xml">Korrosjonsbeskyttelse_4022</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5053">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Korrosjonsbeskyttelse_4022.xml">5053</gml:identifier>
+			<gml:name>Varmforsinket</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5054">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Korrosjonsbeskyttelse_4022.xml">5054</gml:identifier>
+			<gml:name>Pulverlakkert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13785">
+			<gml:description>Angis dersom vifte/ventilator er av materiale som ikke trenger korrosjonsbeskyttelse, f.eks syrefast stål</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Korrosjonsbeskyttelse_4022.xml">13785</gml:identifier>
+			<gml:name>Ikke behov</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

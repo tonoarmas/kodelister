@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11022">
+	<gml:description>Angir faktor for egnethet av omkjøringsveg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_37_FaktorvektO_11022.xml">Utgår_37_FaktorvektO_11022</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18454">
+			<gml:description>Omkjøring finnes, uten restriksjoner</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_37_FaktorvektO_11022.xml">18454</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18455">
+			<gml:description>Omkjøring finnes, men er delvis uegnet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_37_FaktorvektO_11022.xml">18455</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18456">
+			<gml:description>Omkjøring finnes ikke, eller er svært uegnet.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_37_FaktorvektO_11022.xml">18456</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

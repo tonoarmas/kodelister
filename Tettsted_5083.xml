@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5083">
+	<gml:description>Tettsted på ulykkesstedet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tettsted_5083.xml">Tettsted_5083</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6493">
+			<gml:description>Tettsted</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tettsted_5083.xml">6493</gml:identifier>
+			<gml:name>Tettsted</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6494">
+			<gml:description>Ikke tettsted</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tettsted_5083.xml">6494</gml:identifier>
+			<gml:name>Ikke tettsted</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6495">
+			<gml:description>ukjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tettsted_5083.xml">6495</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

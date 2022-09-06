@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12035">
+	<gml:description>Angir om det skal tas spesielle hensyn ved kantklipp.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/RestriksjonKantklipp_12035.xml">RestriksjonKantklipp_12035</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20883">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/RestriksjonKantklipp_12035.xml">20883</gml:identifier>
+			<gml:name>Utføres etter særskilt beskrivelse</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9118">
+	<gml:description>Angir navn på art.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">Artsnavn_9118</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12132">
+			<gml:description>Heracleum mantegazzianum</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12132</gml:identifier>
+			<gml:name>Kjempebjørnekjeks</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12133">
+			<gml:description>Heracleum persicum</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12133</gml:identifier>
+			<gml:name>Tromsøpalme</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12134">
+			<gml:description>Impatiens glandulifera</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12134</gml:identifier>
+			<gml:name>Kjempespringfrø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12136">
+			<gml:description>Bunias orientalis</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12136</gml:identifier>
+			<gml:name>Russekål</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12137">
+			<gml:description>Lupinus polyphyllus</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12137</gml:identifier>
+			<gml:name>Hagelupin</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12138">
+			<gml:description>Fallopia japonica / Fallopia bohemica</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12138</gml:identifier>
+			<gml:name>Park- og hybridslirekne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16194">
+			<gml:description>Petasites hybridus</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">16194</gml:identifier>
+			<gml:name>Legepestrot</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16193">
+			<gml:description>Solidago canadensis</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">16193</gml:identifier>
+			<gml:name>Kanadagullris</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16192">
+			<gml:description>Fallopia xxx</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">16192</gml:identifier>
+			<gml:name>Ubestemt Slirekne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12139">
+			<gml:description>Fallopia sachalinensis</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12139</gml:identifier>
+			<gml:name>Kjempeslirekne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12140">
+			<gml:description>Aruncus dioicus</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12140</gml:identifier>
+			<gml:name>Skogskjegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12141">
+			<gml:description>Rosa rugosa</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12141</gml:identifier>
+			<gml:name>Rynkerose</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12142">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">12142</gml:identifier>
+			<gml:name>Platanlønn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17883">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">17883</gml:identifier>
+			<gml:name>Fagerfredløs</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17884">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">17884</gml:identifier>
+			<gml:name>Hvitsteinkløver</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17885">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">17885</gml:identifier>
+			<gml:name>Høstberberis</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17886">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">17886</gml:identifier>
+			<gml:name>Hagepastinakk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16195">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Artsnavn_9118.xml">16195</gml:identifier>
+			<gml:name>Andre arter</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

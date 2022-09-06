@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12067">
+	<gml:description>Angir hvor kraftig vind som generelt skal til før problemet oppstår .</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">Vindhastighet_12067</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20938">
+			<gml:description>5 - Frisk bris (8,0-10,7 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20938</gml:identifier>
+			<gml:name>Frisk bris</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20939">
+			<gml:description>6 - Liten kuling (10,8 - 13,8 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20939</gml:identifier>
+			<gml:name>Liten kuling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20940">
+			<gml:description>7 - Stiv kuling (13,9 - 17,1 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20940</gml:identifier>
+			<gml:name>Stiv kuling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20941">
+			<gml:description>8 - Sterk kuling (17,2 - 20,7 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20941</gml:identifier>
+			<gml:name>Sterk kuling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20942">
+			<gml:description>9 - Liten storm (20,8 - 24,4 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20942</gml:identifier>
+			<gml:name>Liten storm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20943">
+			<gml:description>10 - Full storm (24,5 - 28,4 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20943</gml:identifier>
+			<gml:name>Full storm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20944">
+			<gml:description>11 - Sterk storm (28,5 - 32,6 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20944</gml:identifier>
+			<gml:name>Sterk storm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20945">
+			<gml:description>12 - Orkan (over 32,6 m/s)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vindhastighet_12067.xml">20945</gml:identifier>
+			<gml:name>Orkan</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1089">
+	<gml:description>Angir hvilken type rekkverk det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">Rekkverkstype_1089</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13747">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13747</gml:identifier>
+			<gml:name>Stålskinne m/trestolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13746">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13746</gml:identifier>
+			<gml:name>Stålskinne m/stålstolpler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13790">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13790</gml:identifier>
+			<gml:name>Stålskinne m/sigma stålstolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13745">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13745</gml:identifier>
+			<gml:name>Stålskinne m/plaststolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13791">
+			<gml:description>Rekkverksskinne er festet på mur, vegg, skjerm, etc og ikke på egen stolper</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13791</gml:identifier>
+			<gml:name>Stålskinne festet på mur/vegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3366">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3366</gml:identifier>
+			<gml:name>Betong, plasstøpt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3367">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3367</gml:identifier>
+			<gml:name>Betong, prefabrikkert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3368">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3368</gml:identifier>
+			<gml:name>Betong, New Jersey</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13748">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13748</gml:identifier>
+			<gml:name>Stålrør m/runde stålstolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13749">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13749</gml:identifier>
+			<gml:name>Stålrør m/sigma stålstolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13750">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13750</gml:identifier>
+			<gml:name>Stålrør m/trestolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3371">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3371</gml:identifier>
+			<gml:name>Wirerekkverk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13752">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13752</gml:identifier>
+			<gml:name>Treskinne m/trestolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13751">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13751</gml:identifier>
+			<gml:name>Treskinne m/stålstolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3370">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3370</gml:identifier>
+			<gml:name>Stabbesteiner</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13743">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13743</gml:identifier>
+			<gml:name>Brurekkverk, stål m/føringsskinne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13744">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">13744</gml:identifier>
+			<gml:name>Brurekkverk, stål u/føringsskinne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3467">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3467</gml:identifier>
+			<gml:name>Brurekkverk, betong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17305">
+			<gml:description>Rekkverk som er dimensjonert for gående og syklende. Kan f.eks være for å hindre  utforkjørsel med sykkel. Benyttes ikke på/ved veger med biltrafikk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">17305</gml:identifier>
+			<gml:name>Rekkverk for gående/syklende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3365">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3365</gml:identifier>
+			<gml:name>Utgår_Betongrekkverk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3369">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3369</gml:identifier>
+			<gml:name>Utgår_Rekkverk m skinne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3970">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3970</gml:identifier>
+			<gml:name>Utgår_Betongrekkverk, Stabb/Saxegård</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11405">
+			<gml:description>Rør festet til stolper</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">11405</gml:identifier>
+			<gml:name>Utgår_Rekkverk m rør på stolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5700">
+			<gml:description>Rekkverk plassert på toppen av betongrekkverk/kantdrager (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.  Mye brukt på bruer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">5700</gml:identifier>
+			<gml:name>Utgår_Topprekkverk på mur/kantdrager</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11330">
+			<gml:description>Rekkverkstype levert av Varmforzinkning AB i Sverige.  Benyttet som midtdeler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">11330</gml:identifier>
+			<gml:name>Utgår_Z-ellipse</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

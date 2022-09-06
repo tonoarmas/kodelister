@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2025">
+	<gml:description>Utforming av vegobjekt</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">Utgår_Utforming_2025</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3225">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">3225</gml:identifier>
+			<gml:name>Utgår_Fysisk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3915">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">3915</gml:identifier>
+			<gml:name>Utgår_Fysisk, grøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3228">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">3228</gml:identifier>
+			<gml:name>Utgår_Fysisk, kantstein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11790">
+			<gml:description>Trafikkdeleren i seg selv er utformet i plan med vegen, den gir plass til å plassere rekkverk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">11790</gml:identifier>
+			<gml:name>Utgår_Rekkverksareal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11791">
+			<gml:description>Utformet med oppmerking og evt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">11791</gml:identifier>
+			<gml:name>Utgår_Midtfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10177">
+			<gml:description>Maling er frest ned i dekke</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">10177</gml:identifier>
+			<gml:name>Utgår_Frest/malt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3221">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Utforming_2025.xml">3221</gml:identifier>
+			<gml:name>Utgår_Malt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

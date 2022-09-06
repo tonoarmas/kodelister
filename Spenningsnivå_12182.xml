@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12182">
+	<gml:description>Angir spenningsnivå for kabelgrøft.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Spenningsnivå_12182.xml">Spenningsnivå_12182</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21238">
+			<gml:description>Det finnes strømførende kabler i kabelgrøft</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Spenningsnivå_12182.xml">21238</gml:identifier>
+			<gml:name>Elkraft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21239">
+			<gml:description>Det finnes ikke strømførende kabler i kabelgrøft, kun signalkabler eller tisvarende</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Spenningsnivå_12182.xml">21239</gml:identifier>
+			<gml:name>Signal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21240">
+			<gml:description>Det finnes både strømførende ledninger og signalkabler i grøft</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Spenningsnivå_12182.xml">21240</gml:identifier>
+			<gml:name>Elkraft/signal</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

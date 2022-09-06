@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1243">
+	<gml:description>Angir aktuelt arbeidsoperasjon for området.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">AktuellArbeidsoperasj_1243</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16946">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">16946</gml:identifier>
+			<gml:name>Eng/gress klippes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3948">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3948</gml:identifier>
+			<gml:name>Gress/kratt fjernes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3946">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3946</gml:identifier>
+			<gml:name>Busker/kratt holdes nede</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3945">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3945</gml:identifier>
+			<gml:name>Busker/kratt fjernes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3944">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3944</gml:identifier>
+			<gml:name>Skog tynnes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3943">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3943</gml:identifier>
+			<gml:name>Skog fjernes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3947">
+			<gml:description>Trær stammes opp /døde greiner fjernes på faglig riktig måte.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">3947</gml:identifier>
+			<gml:name>Trær beskjæres</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16947">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktuellArbeidsoperasj_1243.xml">16947</gml:identifier>
+			<gml:name>Krever ikke tiltak, kun hensyn</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

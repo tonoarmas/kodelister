@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11216">
+	<gml:description>Angir hvilken funksjonsklasse vegstrekning er definert som.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">Funksjonsklasse_11216</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18511">
+			<gml:description>Nasjonale hovedveger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">18511</gml:identifier>
+			<gml:name>A - Nasjonale hovedveger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18512">
+			<gml:description>Veger med regional funksjon, overordnet/ regional betydning. Sammen med funksjonsklasse A utgjør disse et overordnet transportnett.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">18512</gml:identifier>
+			<gml:name>B - Regionale hovedveger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18513">
+			<gml:description>Veger med viktig lokal, men også en viss regional, funksjon hvor hovedfunksjonen er viktige forbindelsesveger mellom funksjonsklasse A og B og forbindelse til kommunesentra.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">18513</gml:identifier>
+			<gml:name>C - Lokale hovedveger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18514">
+			<gml:description>Veger som binder sammen bygder og grender eller gir hovedadkomst til bygd eller grend. Disse vegene har også en samlefunksjon for trafikk til eller fra veger i funksjonsklasse B og C.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">18514</gml:identifier>
+			<gml:name>D - Lokale samleveger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18515">
+			<gml:description>Veger som kan være samleveier, men som mest domineres av adkomst til boliger og virksomheter langs disse veiene.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Funksjonsklasse_11216.xml">18515</gml:identifier>
+			<gml:name>E - Lokale adkomstveger</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

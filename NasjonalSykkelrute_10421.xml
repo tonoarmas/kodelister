@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10421">
+	<gml:description>Angir nummer/navn på nasjonal sykkelrute.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">NasjonalSykkelrute_10421</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16822">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16822</gml:identifier>
+			<gml:name>1 - Kystruta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16823">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16823</gml:identifier>
+			<gml:name>2 - Kanalruta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16824">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16824</gml:identifier>
+			<gml:name>3 - Fjord og fjell</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16825">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16825</gml:identifier>
+			<gml:name>4 - Rallarvegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16826">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16826</gml:identifier>
+			<gml:name>5 - Numedalsruta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16827">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16827</gml:identifier>
+			<gml:name>6 - Sognefjellsvegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16828">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16828</gml:identifier>
+			<gml:name>7 - Pilegrimsruta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16829">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16829</gml:identifier>
+			<gml:name>8 - Trollheimen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16830">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16830</gml:identifier>
+			<gml:name>9 - Villmarksruta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16831">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NasjonalSykkelrute_10421.xml">16831</gml:identifier>
+			<gml:name>10 - Nordkapp - Lindesnes</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

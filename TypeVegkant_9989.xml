@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9989">
+	<gml:description>Angir hvilken type vegkant objektet gjelder.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">TypeVegkant_9989</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16217">
+			<gml:description>Dette er den klassiske artsrike vegkanten med tørrenger og tørrberg på moderat til sterkt tørkeutsatt og veldrenert mark. Typisk med kortvokste urter og gras, gjerne slåttetolerante/slåttebegunstigete arter som blomstrer tidlig og setter frø i løpet av juni og første halvdel av juli.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">16217</gml:identifier>
+			<gml:name>Tørrengvegkant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16218">
+			<gml:description>Urterik utforming, ofte dominert av høgstauder og halvgras. Opptrer normalt på veldrenert og frisk mark, men kan også finnes på moderat tørkeutsatt og sesongfuktig mark. Næringsstatus varierer fra næringsfattig til noe næringsrik.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">16218</gml:identifier>
+			<gml:name>Frisk-fuktig/ høgstaude vegkant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16219">
+			<gml:description>Utforming basert på naturgeografisk tilhørighet. Typisk består denne utformingen av tørrengpartier i veksling med eller mosikk med friske enger og kildepregete fuktenger og våtenger. Best utviklet på baserik berggrunn med tørrengpreg eller som reinrosehei. Særlig i beitepåvirkede områder opp mot fjellet i øvre deler av dalførene og på fjellovergangene i Sør-Norge kan det være en rik flora av fjellplanter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">16219</gml:identifier>
+			<gml:name>Nordlig/alpin vegkant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16220">
+			<gml:description>Vegkanter rik sumpvegetasjon eller rikmyrspreg, ofte knyttet til stagnerende vann i veggrøfta, eventuelt frisk til våt fuktmark i grøfta og et stykke oppetter skjæring og fylling. Utformingen utvikles som regel inntil verdifulle våtmarksmiljøer, rik myrkantskog (sumpskog) og rikmyr. Med intakt, blottlagt torvjord i skjæring og grøft, vil kravfulle og konkurransesvake arter fra rikmyr ha mulighet til å etablere seg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">16220</gml:identifier>
+			<gml:name>Fukteng-våteng vegkant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16254">
+			<gml:description>Vegkant som ikke passer i de beskrevne typene. Spesiefiser type og/eller beskrivelse i feltet "Spesiell beskrivelse/ merknad"</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeVegkant_9989.xml">16254</gml:identifier>
+			<gml:name>Annen type vegkant</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

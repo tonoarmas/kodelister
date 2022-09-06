@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9592">
+	<gml:description>Element i et stål-/betongrekkverk som fungerer som rekkverkets øvre føring, og som har sin primære funksjon å gi ekstra sikkerhet for gående og syklende.(HB N101).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Håndlist_9592.xml">Håndlist_9592</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13813">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Håndlist_9592.xml">13813</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13814">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Håndlist_9592.xml">13814</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

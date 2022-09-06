@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2023">
+	<gml:description>Angir framføringsveg for kabel.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">Framføringsveg_2023</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3772">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">3772</gml:identifier>
+			<gml:name>Trekkrør/kanal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3774">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">3774</gml:identifier>
+			<gml:name>Grøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3775">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">3775</gml:identifier>
+			<gml:name>Kabelbro/stige</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3773">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">3773</gml:identifier>
+			<gml:name>Luftspenn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15883">
+			<gml:description>Kabel er lagt i vann/sjø</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">15883</gml:identifier>
+			<gml:name>Vann</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14040">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">14040</gml:identifier>
+			<gml:name>Kulvert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14042">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">14042</gml:identifier>
+			<gml:name>Slisse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14039">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">14039</gml:identifier>
+			<gml:name>Borehull</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14041">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Framføringsveg_2023.xml">14041</gml:identifier>
+			<gml:name>Kabelbunt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9819">
+	<gml:description>Angir hvilken type vegobjektet er av.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">TypeFundament_9819</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="15989">
+			<gml:description>Skjerm er fundamentert på sammenhengende støpt såle/bankett</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">15989</gml:identifier>
+			<gml:name>Betong, bankett</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15991">
+			<gml:description>Skjerm er fundamentert på støpte punnktfundamenter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">15991</gml:identifier>
+			<gml:name>Betong, punktfundamenter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17846">
+			<gml:description>Skjerm er fundamentert på betongpeler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">17846</gml:identifier>
+			<gml:name>Betong, peler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17847">
+			<gml:description>Søyler er funamentert direkte i jordmasser</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">17847</gml:identifier>
+			<gml:name>Direktefundamentert søyle</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17848">
+			<gml:description>Søyler er fundamentert på spydspiss som er stukket ned i jord.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">17848</gml:identifier>
+			<gml:name>Stålspyd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17849">
+			<gml:description>Skjerm er festet direkte på konstruksjon som f.eks mur, bru, mm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeFundament_9819.xml">17849</gml:identifier>
+			<gml:name>På konstruksjon</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

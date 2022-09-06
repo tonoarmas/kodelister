@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9517">
+	<gml:description>Angir om tunnel er undersjøisk eller ikke.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Undersjøisk_9517.xml">Undersjøisk_9517</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13432">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Undersjøisk_9517.xml">13432</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13433">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Undersjøisk_9517.xml">13433</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

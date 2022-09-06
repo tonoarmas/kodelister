@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8139">
+	<gml:description>Angir om pumpe pumper vann til godkjent avløpsanlegg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GodkjentAvløp_8139.xml">GodkjentAvløp_8139</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="10777">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GodkjentAvløp_8139.xml">10777</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10778">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GodkjentAvløp_8139.xml">10778</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21304">
+			<gml:description>Angis som verdi inntil det er avklart om avløp er godkjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GodkjentAvløp_8139.xml">21304</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12069">
+	<gml:description>Angir hvilken sekundær vindretning som generelt gir utfordringer.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">VindretningSekundær_12069</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20954">
+			<gml:description>Nord</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20954</gml:identifier>
+			<gml:name>N</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20955">
+			<gml:description>Nordøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20955</gml:identifier>
+			<gml:name>NØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20956">
+			<gml:description>Øst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20956</gml:identifier>
+			<gml:name>Ø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20957">
+			<gml:description>Sørøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20957</gml:identifier>
+			<gml:name>SØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20958">
+			<gml:description>Sør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20958</gml:identifier>
+			<gml:name>S</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20959">
+			<gml:description>Sørvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20959</gml:identifier>
+			<gml:name>SV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20960">
+			<gml:description>Vest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20960</gml:identifier>
+			<gml:name>V</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20961">
+			<gml:description>Nordvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20961</gml:identifier>
+			<gml:name>NV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20962">
+			<gml:description>Det er flere sekundære vindretninger som er problematiske</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VindretningSekundær_12069.xml">20962</gml:identifier>
+			<gml:name>Alle</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

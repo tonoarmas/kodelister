@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1996">
+	<gml:description>Angir hvilken type membran/drenering det er bak utstøping.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Membran_1996.xml">Membran_1996</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3429">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Membran_1996.xml">3429</gml:identifier>
+			<gml:name>Asfaltmembran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3430">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Membran_1996.xml">3430</gml:identifier>
+			<gml:name>Foliemembran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3431">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Membran_1996.xml">3431</gml:identifier>
+			<gml:name>Ikke membran</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

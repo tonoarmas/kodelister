@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10641">
+	<gml:description>Type registrering. 1 = hovedinspeksjon, 2 = årlig ajourhold.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeRegistrering_10641.xml">TypeRegistrering_10641</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17203">
+			<gml:description>Hovedinspeksjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeRegistrering_10641.xml">17203</gml:identifier>
+			<gml:name>Hoved</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

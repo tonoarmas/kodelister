@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4631">
+	<gml:description>Vegnormalenes inndeling i klasser på vegnettet, inkl. gsv.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Standardklasse_4631.xml">Standardklasse_4631</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5637">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Standardklasse_4631.xml">5637</gml:identifier>
+			<gml:name>H1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5638">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Standardklasse_4631.xml">5638</gml:identifier>
+			<gml:name>H2</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

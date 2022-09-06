@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8366">
+	<gml:description>Angir hvilken hovedkategori vegminnet tilhører. Det er avhengighet il ET "Enkeltminneart"</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kategori_8366.xml">Kategori_8366</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11314">
+			<gml:description>En veg er en fast trasee som mennesket har skapt ved ferdsel. Menneskene har gått, ridd eller kjørt på vegen. Vegen kan være naturlig og uten bearbeiding eller den kan ha vært bygget med murer, grøfter, stikkrenner etc. Kan deles inn i gang- og rideveg eller kjøreveg. Eksempelvis hulveg, slep, eideveg, kongeveg, postveg,det franske prinsipp (1760-1850), chausse - stigning 1:20 (1850-1912), bilveg (1912-1960) etc.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kategori_8366.xml">11314</gml:identifier>
+			<gml:name>Veg</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

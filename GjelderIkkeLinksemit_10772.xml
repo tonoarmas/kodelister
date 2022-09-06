@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10772">
+	<gml:description>Veger som er merket med L i kolonne for type modulvogntog er ikke tillatt for modulvogntog som nevnt i bokstav b nr. 3.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderIkkeLinksemit_10772.xml">GjelderIkkeLinksemit_10772</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17462">
+			<gml:description>Modulvogntog av type Linksemitrailer er IKKE tillatt på strekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderIkkeLinksemit_10772.xml">17462</gml:identifier>
+			<gml:name>L</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

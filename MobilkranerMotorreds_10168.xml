@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10168">
+	<gml:description>Angir om vegstrekning inngår i vegnett som kan benyttes av mobilkran/motorredskap, og i så fall hvor mange aksler som tillates.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MobilkranerMotorreds_10168.xml">MobilkranerMotorreds_10168</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16573">
+			<gml:description>Mobilkraner/motorredsskap tillates ikke</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MobilkranerMotorreds_10168.xml">16573</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16574">
+			<gml:description>Mobilkraner/motorredsskap med 2 og 3 aksler tillates</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MobilkranerMotorreds_10168.xml">16574</gml:identifier>
+			<gml:name>2 og 3 aksler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16575">
+			<gml:description>Mobilkraner/motorredsskap med 4 og 5 aksler tillates</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MobilkranerMotorreds_10168.xml">16575</gml:identifier>
+			<gml:name>4 og 5 aksler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16576">
+			<gml:description>Mobilkraner/motorredsskap med flere enn 5 aksler tillates</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MobilkranerMotorreds_10168.xml">16576</gml:identifier>
+			<gml:name>Over 5 aksler</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

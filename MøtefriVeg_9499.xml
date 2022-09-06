@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9499">
+	<gml:description>Angir om trafikkdeler er utformet slik at det kan regnes møtefri veg på strekningen. Med møtefri veg menes at det er rekkverk eller tilsvarende som hindrer kjøretøy å komme over i motgående kjørefelt. Veg med trafikkdeler (midtdeler) over 7 meter regnes som møtefri selv om det ikke er fysisk hinder.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MøtefriVeg_9499.xml">MøtefriVeg_9499</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13382">
+			<gml:description>"Ja" hvis trafikkdeler har fysisk hinder som rekkverk, etc, eller er bredere enn 7 meter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MøtefriVeg_9499.xml">13382</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13383">
+			<gml:description>"Nei" hvis det er kun forhøyet med kantstein, adskilt med gjerde etc.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MøtefriVeg_9499.xml">13383</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

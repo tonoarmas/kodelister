@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12071">
+	<gml:description>Angir om flommen er som følge av styrtregn (kraftig regn under 3 timers varighet). Styrtregn forekommer i hovedsak om sommeren.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrtflom_12071.xml">Styrtflom_12071</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20963">
+			<gml:description>Ja</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrtflom_12071.xml">20963</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20964">
+			<gml:description>Nei</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrtflom_12071.xml">20964</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

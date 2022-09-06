@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5101">
+	<gml:description>Det punkt på kjøretøyet hvor det anslagsvis ble truffet først.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">FørsteBerøringspunkt_5101</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9850">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9850</gml:identifier>
+			<gml:name>Tak/hode</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9852">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9852</gml:identifier>
+			<gml:name>Høyre foran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9853">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9853</gml:identifier>
+			<gml:name>Høyre side foran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9854">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9854</gml:identifier>
+			<gml:name>Høyre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9855">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9855</gml:identifier>
+			<gml:name>Høyre side bak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9856">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9856</gml:identifier>
+			<gml:name>Høyre bak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9857">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9857</gml:identifier>
+			<gml:name>Rett bak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9858">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9858</gml:identifier>
+			<gml:name>Venstre bak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9859">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9859</gml:identifier>
+			<gml:name>Venstre side bak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9860">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9860</gml:identifier>
+			<gml:name>Venstre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9861">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9861</gml:identifier>
+			<gml:name>Venstre side foran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9862">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9862</gml:identifier>
+			<gml:name>Venstre foran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9863">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9863</gml:identifier>
+			<gml:name>Rett foran</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9864">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FørsteBerøringspunkt_5101.xml">9864</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

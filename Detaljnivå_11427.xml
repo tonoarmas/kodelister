@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11427">
+	<gml:description>Detaljnivå i vegnettet</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Detaljnivå_11427.xml">Detaljnivå_11427</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19301">
+			<gml:description>Representerer en konstruert senterlinje som den fysiske vegen ikke følger, f.eks. ved fysisk adskilte kjørebaner.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Detaljnivå_11427.xml">19301</gml:identifier>
+			<gml:name>Vegtrase</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19302">
+			<gml:description>Del av veg som består av ett eller flere kjørefelt som ligger inntil hverandre og i samme plan der vegen har fysisk adskilte kjørebaner.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Detaljnivå_11427.xml">19302</gml:identifier>
+			<gml:name>Kjørebane</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19303">
+			<gml:description>Del av veg som er bestemt for en vognrekke</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Detaljnivå_11427.xml">19303</gml:identifier>
+			<gml:name>Kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19304">
+			<gml:description>Del av vegnettet som består av ett eller flere kjørefelt som ligger inntil hverandre og i samme plan der vegen ikke har fysisk adskilte kjørebaner.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Detaljnivå_11427.xml">19304</gml:identifier>
+			<gml:name>Vegtrase og kjørebane</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

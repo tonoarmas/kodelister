@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12087">
+	<gml:description>Angir hvilket tunnelforvalterområde som har ansvar for tunnel.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">Tunnelforvalterområd_12087</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21004">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21004</gml:identifier>
+			<gml:name>N1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21005">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21005</gml:identifier>
+			<gml:name>N2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21006">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21006</gml:identifier>
+			<gml:name>N3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21008">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21008</gml:identifier>
+			<gml:name>M1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21009">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21009</gml:identifier>
+			<gml:name>M2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21010">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21010</gml:identifier>
+			<gml:name>V1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21011">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21011</gml:identifier>
+			<gml:name>V2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21012">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21012</gml:identifier>
+			<gml:name>V3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21013">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21013</gml:identifier>
+			<gml:name>S1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21014">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21014</gml:identifier>
+			<gml:name>S2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21015">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21015</gml:identifier>
+			<gml:name>Ø1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21016">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21016</gml:identifier>
+			<gml:name>Ø2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21017">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21017</gml:identifier>
+			<gml:name>Ø3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21018">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21018</gml:identifier>
+			<gml:name>Ø4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21007">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelforvalterområd_12087.xml">21007</gml:identifier>
+			<gml:name>OPS</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

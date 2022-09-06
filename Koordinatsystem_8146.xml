@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8146">
+	<gml:description>Angir hvilket koordinatsystem som primært benyttes for gitt område.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Koordinatsystem_8146.xml">Koordinatsystem_8146</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="10813">
+			<gml:description>datum NGO1948, projeksjon Gauss-Krüger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Koordinatsystem_8146.xml">10813</gml:identifier>
+			<gml:name>NGO-akse I</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11789">
+	<gml:description>Angir tilstand på stolper i ettergivende rekkverksende.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11789.xml">TilstandEttergivende_11789</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19767">
+			<gml:description>Stolpene i rekkverksende er ok</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11789.xml">19767</gml:identifier>
+			<gml:name>OK</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19758">
+			<gml:description>Det forekommer mekanisk skade på en eller flere stolper</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11789.xml">19758</gml:identifier>
+			<gml:name>Mekanisk skade</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19759">
+			<gml:description>En eller flere stolper er skjeve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11789.xml">19759</gml:identifier>
+			<gml:name>Skjevhet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19760">
+			<gml:description>Fundamentering av stolper er ikke tilfredsstillende</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11789.xml">19760</gml:identifier>
+			<gml:name>Fundament</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

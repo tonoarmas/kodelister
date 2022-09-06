@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11790">
+	<gml:description>Angir tilstand for bruddpinner for ettergvende rekkverksende.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11790.xml">TilstandEttergivende_11790</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19766">
+			<gml:description>Bruddpinner er ok</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11790.xml">19766</gml:identifier>
+			<gml:name>OK</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19761">
+			<gml:description>Det mangler en eller flere bruddpinner</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11790.xml">19761</gml:identifier>
+			<gml:name>Mangler bruddpinner</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

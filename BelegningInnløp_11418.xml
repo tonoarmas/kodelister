@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11418">
+	<gml:description>Angir om det er spesiell belegning i området rundt innløpet av stikkrenna.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningInnløp_11418.xml">BelegningInnløp_11418</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19271">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningInnløp_11418.xml">19271</gml:identifier>
+			<gml:name>Asfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19272">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningInnløp_11418.xml">19272</gml:identifier>
+			<gml:name>Stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19273">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningInnløp_11418.xml">19273</gml:identifier>
+			<gml:name>Ingen/stedlige masser</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

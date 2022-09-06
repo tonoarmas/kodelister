@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1087">
+	<gml:description>Angir materialtype for skjerm.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">MaterialeSkjerm_1087</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2181">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">2181</gml:identifier>
+			<gml:name>Tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3321">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">3321</gml:identifier>
+			<gml:name>Betong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3339">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">3339</gml:identifier>
+			<gml:name>Betongstein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3350">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">3350</gml:identifier>
+			<gml:name>Tegl</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2222">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">2222</gml:identifier>
+			<gml:name>Metall</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2261">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">2261</gml:identifier>
+			<gml:name>Plast</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2359">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">2359</gml:identifier>
+			<gml:name>Kunststoff</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2367">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">2367</gml:identifier>
+			<gml:name>Pleksiglass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17393">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">17393</gml:identifier>
+			<gml:name>Herdet glass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17223">
+			<gml:description>Skjerm som er bygd opp med torv og fremstår som gressdekket.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">17223</gml:identifier>
+			<gml:name>Torvmur med gress</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4963">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialeSkjerm_1087.xml">4963</gml:identifier>
+			<gml:name>Naturstein</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

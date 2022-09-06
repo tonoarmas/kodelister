@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.6981">
+	<gml:description>Angir hva stikkrenne kulvert primært brukes til.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_6981.xml">Bruksområde_6981</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9114">
+			<gml:description>Gjennomløp for å transportere vann på tvers av vegen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_6981.xml">9114</gml:identifier>
+			<gml:name>Vann</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

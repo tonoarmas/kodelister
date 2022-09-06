@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11820">
+	<gml:description>Dimensjonerende branneffekt iht N500.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">DimensjonerendeBrann_11820</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19810">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">19810</gml:identifier>
+			<gml:name>50 MW</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19811">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">19811</gml:identifier>
+			<gml:name>100 MW</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19812">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">19812</gml:identifier>
+			<gml:name>200 MW</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19813">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">19813</gml:identifier>
+			<gml:name>Annen verdi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19814">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/DimensjonerendeBrann_11820.xml">19814</gml:identifier>
+			<gml:name>Ukjent verdi</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

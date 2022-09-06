@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7540">
+	<gml:description>Angir hvilken trafikkretning som betjenes sett i forhold til transportårens retning.  I vegsammenheng vil det si i forhold til metreringsretning.  Mest aktuelt for veg og bane.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkretningNett_7540.xml">TrafikkretningNett_7540</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9769">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkretningNett_7540.xml">9769</gml:identifier>
+			<gml:name>Med nettretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9770">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkretningNett_7540.xml">9770</gml:identifier>
+			<gml:name>Mot nettretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9771">
+			<gml:description>Betjener begge retninger.  Typisk for endeholdeplasser, stoppunkt på jernbane osv.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkretningNett_7540.xml">9771</gml:identifier>
+			<gml:name>Begge</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

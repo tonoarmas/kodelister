@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9546">
+	<gml:description>Koordinatregistering utført på topp eller bunn av et objekt. (Definisjon fra SOSI standard)</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydereferanse_9546.xml">Høydereferanse_9546</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13691">
+			<gml:description>Høyden målt til foten av objektet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydereferanse_9546.xml">13691</gml:identifier>
+			<gml:name>FOT</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13692">
+			<gml:description>Høyden målt til toppen av objektet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydereferanse_9546.xml">13692</gml:identifier>
+			<gml:name>TOP</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13693">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydereferanse_9546.xml">13693</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13690">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydereferanse_9546.xml">13690</gml:identifier>
+			<gml:name>Ikke registrert</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

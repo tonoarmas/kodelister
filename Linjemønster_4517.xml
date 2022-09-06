@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4517">
+	<gml:description>Angir mønster (stipling) for oppmerkingspunkt. Angis som lengde av en punktdel + lengde av mellomrom. Disse verdiene er avhengige av hastighetsområde.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Linjemønster_4517.xml">Linjemønster_4517</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5334">
+			<gml:description>Angir at det skal benyttes standard linjemønster for fartsgrense 50 km/t eller lavere. Dvs 1+3 for kjørefeltlinje, 3+1 for varsellinje, 3+1 for dobbel varsellinje, 2+2 for skillelinje, 1+1 for ledelinje og 3+3 for stiplet kantlinje</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Linjemønster_4517.xml">5334</gml:identifier>
+			<gml:name>Standard tom 50 km/t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5333">
+			<gml:description>Angir at det skal benyttes standard linjemønster for fartsgrense over 50 km/t. Dvs 3+9 for kjørefeltlinje, 9+3 for varsellinje, 9+3 for dobbel varsellinje, 2+2 for skillelinje, 1+1 for ledelinje og 3+3 for stiplet kantlinje</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Linjemønster_4517.xml">5333</gml:identifier>
+			<gml:name>Standard over 50 km/t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21099">
+			<gml:description>Kun aktuell om det er angitt linjetype 1012.2 Stiplet kantlinje. Indikerer da linjemønster 2+2 mot busslomme og mot sideveg i forkjørsregulerte kryss/avkjørsler.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Linjemønster_4517.xml">21099</gml:identifier>
+			<gml:name>Standard lomme og kryss/avkjørsel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21091">
+			<gml:description>Angir at det skal benyttes standard oppmerkingsmønster for sykkel. Benyttes for varsellinje på sykkelveg og gang-/sykkelveg (0,75+0,25) eller for skillelinje mot sykkelfelt (1+1)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Linjemønster_4517.xml">21091</gml:identifier>
+			<gml:name>Standard sykkel</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

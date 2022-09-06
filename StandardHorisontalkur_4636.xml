@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4636">
+	<gml:description>Relatert til strekningssammenligning i henhold til Håndbok om stamvegsutredning. Kurvatur framskaffes vha KurvGen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardHorisontalkur_4636.xml">StandardHorisontalkur_4636</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5589">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardHorisontalkur_4636.xml">5589</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5606">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardHorisontalkur_4636.xml">5606</gml:identifier>
+			<gml:name>Brukbar</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5623">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardHorisontalkur_4636.xml">5623</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

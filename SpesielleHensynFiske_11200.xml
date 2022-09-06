@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11200">
+	<gml:description>Angir om det skal tas spesielle hensyn i forhold til fiskevandring. For mer info se datterobejkt av type "Fysisk inngrep i vannforekomst".</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensynFiske_11200.xml">SpesielleHensynFiske_11200</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18490">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensynFiske_11200.xml">18490</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18491">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensynFiske_11200.xml">18491</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18492">
+			<gml:description>Verdi benyttes om det ikke er avgjort om det skal tas spesielle hensyn eller ikke</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensynFiske_11200.xml">18492</gml:identifier>
+			<gml:name>Uavklart</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

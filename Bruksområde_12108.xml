@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12108">
+	<gml:description>Angir hva som er hovedbruksområdet for fordeling.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_12108.xml">Bruksområde_12108</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21052">
+			<gml:description>Strøm veglys i dagen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_12108.xml">21052</gml:identifier>
+			<gml:name>Veglys</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9246">
+	<gml:description>Angir hvor døgnhvileplass er lokalisert.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">LokalisertVed_9246</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12885">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">12885</gml:identifier>
+			<gml:name>Rasteplass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12886">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">12886</gml:identifier>
+			<gml:name>Bensinstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12887">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">12887</gml:identifier>
+			<gml:name>Vegkro</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12888">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">12888</gml:identifier>
+			<gml:name>Industriområde</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21524">
+			<gml:description>Lokalisert ved annen type virksomhet enn det som framkommer av øvrige alternativ</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LokalisertVed_9246.xml">21524</gml:identifier>
+			<gml:name>Annen virksomhet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

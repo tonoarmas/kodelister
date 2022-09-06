@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2000">
+	<gml:description>Angir hvor utbredt en skade/tilstand er.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbredelse_2000.xml">Utbredelse_2000</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2625">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbredelse_2000.xml">2625</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2630">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbredelse_2000.xml">2630</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2635">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbredelse_2000.xml">2635</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

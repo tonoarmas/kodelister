@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2078">
+	<gml:description>Angir hvilken type strømtilkopling det er til vegobjektet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StrømtilførselKategor_2078.xml">StrømtilførselKategor_2078</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3765">
+			<gml:description>Kabel i bakken</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StrømtilførselKategor_2078.xml">3765</gml:identifier>
+			<gml:name>Jordkabel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3766">
+			<gml:description>Uisolert kabel i luft</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StrømtilførselKategor_2078.xml">3766</gml:identifier>
+			<gml:name>Line</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3857">
+			<gml:description>Isolert kabel i luft</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StrømtilførselKategor_2078.xml">3857</gml:identifier>
+			<gml:name>EX</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5100">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">ReguleringForEnhetIVe_5100</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6585">
+			<gml:description>Ikke i vegkryss eller gangfelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6585</gml:identifier>
+			<gml:name>Ikke i vegkryss eller gangfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6586">
+			<gml:description>Intet spesielt (høyre-regel)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6586</gml:identifier>
+			<gml:name>Intet spesielt (høyre-regel)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6587">
+			<gml:description>Lyssignal i funksjon i kryss eller gangfelt utenfor kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6587</gml:identifier>
+			<gml:name>Lyssignal i funksjon i kryss eller gangfelt utenfor kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6588">
+			<gml:description>Forkjørsveg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6588</gml:identifier>
+			<gml:name>Forkjørsveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6589">
+			<gml:description>Vikeplikt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6589</gml:identifier>
+			<gml:name>Vikeplikt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6590">
+			<gml:description>Stopplikt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6590</gml:identifier>
+			<gml:name>Stopplikt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6591">
+			<gml:description>Skiltet / oppmerket gangfelt (uten lysregulering)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6591</gml:identifier>
+			<gml:name>Skiltet / oppmerket gangfelt (uten lysregulering)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6592">
+			<gml:description>Lyssignal ute av funksjon (gult blinkende lys eller uten lys)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6592</gml:identifier>
+			<gml:name>Lyssignal ute av funksjon (gult blinkende lys eller uten lys)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6593">
+			<gml:description>Annen regulering i vegkryss, inkludert midlertidig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6593</gml:identifier>
+			<gml:name>Annen regulering i vegkryss, inkludert midlertidig</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6594">
+			<gml:description>ukjent   </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ReguleringForEnhetIVe_5100.xml">6594</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

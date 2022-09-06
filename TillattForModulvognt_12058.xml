@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12058">
+	<gml:description>Angir om det er tillatt for modulvogntog 1 og 2 med sporingskrav.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TillattForModulvognt_12058.xml">TillattForModulvognt_12058</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20913">
+			<gml:description>Indikerer at det er lovlig å kjøre modulvogntog på strekningen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TillattForModulvognt_12058.xml">20913</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

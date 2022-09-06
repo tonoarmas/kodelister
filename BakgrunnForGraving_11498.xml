@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11498">
+	<gml:description>Angir hvilken type graving/tillatelse det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BakgrunnForGraving_11498.xml">BakgrunnForGraving_11498</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19532">
+			<gml:description>Graving i tilknytning til etablering av ny infrastruktur el.l.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BakgrunnForGraving_11498.xml">19532</gml:identifier>
+			<gml:name>Nyetablering</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19533">
+			<gml:description>Graving i tilknytning til planlagt vedlikehold på eksisterende infrastruktur el.l.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BakgrunnForGraving_11498.xml">19533</gml:identifier>
+			<gml:name>Planlagt vedlikehold</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19534">
+			<gml:description>Graving i tilknytning til akutt vedlikehold på eksisterende infrastruktur el.l. Kan f.eks være lekkasje, kabelbrudd etc.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BakgrunnForGraving_11498.xml">19534</gml:identifier>
+			<gml:name>Akutt vedlikehold</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

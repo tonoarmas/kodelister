@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9103">
+	<gml:description>Type tilak fra liste med tillatte verdier</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">Tiltaktype_9103</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12009">
+			<gml:description>Myntet på fisk og øvrig ferskvannsfauna for å forbedre/gjenskape naturlig infrastruktur. Gjelder vandringshinder (fall, substrat og bunnforhold). Gjerne supplert med "bankett" for landlevende dyr og amfibier</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12009</gml:identifier>
+			<gml:name>Vannpassasje under veg (om)bygges</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12010">
+			<gml:description>Myntet på alle typer vilt, amfibier, flaggermus m.fl.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12010</gml:identifier>
+			<gml:name>Miljøundergang (om)bygges</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12011">
+			<gml:description>Hjortevilt og andre landlevende arter, fugl, flaggermus, insekter, planter m fl.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12011</gml:identifier>
+			<gml:name>Miljøovergang (om)bygges</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12012">
+			<gml:description>Viltgjerder/ledegjerder/voller o.a. Myntet på hjortevilt, andre pattedyr, fugler (voll), og amfibier. Inkluderer viltsperrer for å hindre at vilt tar seg ut i områder hvor de ikke er ønsket, f eks øyer med bakkehekkende fugl. Kan øke barriereeffekten.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12012</gml:identifier>
+			<gml:name>Stengsler for å holde dyr unna vegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12013">
+			<gml:description>Gjelder alle pattedyr, men særlig hjortedyr. Tiltak som reduserer antallet viltpåkjørsler uten å øke barriereeffekten er å foretrekke. For store dyr er det en synergieffekt med tanke på trafikksikkerhet. Dersom dyrene trekker mot vegen fordi den fungerer som barriere i et ellers viktig trekkområde vil slike tiltak ikke løse hovedproblemet. Formål: Å redusere risikoen for at dyre blir påkjørt, ved å hindre dem i å bevege seg ut på vegen og/eller ved å lede dem til sikre krysningspunkter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12013</gml:identifier>
+			<gml:name>Ikke-barriereskapende tiltak for å holde dyr unna vegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12014">
+			<gml:description>Myntet på fugle- og pattedyrfauna. Aktuelt tiltak der særlig viktige hekkeområder ligger tett på vegen (gråor-heggeskoger, våtmarker etc.) Også aktuelt der vegstøy innvirker negativt på funksjonsområder for hjortedyr, særlig der effekten av faunapassasjer reduseres. F eks planting av levegetasjon eller etablering av støyvoll/-skjerm.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12014</gml:identifier>
+			<gml:name>Fysiske tiltak for å skjerme forekomster langs vegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12016">
+			<gml:description>Ekstraordinære tiltak for vannbeskyttelse anbefales i særlig sårbare områder ? for eksempel naturreservater og andre svært viktige lokaliteter med arts- og individrike bunndyr- og plantesamfunn.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12016</gml:identifier>
+			<gml:name>Behandling av overflatevann forbedres</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12017">
+			<gml:description>Bruk av viltskilt skal i hht skiltnormalene kun brukes der det er stor fare for å påtreffe vilt i vegbanen. Sesongvarierende skilting øker trafikantenes respekt for skiltet.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12017</gml:identifier>
+			<gml:name>Skilting</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12018">
+			<gml:description>Etablering av nye habitater som f eks våtmarker eller dammer for amfibier som kompensasjon for ødelagte habitater.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12018</gml:identifier>
+			<gml:name>Økologisk kompensasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12019">
+			<gml:description>Samlesekk for tiltak som ikke er fanget opp av andre punkter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12019</gml:identifier>
+			<gml:name>Andre investeringstiltak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12032">
+			<gml:description>For å minimere inngrepet etter utbygging kan anleggsområdene (og eventuelt vegkanten) restaureres tilbake til en best mulig økologisk veltilpasset vegetasjonstype.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12032</gml:identifier>
+			<gml:name>Økologisk restaurering av anleggsområder og vegkanter ved nye anlegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12020">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12020</gml:identifier>
+			<gml:name>Ingen aktuelle investeringstiltak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12015">
+			<gml:description>Vannbeskyttelse. Bør i denne sammenheng anbefales hvis det er dokumentert særlig sårbare systemer/systemer med klar indikasjon på saltskader nær vegen. Jf UTB-rapport 2006/06.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12015</gml:identifier>
+			<gml:name>Saltingsregime endres</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12021">
+			<gml:description>Vedlikehold av rensedammer, drifting av "selvrensende" grøfter.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12021</gml:identifier>
+			<gml:name>Behandling av overflatevann forbedres (D/V)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12022">
+			<gml:description>Artsrike vegkanter kan trenge tilpasset skjøtselsregime.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12022</gml:identifier>
+			<gml:name>Slåtteregime endres</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12023">
+			<gml:description>Bekjempelse av uønskete og aggressivt invaderende arter, aktivt eller gjennom skjøtsel tilrettelagt for å fremme stedegne arter. Restriktiv bruk av ikke-stedegne arter i beplanting. Stedstilpassete frøblandinger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12023</gml:identifier>
+			<gml:name>Tiltak mot uønskete arter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12024">
+			<gml:description>Siktrydding i viltsoner øker oppdagelsesavstanden gjensidig. Vegetasjonsfjerning/tynning reduserer forekomst av beitende dyr langs vegen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12024</gml:identifier>
+			<gml:name>Siktrydding/tynning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12963">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12963</gml:identifier>
+			<gml:name>Tynning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12025">
+			<gml:description>Vedlikehold av strandsoner, forbygninger, kulverter og andre kontaktpunkter med vann, både med tanke på erosjon og at oppsamlet materiale og kvist og kvast kan virke som vandringshinder. Sikring av rasmark og andre erosjonsutsatte arealer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12025</gml:identifier>
+			<gml:name>Erosjonssikring og opprydding</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12026">
+			<gml:description>Gamle, verdifulle trær og alleer kan trenge tilpasset skjøtsel. Store trær kan falle over og legge ned viltgjerder.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12026</gml:identifier>
+			<gml:name>Sikring av store trær</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12027">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12027</gml:identifier>
+			<gml:name>Vedlikehold av gjerder</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12028">
+			<gml:description>Bruken av faunapassasjer (våte/tørre, over/under) kan bli sterkt påvirket av manglende vedlikehold. Endringer i forholdene på lokaliteten kan også føre til at tiltaket ikke lenger er tilgjengelig. Formål: Sikre at effektiviteten til faunapassasjen opprettholdes og om mulig forbedres</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12028</gml:identifier>
+			<gml:name>Vedlikehold av faunapassasjer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12031">
+			<gml:description>Situasjonsbestemt skilting kan øke trafikantenes oppmerksomhet i perioder med mye viltaktivitet. Midlertidig stopp-/stansforbud og fjerning av P-/rasteplasser kan være et positivt tiltak der vilttrekk over vegen forstyrres av menneskelig ferdsel ut fra P-plasser eller hensatte biler langs vegen. I spesielle tilfeller kan det være hensiktsmessig å vurdere midlertidig stenging av en vegstrekning, jf rv 7 Hardangervidda og villreinen. Redusert hastighet på strekninger og i perioder med spesielt mye viltaktivitet kan redusere risikoen for alvorlige viltulykker og redusere barriereeffekten.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12031</gml:identifier>
+			<gml:name>Viltbeskyttende tiltak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12029">
+			<gml:description>Tiltak som ikke er nevnt over. F eks tiltak for å redusere kanteffekten i skog, 
+tilrettelegge for naturlig revegetering fra stedlige toppmasser inn mot skoggrensen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12029</gml:identifier>
+			<gml:name>Andre drifts- og vedlikeholdstiltak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12030">
+			<gml:description>Brukes dersom det ikke finnes noen relevante tiltak som kan avbøte situasjonen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tiltaktype_9103.xml">12030</gml:identifier>
+			<gml:name>Ingen aktuelle drift- og vedlikeholdstiltak</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

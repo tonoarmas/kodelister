@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10842">
+	<gml:description>Angir hva som er status for behandling av forekomsten.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StatusBehandling_10842.xml">StatusBehandling_10842</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17879">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StatusBehandling_10842.xml">17879</gml:identifier>
+			<gml:name>Ikke tidligere behandlet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17880">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StatusBehandling_10842.xml">17880</gml:identifier>
+			<gml:name>Behandling pågår</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17881">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StatusBehandling_10842.xml">17881</gml:identifier>
+			<gml:name>Bekjempes/overvåkes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17882">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StatusBehandling_10842.xml">17882</gml:identifier>
+			<gml:name>Antatt utryddet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

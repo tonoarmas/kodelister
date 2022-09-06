@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5808">
+	<gml:description>Angir hvem som er ansvarlig for vedlikehold av vegobjektet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5808.xml">Vedlikeholdsansvarlig_5808</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="8203">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5808.xml">8203</gml:identifier>
+			<gml:name>Statens vegvesen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

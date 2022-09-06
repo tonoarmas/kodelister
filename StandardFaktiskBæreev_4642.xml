@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4642">
+	<gml:description>Bæreevne relatert til levetidsfaktor hentet ut fra PMS. Forhold mellom funksjonell dekkelevetid og normert dekkelevetid ( Håndbok N200 (018) Vegbygging )</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardFaktiskBæreev_4642.xml">StandardFaktiskBæreev_4642</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5595">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardFaktiskBæreev_4642.xml">5595</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5629">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StandardFaktiskBæreev_4642.xml">5629</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5270">
+	<gml:description>Angir hvilken type hinder det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">TypeHinder_5270</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="8151">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8151</gml:identifier>
+			<gml:name>Undergang/Bru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8155">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8155</gml:identifier>
+			<gml:name>Skredoverbygg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8149">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8149</gml:identifier>
+			<gml:name>Bru-stag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7280">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">7280</gml:identifier>
+			<gml:name>Kjøreledning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7282">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">7282</gml:identifier>
+			<gml:name>Kabel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8168">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8168</gml:identifier>
+			<gml:name>Brukabler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7284">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">7284</gml:identifier>
+			<gml:name>Skiltportal/wire</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8174">
+			<gml:description>Høydebegrensing på standard ferje på gitt ferjesamband</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8174</gml:identifier>
+			<gml:name>Ferjesamband</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8150">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8150</gml:identifier>
+			<gml:name>Tunnel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8175">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8175</gml:identifier>
+			<gml:name>Bygning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8166">
+			<gml:description>Type høydebegrensing som ikke dekkes av de andre verdiene.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeHinder_5270.xml">8166</gml:identifier>
+			<gml:name>Annet hinder</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

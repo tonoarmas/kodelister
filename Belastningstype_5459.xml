@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5459">
+	<gml:description>Angir belastningstype</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belastningstype_5459.xml">Belastningstype_5459</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7376">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belastningstype_5459.xml">7376</gml:identifier>
+			<gml:name>Langs sjø/vann</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7377">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belastningstype_5459.xml">7377</gml:identifier>
+			<gml:name>Krysser passeringsområder for fauna</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7378">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belastningstype_5459.xml">7378</gml:identifier>
+			<gml:name>Øvrige</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

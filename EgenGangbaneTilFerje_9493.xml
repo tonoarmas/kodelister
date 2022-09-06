@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9493">
+	<gml:description>Angir om det er egen gangbane for gående for ombordstigning til ferje.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/EgenGangbaneTilFerje_9493.xml">EgenGangbaneTilFerje_9493</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13373">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/EgenGangbaneTilFerje_9493.xml">13373</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13374">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/EgenGangbaneTilFerje_9493.xml">13374</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17378">
+			<gml:description>Angir at det delvis er egen gangbane og/eller at det er gangbane til ei ferje/ferjelem og ikke til annen. Det skal gis mer informasjon under "Tilleggsinformasjon"</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/EgenGangbaneTilFerje_9493.xml">17378</gml:identifier>
+			<gml:name>Delvis</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

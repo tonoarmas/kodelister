@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2328">
+	<gml:description>Angir løsneområde for skredet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">Løsneområde_2328</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4194">
+			<gml:description>Inkluderer område &lt; 50 m fra tunnel. Merknad: Verdi skal ikke benyttes ved nye registreringer, det angis i stedet verdi "Vegskjæring", "Fjell/dalside" eller "Ur"</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">4194</gml:identifier>
+			<gml:name>Tunnelmunning (historisk)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4195">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">4195</gml:identifier>
+			<gml:name>Vegskjæring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4196">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">4196</gml:identifier>
+			<gml:name>Ur</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4197">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">4197</gml:identifier>
+			<gml:name>Fjell/dalside</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5349">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">5349</gml:identifier>
+			<gml:name>Inne i tunnel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13104">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Løsneområde_2328.xml">13104</gml:identifier>
+			<gml:name>Vegbane/-fylling</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

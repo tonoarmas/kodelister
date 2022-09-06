@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10029">
+	<gml:description>Angir hvordan elkraft er distribuert mellom siste transformator før konsument og konsument.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">Nettsystem_10029</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16330">
+			<gml:description>IT-nett (Isolated Terra) er en nett-type der transformatorens nullpunkt ikke er jordet, men er beskyttet med et gnistgap (disneuter) mellom nullpunkt og jord.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">16330</gml:identifier>
+			<gml:name>IT</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16331">
+			<gml:description>Et TT-nett (Terra Terra) er lik et IT-nett med den vesentlige forskjellen at transformatorens nullpunkt er jordet.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">16331</gml:identifier>
+			<gml:name>TT</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16332">
+			<gml:description>Nett der PEN-leder fremføres fra trafo til forbrukerens første fordeling (sikringskap). Her splittes PEN-lederen opp i PE-leder (Protective Earth) eller jordleder og N-leder (Neutral). Energien kan taes ut både mellom de tre fasene (400V) og mellom hver av fasene og N-leder (230V). C angir at PEN-lederen frem til første fordeling er en kombinert leder (Combined)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">16332</gml:identifier>
+			<gml:name>TN-C</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16333">
+			<gml:description>Nett der PEN-leder fremføres fra trafo til forbrukerens første fordeling (sikringskap). Her splittes PEN-lederen opp i PE-leder (Protective Earth) eller jordleder og N-leder (Neutral). Energien kan taes ut både mellom de tre fasene (400V) og mellom hver av fasene og N-leder (230V). S angir at PEN-leren er delt (Separated) fra første fordeling.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">16333</gml:identifier>
+			<gml:name>TN-S</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16334">
+			<gml:description>TN Nett hvor C angir at PEN-lederen frem til første fordeling er en kombinert leder (Combined). S angir at PEN-leren er delt (Separated) fra første fordeling.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nettsystem_10029.xml">16334</gml:identifier>
+			<gml:name>TN-C-S</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

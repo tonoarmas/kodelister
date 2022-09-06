@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11952">
+	<gml:description>Angir hvilken farge belegning framstår med.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">BelegningFarge_11952</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20279">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20279</gml:identifier>
+			<gml:name>Rød</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20281">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20281</gml:identifier>
+			<gml:name>Grønn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20282">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20282</gml:identifier>
+			<gml:name>Blå</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20283">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20283</gml:identifier>
+			<gml:name>Gul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20280">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20280</gml:identifier>
+			<gml:name>Hvit</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20284">
+			<gml:description>Det er ikke tilsatt fargestoff.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20284</gml:identifier>
+			<gml:name>Naturlig materialfarge</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20285">
+			<gml:description>Tilsatt annenfarge. Farge kan oppgis under tilleggsinformasjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningFarge_11952.xml">20285</gml:identifier>
+			<gml:name>Annen farge</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

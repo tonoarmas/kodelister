@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10032">
+	<gml:description>Angir hvilken type jordelektrode som er benyttet i anlegget.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Jordelektrode_10032.xml">Jordelektrode_10032</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16340">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Jordelektrode_10032.xml">16340</gml:identifier>
+			<gml:name>Spyd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16341">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Jordelektrode_10032.xml">16341</gml:identifier>
+			<gml:name>Sammenkoplet med annet nett</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16339">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Jordelektrode_10032.xml">16339</gml:identifier>
+			<gml:name>Cu wiret</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16337">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Jordelektrode_10032.xml">16337</gml:identifier>
+			<gml:name>Annet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

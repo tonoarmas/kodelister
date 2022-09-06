@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8401">
+	<gml:description>Angir hvordan glasset på armaturen er utformet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AvskjermingMateriale_8401.xml">AvskjermingMateriale_8401</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11333">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AvskjermingMateriale_8401.xml">11333</gml:identifier>
+			<gml:name>Plant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11334">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AvskjermingMateriale_8401.xml">11334</gml:identifier>
+			<gml:name>Buet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

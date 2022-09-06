@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12081">
+	<gml:description>Angir hva som er hovedbruksområde til radaren.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_12081.xml">Bruksområde_12081</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20990">
+			<gml:description>Radar registrerer bevegelsesmønster i trafikken og kan melde fra om avvik</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_12081.xml">20990</gml:identifier>
+			<gml:name>Hendelsesdetektering/trafikkovervåkning</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

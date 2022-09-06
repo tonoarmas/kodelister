@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1105">
+	<gml:description>Angir hvilken type vegobjektet er av.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1105.xml">Type_1105</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2498">
+			<gml:description>Heve-/senkebommer åpnes og lukkes ved å heve/senke vegbommen.  Heve-/senkebom kan sperre hele eller deler av vegbanen. Merknad: I tilfeller med heve-/senkebommer på begge side av vegen i samme snitt skal det registreres to forekomster av vegbom.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1105.xml">2498</gml:identifier>
+			<gml:name>Heve-/senkebom</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

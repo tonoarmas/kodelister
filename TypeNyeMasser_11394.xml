@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11394">
+	<gml:description>Type masser det er skiftet ut til.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeNyeMasser_11394.xml">TypeNyeMasser_11394</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19231">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeNyeMasser_11394.xml">19231</gml:identifier>
+			<gml:name>Sprengt stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19232">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeNyeMasser_11394.xml">19232</gml:identifier>
+			<gml:name>Sand/grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19233">
+			<gml:description>Masser i kategorien "lette masser". Detaljer spesifiseres i ET 11398 "Tilleggsinformasjon"</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeNyeMasser_11394.xml">19233</gml:identifier>
+			<gml:name>Lette masser</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19234">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeNyeMasser_11394.xml">19234</gml:identifier>
+			<gml:name>Knuste masser</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

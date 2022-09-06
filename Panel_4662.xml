@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4662">
+	<gml:description>Felles betegnelse på elementer i et stålrekkverk som plasseres mellom stolpene, som f.eks sprosser, brøytetette gitter e.l. (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Panel_4662.xml">Panel_4662</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5730">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Panel_4662.xml">5730</gml:identifier>
+			<gml:name>Sprosse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5731">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Panel_4662.xml">5731</gml:identifier>
+			<gml:name>Gitter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20077">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Panel_4662.xml">20077</gml:identifier>
+			<gml:name>Pleksiglass</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

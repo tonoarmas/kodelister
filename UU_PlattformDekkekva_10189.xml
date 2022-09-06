@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10189">
+	<gml:description>Dekkekvalitet på Holdeplassutrustning.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformDekkekva_10189.xml">UU_PlattformDekkekva_10189</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16598">
+			<gml:description>Stabilt og jevnt dekke uten sjenerende skader</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformDekkekva_10189.xml">16598</gml:identifier>
+			<gml:name>God</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16599">
+			<gml:description>Noen ujevnheter og/eller mindre skader</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformDekkekva_10189.xml">16599</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16600">
+			<gml:description>Ujevnt og/eller betydelig skadd dekke</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformDekkekva_10189.xml">16600</gml:identifier>
+			<gml:name>Dårlig</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

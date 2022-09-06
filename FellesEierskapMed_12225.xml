@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12225">
+	<gml:description>Angir eier medeier. Om det er flere enn 2 eiere velges verdi "Flere enn 2 eiere". Informasjon om eierforhold legges da som tekst under tilleggsinformasjon.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">FellesEierskapMed_12225</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21308">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21308</gml:identifier>
+			<gml:name>Stat, Statens vegvesen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21309">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21309</gml:identifier>
+			<gml:name>Stat, Nye Veier</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21310">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21310</gml:identifier>
+			<gml:name>Viken fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21311">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21311</gml:identifier>
+			<gml:name>Innlandet fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21312">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21312</gml:identifier>
+			<gml:name>Vestfold og Telemark fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21313">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21313</gml:identifier>
+			<gml:name>Agder fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21314">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21314</gml:identifier>
+			<gml:name>Rogaland fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21315">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21315</gml:identifier>
+			<gml:name>Vestland fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21316">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21316</gml:identifier>
+			<gml:name>Møre og Romsdal fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21317">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21317</gml:identifier>
+			<gml:name>Trøndelag fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21318">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21318</gml:identifier>
+			<gml:name>Nordland fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21319">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21319</gml:identifier>
+			<gml:name>Troms og Finnmark fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21320">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21320</gml:identifier>
+			<gml:name>Oslo kommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21321">
+			<gml:description>Kommuner med unntak av Oslo kommune</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21321</gml:identifier>
+			<gml:name>Kommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21322">
+			<gml:description>Verdi gis dersom det er flere enn to eiere. Informasjon om eierforhold legges da inn under tilleggsinformasjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FellesEierskapMed_12225.xml">21322</gml:identifier>
+			<gml:name>Flere enn 2 eiere</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

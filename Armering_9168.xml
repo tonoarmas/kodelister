@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9168">
+	<gml:description>Angir om det er armering, og i tilfelle hvilken type.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armering_9168.xml">Armering_9168</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12257">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armering_9168.xml">12257</gml:identifier>
+			<gml:name>Enkel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12258">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armering_9168.xml">12258</gml:identifier>
+			<gml:name>Dobbel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12259">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armering_9168.xml">12259</gml:identifier>
+			<gml:name>Ingen armering</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11908">
+	<gml:description>Ulykkestype.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">Ulykkestype_Ny__11908</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20232">
+			<gml:description>Samme kjøreretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20232</gml:identifier>
+			<gml:name>Samme kjøreretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20233">
+			<gml:description>Motsatt kjøreretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20233</gml:identifier>
+			<gml:name>Motsatt kjøreretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20234">
+			<gml:description>Kryssende kjørereretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20234</gml:identifier>
+			<gml:name>Kryssende kjørereretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20235">
+			<gml:description>Fotgjenger/akende</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20235</gml:identifier>
+			<gml:name>Fotgjenger/akende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20236">
+			<gml:description>Utforkjøring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20236</gml:identifier>
+			<gml:name>Utforkjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20237">
+			<gml:description>Andre ulykker</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ulykkestype_Ny__11908.xml">20237</gml:identifier>
+			<gml:name>Andre ulykker</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

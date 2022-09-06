@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9534">
+	<gml:description>Angir hvilke kilde dataene kommer fra.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnlag_9534.xml">Grunnlag_9534</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13456">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnlag_9534.xml">13456</gml:identifier>
+			<gml:name>FKB</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13457">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnlag_9534.xml">13457</gml:identifier>
+			<gml:name>Laserdata, dekketilstand</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13458">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnlag_9534.xml">13458</gml:identifier>
+			<gml:name>Manuell måling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20910">
+			<gml:description>Vegbreddedata er hentet fra plan/prosjektering. Kan være direkte fra normalprofil.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Grunnlag_9534.xml">20910</gml:identifier>
+			<gml:name>Fra plan/prosjektering</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11274">
+	<gml:description>Angir hvor lys er montert.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Montasje_11274.xml">Montasje_11274</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19016">
+			<gml:description>Rømningslys er festet på tunnelvegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Montasje_11274.xml">19016</gml:identifier>
+			<gml:name>På tunnelvegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19017">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Montasje_11274.xml">19017</gml:identifier>
+			<gml:name>I håndlist</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

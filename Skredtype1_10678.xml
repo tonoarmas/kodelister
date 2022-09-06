@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10678">
+	<gml:description>Angir vanligste skredtype som gir skred på veg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">Skredtype1_10678</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17234">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17234</gml:identifier>
+			<gml:name>Stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17235">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17235</gml:identifier>
+			<gml:name>Jord/løsmasse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17236">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17236</gml:identifier>
+			<gml:name>Snø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17237">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17237</gml:identifier>
+			<gml:name>Is</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17238">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17238</gml:identifier>
+			<gml:name>Flomskred</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17239">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17239</gml:identifier>
+			<gml:name>Is/stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17240">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17240</gml:identifier>
+			<gml:name>Sørpeskred</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17241">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype1_10678.xml">17241</gml:identifier>
+			<gml:name>Utglidning av v eg</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

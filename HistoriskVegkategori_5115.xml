@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5115">
+	<gml:description>Vegkategori på ulykkestidspunktet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">HistoriskVegkategori_5115</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6979">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6979</gml:identifier>
+			<gml:name>Europaveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9844">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">9844</gml:identifier>
+			<gml:name>Riksveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6980">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6980</gml:identifier>
+			<gml:name>Fylkesveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6981">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6981</gml:identifier>
+			<gml:name>Kommunal veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6982">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6982</gml:identifier>
+			<gml:name>Privat veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6983">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6983</gml:identifier>
+			<gml:name>Skogsbilveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6984">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6984</gml:identifier>
+			<gml:name>Gang/Sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6985">
+			<gml:description>Usikker på definisjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6985</gml:identifier>
+			<gml:name>B</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6986">
+			<gml:description>Usikker på definisjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegkategori_5115.xml">6986</gml:identifier>
+			<gml:name>T</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

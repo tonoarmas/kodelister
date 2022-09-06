@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12235">
+	<gml:description>Angir hvilken type område det er tale om. Eier av område må selv defienre hva som legges i den aktuelle områdetypen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">Områdetype_12235</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21350">
+			<gml:description>Områdetype A. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21350</gml:identifier>
+			<gml:name>A</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21351">
+			<gml:description>Områdetype B. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21351</gml:identifier>
+			<gml:name>B</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21352">
+			<gml:description>Områdetype C. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21352</gml:identifier>
+			<gml:name>C</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21353">
+			<gml:description>Områdetype D. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21353</gml:identifier>
+			<gml:name>D</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21354">
+			<gml:description>Områdetype E. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21354</gml:identifier>
+			<gml:name>E</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21355">
+			<gml:description>Områdetype F. Områdeeier definerer hva som ligger i denne områdetypen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Områdetype_12235.xml">21355</gml:identifier>
+			<gml:name>F</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

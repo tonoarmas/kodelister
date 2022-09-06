@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10037">
+	<gml:description>Angir i hvilken grad vernet som er nærmest feilstedet løser seg ut ved en feil.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Selektivitet_10037.xml">Selektivitet_10037</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16356">
+			<gml:description>Mer enn et (men ikke alle) vern utløses ved feil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Selektivitet_10037.xml">16356</gml:identifier>
+			<gml:name>Delvis</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16357">
+			<gml:description>Kun vernet nærmest feilstedet utløses ved feil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Selektivitet_10037.xml">16357</gml:identifier>
+			<gml:name>Full</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16358">
+			<gml:description>Ingen prioritering av vern</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Selektivitet_10037.xml">16358</gml:identifier>
+			<gml:name>Ingen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

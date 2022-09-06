@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10635">
+	<gml:description>Tilstandsgrad, Samlet vurdering, teoretisk automatikk. 0=TG0, 1=TG1, 2=TG3, 3=TG3, 8=TGIU, 9=TGmang.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">TGSamletVurderingTeo_10635</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17064">
+			<gml:description>Tilstandsgrad 0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17064</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17090">
+			<gml:description>Tilstandsgrad 1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17090</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17116">
+			<gml:description>Tilstandsgrad 2</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17116</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17142">
+			<gml:description>Tilstandsgrad 3</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17142</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17168">
+			<gml:description>Tilstandsgrad Ikke Undersøkt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17168</gml:identifier>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17194">
+			<gml:description>Tilstandsgrad mangler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10635.xml">17194</gml:identifier>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

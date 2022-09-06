@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7582">
+	<gml:description>Rapporttype</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">Rapporttype_7582</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9867">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9867</gml:identifier>
+			<gml:name>Punkt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9868">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9868</gml:identifier>
+			<gml:name>Strekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9869">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9869</gml:identifier>
+			<gml:name>Vegnett</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9870">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9870</gml:identifier>
+			<gml:name>Detaljert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9871">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9871</gml:identifier>
+			<gml:name>Mangel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9872">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9872</gml:identifier>
+			<gml:name>Generiskdetaljert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9873">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rapporttype_7582.xml">9873</gml:identifier>
+			<gml:name>Hjelpefil</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

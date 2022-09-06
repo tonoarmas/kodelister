@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4576">
+	<gml:description>Angir bruddkode 1.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">Brkode1_4576</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5519">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">5519</gml:identifier>
+			<gml:name> </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5524">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">5524</gml:identifier>
+			<gml:name>Slutt kmbrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5521">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">5521</gml:identifier>
+			<gml:name>Start envegmed</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5522">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">5522</gml:identifier>
+			<gml:name>Start envegmot</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5775">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode1_4576.xml">5775</gml:identifier>
+			<gml:name>Start hovedparsell</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

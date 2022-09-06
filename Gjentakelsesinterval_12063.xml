@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12063">
+	<gml:description>Angir hvor ofte denne type naturfare (problem) statistisk sett oppstår på strekningen. Det defineres som at problemet har inntruffet, ikke bare om vegen blir stengt, men også om det er behov for økt beredskap og enkelte restriksjoner som f.eks. nedsatt hastighet, sperring av ett kjørefelt mm. Gjentaksintervall er styrt av hvor stor del av året problemet er tilstede. Det kreves derfor færre hendelser av vinterproblemet snøfokk enn helårsproblemet bølger for å gi et høyt gjentaksintervall.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Gjentakelsesinterval_12063.xml">Gjentakelsesinterval_12063</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20932">
+			<gml:description>Problemet forventes å opptre flere ganger per måned</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Gjentakelsesinterval_12063.xml">20932</gml:identifier>
+			<gml:name>Flere ganger per månded</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

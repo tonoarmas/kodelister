@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7015">
+	<gml:description>Angir hvilken type tilkopling kameraet har.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTilkopling_7015.xml">TypeTilkopling_7015</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9298">
+			<gml:description>Overfører bilde via Ethernett. IP-kamera</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTilkopling_7015.xml">9298</gml:identifier>
+			<gml:name>Digital</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9299">
+			<gml:description>Ikke overføringav bilde via ethernett, men f.eks ccoax</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTilkopling_7015.xml">9299</gml:identifier>
+			<gml:name>Analog</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

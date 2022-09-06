@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11023">
+	<gml:description>Angir en faktor for beredskapen og håndteringsevnen for angitt bruddhendelse.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_38_FaktorvektB_11023.xml">Utgår_38_FaktorvektB_11023</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18457">
+			<gml:description>Beredskap tilpasset bruddhendelsen. God håndteringsevne.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_38_FaktorvektB_11023.xml">18457</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18458">
+			<gml:description>Beredskap delvis tilpasset bruddhendelsen. Middels håndteringsevne.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_38_FaktorvektB_11023.xml">18458</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18459">
+			<gml:description>Beredskap ikke tilpasset bruddhendelsen. Liten håndteringsevne.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_38_FaktorvektB_11023.xml">18459</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

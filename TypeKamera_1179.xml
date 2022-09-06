@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1179">
+	<gml:description>Angir hvilken type kamera det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">TypeKamera_1179</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="9296">
+			<gml:description>Videokamera som har fast innstilt bildeutsnitt. Ikke styrbart mhp vinkel, zoom etc</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">9296</gml:identifier>
+			<gml:name>Fast videokamera</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20995">
+			<gml:description>Videokamera som er svingbart/zoombart. (PTZ=Pan, Tilt, Zoom).</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">20995</gml:identifier>
+			<gml:name>Bevegelig videokamera (PTZ/dome)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9297">
+			<gml:description>Kamera som kun benyttes til å ta bilder. F.eks i forbindelse med ATK eller andre spesielle situasjoner.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">9297</gml:identifier>
+			<gml:name>Fotokamera</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18473">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">18473</gml:identifier>
+			<gml:name>Utgår_IP-kamera</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19478">
+			<gml:description>Kamera som benyttes for å avlese temperatur på en overflate</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKamera_1179.xml">19478</gml:identifier>
+			<gml:name>Utgår_Termokamera</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11188">
+	<gml:description>Angir faktor for andel tunge kjøretøy.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_36_FaktorvektA_11188.xml">Utgår_36_FaktorvektA_11188</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18481">
+			<gml:description>Liten andel tunge kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_36_FaktorvektA_11188.xml">18481</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18482">
+			<gml:description>Middels andel tunge kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_36_FaktorvektA_11188.xml">18482</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18483">
+			<gml:description>Høy andel tunde kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_36_FaktorvektA_11188.xml">18483</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

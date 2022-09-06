@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9519">
+	<gml:description>Angir i hvilken kjøreretning det blir gjort trafikkontroll.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kontrollretning_9519.xml">Kontrollretning_9519</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13436">
+			<gml:description>Det blir foretatt måling i samme retning som metreringsretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kontrollretning_9519.xml">13436</gml:identifier>
+			<gml:name>Med metreringsretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13437">
+			<gml:description>Det blir foretatt måling i motsatt retning av metreringsretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kontrollretning_9519.xml">13437</gml:identifier>
+			<gml:name>Mot metreringsretning</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

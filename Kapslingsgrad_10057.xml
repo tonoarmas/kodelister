@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10057">
+	<gml:description>Skapets evne til å motstå støv og vann. Første siffer er støv, andre er vann. Går fra 00 til 68.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">Kapslingsgrad_10057</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16365">
+			<gml:description>Inntrenging : Ingen beskyttelse. Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16365</gml:identifier>
+			<gml:name>IP00</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16366">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16366</gml:identifier>
+			<gml:name>IP01</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16367">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16367</gml:identifier>
+			<gml:name>IP02</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16368">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16368</gml:identifier>
+			<gml:name>IP03</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16369">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16369</gml:identifier>
+			<gml:name>IP04</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16370">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16370</gml:identifier>
+			<gml:name>IP05</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16371">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16371</gml:identifier>
+			<gml:name>IP06</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16372">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16372</gml:identifier>
+			<gml:name>IP07</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16373">
+			<gml:description>Inntrenging: Ingen beskyttelse. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16373</gml:identifier>
+			<gml:name>IP08</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16374">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16374</gml:identifier>
+			<gml:name>IP10</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16375">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16375</gml:identifier>
+			<gml:name>IP11</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16376">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16376</gml:identifier>
+			<gml:name>IP12</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16377">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16377</gml:identifier>
+			<gml:name>IP13</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16378">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16378</gml:identifier>
+			<gml:name>IP14</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16379">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16379</gml:identifier>
+			<gml:name>IP15</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16380">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16380</gml:identifier>
+			<gml:name>IP16</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16381">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16381</gml:identifier>
+			<gml:name>IP17</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16382">
+			<gml:description>Inntrenging: Store kroppsdeler, for eksempel en håndflate (&gt;50mm). Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16382</gml:identifier>
+			<gml:name>IP18</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16383">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter.  Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16383</gml:identifier>
+			<gml:name>IP20</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16384">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16384</gml:identifier>
+			<gml:name>IP21</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16385">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16385</gml:identifier>
+			<gml:name>IP22</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16386">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16386</gml:identifier>
+			<gml:name>IP23</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16387">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16387</gml:identifier>
+			<gml:name>IP24</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16388">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16388</gml:identifier>
+			<gml:name>IP25</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16389">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16389</gml:identifier>
+			<gml:name>IP26</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16390">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16390</gml:identifier>
+			<gml:name>IP27</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16391">
+			<gml:description>Inntrenging: Finger, 12,5 mm diameter. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16391</gml:identifier>
+			<gml:name>IP28</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16392">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter.  Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16392</gml:identifier>
+			<gml:name>IP30</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16393">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16393</gml:identifier>
+			<gml:name>IP31</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16394">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16394</gml:identifier>
+			<gml:name>IP32</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16395">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16395</gml:identifier>
+			<gml:name>IP33</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16396">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16396</gml:identifier>
+			<gml:name>IP34</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16397">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16397</gml:identifier>
+			<gml:name>IP35</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16398">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16398</gml:identifier>
+			<gml:name>IP36</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16399">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16399</gml:identifier>
+			<gml:name>IP37</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16400">
+			<gml:description>Inntrenging: Verktøy, 2,5 mm diameter. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16400</gml:identifier>
+			<gml:name>IP38</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16401">
+			<gml:description>Inntrenging: Tråd 1 mm diameter.  Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16401</gml:identifier>
+			<gml:name>IP40</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16402">
+			<gml:description>Inntrenging: Tråd 1 mm diameter Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16402</gml:identifier>
+			<gml:name>IP41</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16403">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16403</gml:identifier>
+			<gml:name>IP42</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16404">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16404</gml:identifier>
+			<gml:name>IP43</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16405">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16405</gml:identifier>
+			<gml:name>IP44</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16406">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16406</gml:identifier>
+			<gml:name>IP45</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16407">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16407</gml:identifier>
+			<gml:name>IP46</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16408">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16408</gml:identifier>
+			<gml:name>IP47</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16409">
+			<gml:description>Inntrenging: Tråd 1 mm diameter. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16409</gml:identifier>
+			<gml:name>IP48</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16410">
+			<gml:description>Inntrenging: Støvbeskyttet.  Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16410</gml:identifier>
+			<gml:name>IP50</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16411">
+			<gml:description>Inntrenging: Støvbeskyttet Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16411</gml:identifier>
+			<gml:name>IP51</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16412">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16412</gml:identifier>
+			<gml:name>IP52</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16413">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16413</gml:identifier>
+			<gml:name>IP53</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16414">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16414</gml:identifier>
+			<gml:name>IP54</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16415">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16415</gml:identifier>
+			<gml:name>IP55</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16416">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16416</gml:identifier>
+			<gml:name>IP56</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16417">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16417</gml:identifier>
+			<gml:name>IP57</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16418">
+			<gml:description>Inntrenging: Støvbeskyttet. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16418</gml:identifier>
+			<gml:name>IP58</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16419">
+			<gml:description>Inntrenging: Ingen inntregning av støv.  Vann: Ingen beskyttelse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16419</gml:identifier>
+			<gml:name>IP60</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16420">
+			<gml:description>Inntrenging: Ingen inntregning av støv Vann: Vertikale drypp skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16420</gml:identifier>
+			<gml:name>IP61</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16421">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Vertikale drypp skal ikke ha skadelig virkning når utstyret har helningsvinkel opp til 15° i forhold til vertikallinjen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16421</gml:identifier>
+			<gml:name>IP62</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16422">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Dusj/regn mot kapsling i en vinkel opp til 60° i forhold til vertikallinjen skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16422</gml:identifier>
+			<gml:name>IP63</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16423">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Sprut (kraftig dusj/regn) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16423</gml:identifier>
+			<gml:name>IP64</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16424">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Spyling (fra slange/dyse) mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16424</gml:identifier>
+			<gml:name>IP65</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16425">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Kraftig spyling mot kapsling fra alle kanter skal ikke ha skadelig virkning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16425</gml:identifier>
+			<gml:name>IP66</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16426">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Ingen skadelig virkning ved kortvarig neddykking i vann (15 til 100 cm i inntil 30 minutter)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16426</gml:identifier>
+			<gml:name>IP67</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16427">
+			<gml:description>Inntrenging: Ingen inntregning av støv. Vann: Ingen skadelig virkning ved varig neddykking i vann under betingelser spesifisert gjennom avtale mellom kunde og produsent av utstyret</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kapslingsgrad_10057.xml">16427</gml:identifier>
+			<gml:name>IP68</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

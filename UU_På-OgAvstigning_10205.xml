@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10205">
+	<gml:description>Angir om Holdeplassutrustning brukes for både på- og avstigning eller primært for avstigning.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_På-OgAvstigning_10205.xml">UU_På-OgAvstigning_10205</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16625">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_På-OgAvstigning_10205.xml">16625</gml:identifier>
+			<gml:name>Både på- og avstigning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16626">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_På-OgAvstigning_10205.xml">16626</gml:identifier>
+			<gml:name>Primært avstigning</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

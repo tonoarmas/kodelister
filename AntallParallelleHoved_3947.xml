@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3947">
+	<gml:description>Angir hvor mange parallelle hovedløp tunnelen har. Med hovedløp menes tunnelløp som inngår i hovedvegen (ikke ramper, armer etc.).  Det kan være unntak fra dette i tilfeller der det ikke er noen tunnelløp som har referanse til hovedparsell som inngår i hovedvegen, f.eks når tunnel på en arm.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AntallParallelleHoved_3947.xml">AntallParallelleHoved_3947</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5011">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AntallParallelleHoved_3947.xml">5011</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5012">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AntallParallelleHoved_3947.xml">5012</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5013">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AntallParallelleHoved_3947.xml">5013</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5014">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AntallParallelleHoved_3947.xml">5014</gml:identifier>
+			<gml:name>4</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

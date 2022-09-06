@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3910">
+	<gml:description>Angir hvilket nivå tellepunktet er på.  Nivå 1 angir kontinuerlig datainnsamling, nivå 2 angir 4-5 uker pr år.  Nivå 3 angir 1 uke pr år.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsnivå_3910.xml">Registreringsnivå_3910</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4892">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsnivå_3910.xml">4892</gml:identifier>
+			<gml:name>Kontinuerlig (Nivå 1)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4893">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsnivå_3910.xml">4893</gml:identifier>
+			<gml:name>Periodisk (Nivå 2)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10245">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsnivå_3910.xml">10245</gml:identifier>
+			<gml:name>Periodisk (Nivå 3)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4894">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsnivå_3910.xml">4894</gml:identifier>
+			<gml:name>Enkeltmåling</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4575">
+	<gml:description>En lenke i vegnettet som eksisterer kun for å knytte sammen andre lenker. For eksempel vil dette være kobling mellom to veger der kryssområdet fysisk hører til den ene vegen, forlengelsen av et svingefelt som beskriver en kjørebevegelse midt i et kryss, eller kobling av en gangveg til kjørevegen der det er naturlig at veglenkene skal være koblet sammen for å danne et nettverk.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Konnekteringslenke_4575.xml">Konnekteringslenke_4575</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5517">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Konnekteringslenke_4575.xml">5517</gml:identifier>
+			<gml:name> </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5518">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Konnekteringslenke_4575.xml">5518</gml:identifier>
+			<gml:name>Konnekteringslenke</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

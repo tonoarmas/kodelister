@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9794">
+	<gml:description>Angir eventuelle restriksjoner for motortrafikk, gående og syklende.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">Trafikkreguleringer_9794</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19643">
+			<gml:description>Forbudt for alle kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19643</gml:identifier>
+			<gml:name>Forbudt for alle kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19659">
+			<gml:description>Forbudt for gående</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19659</gml:identifier>
+			<gml:name>Forbudt for gående</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15945">
+			<gml:description>Forbudt for gående og syklende, regulert vha skilt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">15945</gml:identifier>
+			<gml:name>Forbudt for gående og syklende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19660">
+			<gml:description>Forbudt for lastebil og trekkbil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19660</gml:identifier>
+			<gml:name>Forbudt for lastebil og trekkbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19661">
+			<gml:description>Forbudt for lastebil og trekkbil unntatt kjøring til virksomhet eller adresse Virksomhet eller adresse spesifiseres som Merknad.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19661</gml:identifier>
+			<gml:name>Forbudt for lastebil og trekkbil m unntak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19662">
+			<gml:description>Forbudt for motorsykkel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19662</gml:identifier>
+			<gml:name>Forbudt for motorsykkel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19663">
+			<gml:description>Forbudt for motorsykkel og moped</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19663</gml:identifier>
+			<gml:name>Forbudt for motorsykkel og moped</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15946">
+			<gml:description>Forbudt for motortrafikk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">15946</gml:identifier>
+			<gml:name>Forbudt for motortrafikk </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19664">
+			<gml:description>Forbudt for motortrafikk unntatt buss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19664</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt buss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19665">
+			<gml:description>Forbudt for motortrafikk unntatt buss og taxi</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19665</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt buss og taxi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19666">
+			<gml:description>Forbudt for motortrafikk unntatt moped</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19666</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt moped</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19667">
+			<gml:description>Forbudt for motortrafikk unntatt spesiell motorvogntype. Motorvogntype spesifiseres som Merknad.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19667</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt spesiell motorvogntype</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19668">
+			<gml:description>Forbudt for motortrafikk unntatt taxi</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19668</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt taxi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19669">
+			<gml:description>Forbudt for motortrafikk unntatt varetransport</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19669</gml:identifier>
+			<gml:name>Forbudt for motortrafikk unntatt varetransport</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18303">
+			<gml:description>Forbudt for syklende, regulert vha skilt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">18303</gml:identifier>
+			<gml:name>Forbudt for syklende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19670">
+			<gml:description>Forbudt for traktor</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19670</gml:identifier>
+			<gml:name>Forbudt for traktor</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16847">
+			<gml:description>Gjennomkjøring forbudt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">16847</gml:identifier>
+			<gml:name>Gjennomkjøring forbudt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19671">
+			<gml:description>Gjennomkjøring forbudt for lastebil og trekkbil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19671</gml:identifier>
+			<gml:name>Gjennomkjøring forbudt for lastebil og trekkbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19672">
+			<gml:description>Gjennomkjøring forbudt til veg eller gate. Veg eller gate som Merknad.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19672</gml:identifier>
+			<gml:name>Gjennomkjøring forbudt til veg eller gate </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15948">
+			<gml:description>Forbudt for motortrafikk, med unntak av kjøring til eiendommer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">15948</gml:identifier>
+			<gml:name>Motortrafikk kun tillatt for kjøring til eiendommer </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19673">
+			<gml:description>Motortrafikk kun tillatt for kjøring til virksomhet eller adresse. Virksomhet eller adresse spesifiseres som Merknad.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">19673</gml:identifier>
+			<gml:name>Motortrafikk kun tillatt for kjøring til virksomhet eller adresse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15947">
+			<gml:description>Forbudt for motortrafikk, med unntak av varetransport</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">15947</gml:identifier>
+			<gml:name>Motortrafikk kun tillatt for varetransport </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15949">
+			<gml:description>Forbudt for motortrafikk, med unntak av varetransport og kjøring til eiendommer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">15949</gml:identifier>
+			<gml:name>Motortrafikk kun tillatt for varetransport og kjøring til eiendommer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17464">
+			<gml:description>Sykling mot kjøreretning er tillatt, og dette er regulert vha skilt. Gjelder der det ikke er merket opp egne sykkelfelt.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkreguleringer_9794.xml">17464</gml:identifier>
+			<gml:name>Sykling mot kjøreretningen tillatt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

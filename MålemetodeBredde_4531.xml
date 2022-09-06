@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4531">
+	<gml:description>Angir metode for måling av bredde.  Kodeverk fra TVERR benyttes</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">MålemetodeBredde_4531</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5429">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5429</gml:identifier>
+			<gml:name>Målehjul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5430">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5430</gml:identifier>
+			<gml:name>Stikkstang</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5431">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5431</gml:identifier>
+			<gml:name>Anslag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5432">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5432</gml:identifier>
+			<gml:name>Stigningsmåler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5433">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5433</gml:identifier>
+			<gml:name>Waterstang</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5434">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5434</gml:identifier>
+			<gml:name>Målebånd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5435">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5435</gml:identifier>
+			<gml:name>Kikkert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5436">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5436</gml:identifier>
+			<gml:name>Manuell video</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5437">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5437</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5439">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5439</gml:identifier>
+			<gml:name>Automatisk video</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5440">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5440</gml:identifier>
+			<gml:name>Anleggskontroll</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5441">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5441</gml:identifier>
+			<gml:name>Ferdigvegskart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5442">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5442</gml:identifier>
+			<gml:name>Digitale kart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5443">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5443</gml:identifier>
+			<gml:name>Kart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5444">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5444</gml:identifier>
+			<gml:name>Detaljplan</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5445">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MålemetodeBredde_4531.xml">5445</gml:identifier>
+			<gml:name>Laser</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

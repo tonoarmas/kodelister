@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9382">
+	<gml:description>Angir hvor langt man er kommet i planprosessen på aktuelt punkt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">Planstatus_9382</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13112">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13112</gml:identifier>
+			<gml:name>Ikke vurdert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13113">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13113</gml:identifier>
+			<gml:name>Idé</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13114">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13114</gml:identifier>
+			<gml:name>Skisse/forprosjekt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21026">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">21026</gml:identifier>
+			<gml:name>Konseptvalgutredning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13115">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13115</gml:identifier>
+			<gml:name>Kommunedelplan</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13116">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13116</gml:identifier>
+			<gml:name>Reguleringsplan</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13117">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planstatus_9382.xml">13117</gml:identifier>
+			<gml:name>Byggeplan</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5081">
+	<gml:description>Kjørefelttype.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">Kjørefelttype_5081</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6477">
+			<gml:description>Vanlig kjørefelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6477</gml:identifier>
+			<gml:name>Vanlig kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6478">
+			<gml:description>Forbikjøringsfelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6478</gml:identifier>
+			<gml:name>Forbikjøringsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6479">
+			<gml:description>Krabbefelt  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6479</gml:identifier>
+			<gml:name>Krabbefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6480">
+			<gml:description>Flettefelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6480</gml:identifier>
+			<gml:name>Flettefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6481">
+			<gml:description>Kollektivfelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6481</gml:identifier>
+			<gml:name>Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6482">
+			<gml:description>Svingefelt venstre / høyre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6482</gml:identifier>
+			<gml:name>Svingefelt venstre / høyre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6483">
+			<gml:description>Parkeringsfelt (skiltet / merket)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6483</gml:identifier>
+			<gml:name>Parkeringsfelt (skiltet / merket)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6484">
+			<gml:description>Akselerasjonsfelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6484</gml:identifier>
+			<gml:name>Akselerasjonsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6485">
+			<gml:description>Retardasjonsfelt    </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6485</gml:identifier>
+			<gml:name>Retardasjonsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6486">
+			<gml:description>Skulder</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6486</gml:identifier>
+			<gml:name>Skulder</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6487">
+			<gml:description>Sykkelfelt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6487</gml:identifier>
+			<gml:name>Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6488">
+			<gml:description>Fortau</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6488</gml:identifier>
+			<gml:name>Fortau</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6489">
+			<gml:description>Gang- / sykkelveg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6489</gml:identifier>
+			<gml:name>Gang- / sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6490">
+			<gml:description>Busslomme / -holdeplass</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6490</gml:identifier>
+			<gml:name>Busslomme / -holdeplass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6491">
+			<gml:description>annet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6491</gml:identifier>
+			<gml:name>Annet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6492">
+			<gml:description>ukjent  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjørefelttype_5081.xml">6492</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

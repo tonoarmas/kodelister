@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5067">
+	<gml:description>Angir hvilken type uhell trafikkulykken alternativt kan karakteriseres som. Denne skal bare angis i tilfeller hvor den endelige uhellssituasjonen skiller seg fra den utløsende, eller at en annen uhellskode kan beskrive vesentlige deler av hendelsesforløpet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">AlternativUhellskode_5067</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6343">
+			<gml:description>Uhell med dyr innblandet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6343</gml:identifier>
+			<gml:name>Uhell med dyr innblandet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6344">
+			<gml:description>Påkjøring av gjenstand i kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6344</gml:identifier>
+			<gml:name>Påkjøring av gjenstand i kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6345">
+			<gml:description>Hull i vegen o.l.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6345</gml:identifier>
+			<gml:name>Hull i vegen o.l.</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6346">
+			<gml:description>Enslig kjøretøy veltet i kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6346</gml:identifier>
+			<gml:name>Enslig kjøretøy veltet i kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6347">
+			<gml:description>Påkjøring av parkert kjøretøy på høyre side</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6347</gml:identifier>
+			<gml:name>Påkjøring av parkert kjøretøy på høyre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6348">
+			<gml:description>Påkjøring av parkert kjøretøy på venstre side</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6348</gml:identifier>
+			<gml:name>Påkjøring av parkert kjøretøy på venstre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6349">
+			<gml:description>Påkjøring av parkert kjøretøy ved forbikjøring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6349</gml:identifier>
+			<gml:name>Påkjøring av parkert kjøretøy ved forbikjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6350">
+			<gml:description>Øvrige parkeringsuhell</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6350</gml:identifier>
+			<gml:name>Øvrige parkeringsuhell</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6351">
+			<gml:description>Uhell ved av- eller påstigning av kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6351</gml:identifier>
+			<gml:name>Uhell ved av- eller påstigning av kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6352">
+			<gml:description>Uhell med uklart forløp / uhell som ikke faller inn under noen bestemt uh.kode</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6352</gml:identifier>
+			<gml:name>Uhell med uklart forløp / uhell som ikke faller inn under noen bestemt uh.kode</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6353">
+			<gml:description>Forbikjøring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6353</gml:identifier>
+			<gml:name>Forbikjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6354">
+			<gml:description>Skifte av felt til venstre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6354</gml:identifier>
+			<gml:name>Skifte av felt til venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6355">
+			<gml:description>Skifte av felt til høyre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6355</gml:identifier>
+			<gml:name>Skifte av felt til høyre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6356">
+			<gml:description>Kjøring i parallelle kjørefelter forøvrig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6356</gml:identifier>
+			<gml:name>Kjøring i parallelle kjørefelter forøvrig</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6357">
+			<gml:description>Påkjøring bakfra</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6357</gml:identifier>
+			<gml:name>Påkjøring bakfra</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6358">
+			<gml:description>Påkjøring bakfra etter oppstart fra stanset eller parkert stilling</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6358</gml:identifier>
+			<gml:name>Påkjøring bakfra etter oppstart fra stanset eller parkert stilling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6359">
+			<gml:description>Påkjøring av forankjørende ved skifte av felt til venstre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6359</gml:identifier>
+			<gml:name>Påkjøring av forankjørende ved skifte av felt til venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6360">
+			<gml:description>Påkjøring av forankjørende ved skifte av felt til høyre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6360</gml:identifier>
+			<gml:name>Påkjøring av forankjørende ved skifte av felt til høyre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6361">
+			<gml:description>Uhell med uklart forløp mellom kjøretøy med samme kjøreretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6361</gml:identifier>
+			<gml:name>Uhell med uklart forløp mellom kjøretøy med samme kjøreretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6362">
+			<gml:description>Møting på rett vegstrekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6362</gml:identifier>
+			<gml:name>Møting på rett vegstrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6363">
+			<gml:description>Møting i kurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6363</gml:identifier>
+			<gml:name>Møting i kurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6364">
+			<gml:description>Møting under forbikjøring på rett vegstrekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6364</gml:identifier>
+			<gml:name>Møting under forbikjøring på rett vegstrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6365">
+			<gml:description>Møting under forbikjøring i høyrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6365</gml:identifier>
+			<gml:name>Møting under forbikjøring i høyrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6366">
+			<gml:description>Møting under forbikjøring i venstrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6366</gml:identifier>
+			<gml:name>Møting under forbikjøring i venstrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6367">
+			<gml:description>Møting under forbikjøring av stanset eller parkert kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6367</gml:identifier>
+			<gml:name>Møting under forbikjøring av stanset eller parkert kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6368">
+			<gml:description>Møting etter oppstart fra stanset eller parkert stilling</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6368</gml:identifier>
+			<gml:name>Møting etter oppstart fra stanset eller parkert stilling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6369">
+			<gml:description>Uhell med uklart forløp ved møting</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6369</gml:identifier>
+			<gml:name>Uhell med uklart forløp ved møting</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6370">
+			<gml:description>Påkjøring bakfra ved høyresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6370</gml:identifier>
+			<gml:name>Påkjøring bakfra ved høyresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6371">
+			<gml:description>Påkjøring forøvrig ved høyresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6371</gml:identifier>
+			<gml:name>Påkjøring forøvrig ved høyresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6372">
+			<gml:description>Påkjøring bakfra ved venstresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6372</gml:identifier>
+			<gml:name>Påkjøring bakfra ved venstresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6373">
+			<gml:description>Påkjøring forøvrig ved venstresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6373</gml:identifier>
+			<gml:name>Påkjøring forøvrig ved venstresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6374">
+			<gml:description>Påkjøring ved vending foran kjørende i samme retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6374</gml:identifier>
+			<gml:name>Påkjøring ved vending foran kjørende i samme retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6375">
+			<gml:description>Påkjøring av kjørende fra fortau eller G/S-veg, ved høyresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6375</gml:identifier>
+			<gml:name>Påkjøring av kjørende fra fortau eller G/S-veg, ved høyresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6376">
+			<gml:description>Påkjøring av kjørende fra fortau eller G/S-veg, ved venstresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6376</gml:identifier>
+			<gml:name>Påkjøring av kjørende fra fortau eller G/S-veg, ved venstresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6377">
+			<gml:description>Uhell med uklart forløp ved avsvinging fra samme kjøreretning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6377</gml:identifier>
+			<gml:name>Uhell med uklart forløp ved avsvinging fra samme kjøreretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6378">
+			<gml:description>Avsvingning til venstre foran kjørende i motsatt retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6378</gml:identifier>
+			<gml:name>Avsvingning til venstre foran kjørende i motsatt retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6379">
+			<gml:description>Avsvinging i samme retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6379</gml:identifier>
+			<gml:name>Avsvinging i samme retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6380">
+			<gml:description>Avsvinging i hver sin retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6380</gml:identifier>
+			<gml:name>Avsvinging i hver sin retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6381">
+			<gml:description>Vending foran kjørende i motsatt retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6381</gml:identifier>
+			<gml:name>Vending foran kjørende i motsatt retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6382">
+			<gml:description>Avsvingning til høyre foran kjørende i motsatt retning fra fortau eller G/S-veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6382</gml:identifier>
+			<gml:name>Avsvingning til høyre foran kjørende i motsatt retning fra fortau eller G/S-veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6383">
+			<gml:description>Avsvingning til venstre foran kjørende i motsatt retning fra fortau eller G/S-veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6383</gml:identifier>
+			<gml:name>Avsvingning til venstre foran kjørende i motsatt retning fra fortau eller G/S-veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6384">
+			<gml:description>Uhell med uklart forløp ved avsvinging fra motsatte kjøreretninger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6384</gml:identifier>
+			<gml:name>Uhell med uklart forløp ved avsvinging fra motsatte kjøreretninger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6385">
+			<gml:description>Kryssende kjøreretninger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6385</gml:identifier>
+			<gml:name>Kryssende kjøreretninger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6386">
+			<gml:description>Forbikjøring på venstre side i kryss eller avkjørsel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6386</gml:identifier>
+			<gml:name>Forbikjøring på venstre side i kryss eller avkjørsel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6387">
+			<gml:description>Forbikjøring på høyre side i kryss eller avkjørsel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6387</gml:identifier>
+			<gml:name>Forbikjøring på høyre side i kryss eller avkjørsel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6388">
+			<gml:description>Kjørende fra fortau eller G/S-veg krysset kjørebanen på hitsiden av krysset</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6388</gml:identifier>
+			<gml:name>Kjørende fra fortau eller G/S-veg krysset kjørebanen på hitsiden av krysset</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6389">
+			<gml:description>Kjørende fra fortau eller G/S-veg krysset kjørebanen på bortsiden av krysset</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6389</gml:identifier>
+			<gml:name>Kjørende fra fortau eller G/S-veg krysset kjørebanen på bortsiden av krysset</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6390">
+			<gml:description>Kjørende fra fortau / G/S-veg krysset kjørebanen utenfor kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6390</gml:identifier>
+			<gml:name>Kjørende fra fortau / G/S-veg krysset kjørebanen utenfor kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6391">
+			<gml:description>Uhell med uklart forløp ved kryssende kj.retn uten at noen kj.tøy svinger av</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6391</gml:identifier>
+			<gml:name>Uhell med uklart forløp ved kryssende kj.retn uten at noen kj.tøy svinger av</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6392">
+			<gml:description>Høyresving foran kjørende i samme retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6392</gml:identifier>
+			<gml:name>Høyresving foran kjørende i samme retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6393">
+			<gml:description>Høyresving foran kjørende i motsatt retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6393</gml:identifier>
+			<gml:name>Høyresving foran kjørende i motsatt retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6394">
+			<gml:description>Høyresving foran venstresvingende kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6394</gml:identifier>
+			<gml:name>Høyresving foran venstresvingende kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6395">
+			<gml:description>Venstresving foran kjørende i samme retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6395</gml:identifier>
+			<gml:name>Venstresving foran kjørende i samme retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6396">
+			<gml:description>Venstresving foran kjørende i motsatt retning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6396</gml:identifier>
+			<gml:name>Venstresving foran kjørende i motsatt retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6397">
+			<gml:description>Samtidig venstresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6397</gml:identifier>
+			<gml:name>Samtidig venstresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6398">
+			<gml:description>Samtidig høyresving</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6398</gml:identifier>
+			<gml:name>Samtidig høyresving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6399">
+			<gml:description>Uhell med uklart forløp ved kryssende kj.retn hvor ett el. begge kj.tøy svinger av</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6399</gml:identifier>
+			<gml:name>Uhell med uklart forløp ved kryssende kj.retn hvor ett el. begge kj.tøy svinger av</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6400">
+			<gml:description>Fotgjenger krysset kjørebanen på bortsiden av krysset</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6400</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen på bortsiden av krysset</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6401">
+			<gml:description>Fotgjenger krysset kjørebanen på hitsiden av krysset</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6401</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen på hitsiden av krysset</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6402">
+			<gml:description>Fotgjenger krysset kjørebanen foran høyresvingende kjøretøy i kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6402</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen foran høyresvingende kjøretøy i kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6403">
+			<gml:description>Fotgjenger krysset kjørebanen foran venstresvingende kjøretøy i kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6403</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen foran venstresvingende kjøretøy i kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6404">
+			<gml:description>Fotgjenger krysset kjørebanen i gangfelt utenfor kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6404</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen i gangfelt utenfor kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6405">
+			<gml:description>Fotgjenger krysset kjørebanen forøvrig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6405</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen forøvrig</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6406">
+			<gml:description>Fotgjenger krysset kjørebanen i kryss bak parkert eller stanset kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6406</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen i kryss bak parkert eller stanset kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6407">
+			<gml:description>Fotgjenger krysset kjørebanen utenfor kryss bak parkert eller stanset kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6407</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen utenfor kryss bak parkert eller stanset kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6408">
+			<gml:description>Fotgjenger krysset kjørebanen og ble påkjørt av ryggende kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6408</gml:identifier>
+			<gml:name>Fotgjenger krysset kjørebanen og ble påkjørt av ryggende kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6409">
+			<gml:description>Uhell med uklart forløp hvor fotgjenger krysset kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6409</gml:identifier>
+			<gml:name>Uhell med uklart forløp hvor fotgjenger krysset kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6410">
+			<gml:description>Fotgjenger gikk på vegens høyre side</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6410</gml:identifier>
+			<gml:name>Fotgjenger gikk på vegens høyre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6411">
+			<gml:description>Fotgjenger gikk på vegens venstre side</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6411</gml:identifier>
+			<gml:name>Fotgjenger gikk på vegens venstre side</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6412">
+			<gml:description>Fotgjenger påkjørt på fortau</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6412</gml:identifier>
+			<gml:name>Fotgjenger påkjørt på fortau</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6413">
+			<gml:description>Fotgjenger påkjørt ved forbikjøring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6413</gml:identifier>
+			<gml:name>Fotgjenger påkjørt ved forbikjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6414">
+			<gml:description>Fotgjenger stod stille eller oppholdt seg forøvrig i kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6414</gml:identifier>
+			<gml:name>Fotgjenger stod stille eller oppholdt seg forøvrig i kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6415">
+			<gml:description>Fotgjenger gikk langs vegen og ble påkjørt av ryggende kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6415</gml:identifier>
+			<gml:name>Fotgjenger gikk langs vegen og ble påkjørt av ryggende kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6416">
+			<gml:description>Barn lekte i kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6416</gml:identifier>
+			<gml:name>Barn lekte i kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6417">
+			<gml:description>Uhell med uklart forløp hvor fotgjenger gikk langs eller oppholdt seg i kj.banen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6417</gml:identifier>
+			<gml:name>Uhell med uklart forløp hvor fotgjenger gikk langs eller oppholdt seg i kj.banen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6418">
+			<gml:description>Enslig kjøretøy kjørte utfor på høyre side på rett vegstrekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6418</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på høyre side på rett vegstrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6419">
+			<gml:description>Enslig kjøretøy kjørte utfor på venstre side på rett vegstrekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6419</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på venstre side på rett vegstrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6420">
+			<gml:description>Enslig kjøretøy kjørte utfor på venstre side i høyrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6420</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på venstre side i høyrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6421">
+			<gml:description>Enslig kjøretøy kjørte utfor på høyre side i høyrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6421</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på høyre side i høyrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6422">
+			<gml:description>Enslig kjøretøy kjørte utfor på høyre side i venstrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6422</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på høyre side i venstrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6423">
+			<gml:description>Enslig kjøretøy kjørte utfor på venstre side i venstrekurve</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6423</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor på venstre side i venstrekurve</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6424">
+			<gml:description>Enslig kjøretøy kjørte utfor ved avsvinging i kryss o.l.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6424</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte utfor ved avsvinging i kryss o.l.</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6425">
+			<gml:description>Enslig kjøretøy kjørte på trafikkøy eller ende av midtdeler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6425</gml:identifier>
+			<gml:name>Enslig kjøretøy kjørte på trafikkøy eller ende av midtdeler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6426">
+			<gml:description>Uhell med uklart forløp hvor enslig kjøretøy kjørte utfor vegen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6426</gml:identifier>
+			<gml:name>Uhell med uklart forløp hvor enslig kjøretøy kjørte utfor vegen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13438">
+			<gml:description>Uhell forårsaket av skred/ras</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">13438</gml:identifier>
+			<gml:name>Uhell forårsaket av skred/ras</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6965">
+			<gml:description>Ingen alternativ uhellskode</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlternativUhellskode_5067.xml">6965</gml:identifier>
+			<gml:name>Ingen alternativ uhellskode</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

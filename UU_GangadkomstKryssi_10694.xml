@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10694">
+	<gml:description>Angir hvilken mulighet det er for å krysse vegen ved holdeplassen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_GangadkomstKryssi_10694.xml">UU_GangadkomstKryssi_10694</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17273">
+			<gml:description>Skal angi Ja om det er gangfelt eller tilrettelagt kryssing. Tilrettelagt kryssing vil si at det f.eks er åpning i rekkverk/gjerde, men uten at det er gangfelt.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_GangadkomstKryssi_10694.xml">17273</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17274">
+			<gml:description>Skal anig Nei der det ikke er tilrettelagt kryssing eller gangfelt. Det skal angis Nei også i tilfeller hvor det er kryssing over/under på egen g/s-veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_GangadkomstKryssi_10694.xml">17274</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

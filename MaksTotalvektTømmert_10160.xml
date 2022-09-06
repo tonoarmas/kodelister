@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10160">
+	<gml:description>Angir maksimal totalvekt for tømmertransport</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektTømmert_10160.xml">MaksTotalvektTømmert_10160</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16556">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektTømmert_10160.xml">16556</gml:identifier>
+			<gml:name>56</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16557">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektTømmert_10160.xml">16557</gml:identifier>
+			<gml:name>50</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16558">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektTømmert_10160.xml">16558</gml:identifier>
+			<gml:name>60</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

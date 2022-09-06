@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11528">
+	<gml:description>Gir representativ helning for fyllingsskråning. For skråninger med ulike helninger angis den som er brattest. Detaljer kan beskrives under tilleggsinformajson.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">Helning_11528</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19584">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19584</gml:identifier>
+			<gml:name>Brattere enn 1:1,25</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19585">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19585</gml:identifier>
+			<gml:name>1:1,25</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19586">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19586</gml:identifier>
+			<gml:name>1:1,5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19587">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19587</gml:identifier>
+			<gml:name>1:2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19588">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19588</gml:identifier>
+			<gml:name>1:3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19589">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19589</gml:identifier>
+			<gml:name>1:4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19590">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19590</gml:identifier>
+			<gml:name>1:5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19591">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Helning_11528.xml">19591</gml:identifier>
+			<gml:name>Slakere enn 1:5</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

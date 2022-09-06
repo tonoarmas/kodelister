@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3102">
+	<gml:description>Angir hvilket standard tunnelprofil tunnelløpet er bygd etter. Merknad: Dersom tunnelløpet har varierende standard, skal det oppgis det profilet som beskriver det minste tverrsnittet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">Tunnelprofil_3102</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12301">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12301</gml:identifier>
+			<gml:name>T4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12302">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12302</gml:identifier>
+			<gml:name>T5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12303">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12303</gml:identifier>
+			<gml:name>T5,5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12304">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12304</gml:identifier>
+			<gml:name>T6</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12305">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12305</gml:identifier>
+			<gml:name>T7</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12306">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12306</gml:identifier>
+			<gml:name>T8,5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12307">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12307</gml:identifier>
+			<gml:name>T9</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12308">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tunnelprofil_3102.xml">12308</gml:identifier>
+			<gml:name>T9,5</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12021">
+	<gml:description>Angir hvilken status veganlegg har. NB! Egenskapstypen har til dels sammenheng med egenskapstype 2031 "Dato byggestart" og 2032 "Dato ferdigstilt".</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Status_12021.xml">Status_12021</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20854">
+			<gml:description>Veganlegget er på planstadiet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Status_12021.xml">20854</gml:identifier>
+			<gml:name>Planstadiet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

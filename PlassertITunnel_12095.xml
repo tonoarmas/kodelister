@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12095">
+	<gml:description>Angir om nødstasjon er plassert i tunnel eller ute i dagen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlassertITunnel_12095.xml">PlassertITunnel_12095</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21021">
+			<gml:description>Nødstasjon er plasser inne i en tunnel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlassertITunnel_12095.xml">21021</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21022">
+			<gml:description>Nødstasjon er plassert ute under åpen himmel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlassertITunnel_12095.xml">21022</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

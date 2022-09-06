@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10227">
+	<gml:description>Angir om det er satt opp en skjerm/skjold ved kummen inn mot skråningen for å hindre at det glir masser fra skråning ned i kummen eller blokkerer kumlokket. Det kan også angis hvilket materiale denne skjermen er av.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">Kumskjerm_10227</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16738">
+			<gml:description>Angir at det er kumskjerm, men det mangler informasjon om hvilken type den er av</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16738</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16706">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16706</gml:identifier>
+			<gml:name>Ja, plast</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16705">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16705</gml:identifier>
+			<gml:name>Ja, betong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16707">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16707</gml:identifier>
+			<gml:name>Ja, metall, stål</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16708">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16708</gml:identifier>
+			<gml:name>Ja, tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16739">
+			<gml:description>Angir at kum ikke har kumskjerm.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumskjerm_10227.xml">16739</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

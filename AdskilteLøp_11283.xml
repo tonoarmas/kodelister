@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11283">
+	<gml:description>Angir at delstrekningen har så fysisk adskilte løp eller kjørebaner at disse referansemessig må håndteres hver for seg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AdskilteLøp_11283.xml">AdskilteLøp_11283</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19035">
+			<gml:description>Medstrekning for adskilte løp der kjøreretning er med metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AdskilteLøp_11283.xml">19035</gml:identifier>
+			<gml:name>Med</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19091">
+			<gml:description>Motstrekning for adskilte løp der kjøreretning er mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AdskilteLøp_11283.xml">19091</gml:identifier>
+			<gml:name>Mot</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19036">
+			<gml:description>Delstrekningen har ikke fysisk adskilte løp med egne referanser.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AdskilteLøp_11283.xml">19036</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

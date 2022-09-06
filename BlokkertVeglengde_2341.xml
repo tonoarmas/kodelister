@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2341">
+	<gml:description>Angir lengde av veg som var blokkert av skredet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">BlokkertVeglengde_2341</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4189">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">4189</gml:identifier>
+			<gml:name>Kun i grøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4185">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">4185</gml:identifier>
+			<gml:name>&lt; 10 m</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4186">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">4186</gml:identifier>
+			<gml:name>10 - 50 m</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4187">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">4187</gml:identifier>
+			<gml:name>50 - 100 m</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4188">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">4188</gml:identifier>
+			<gml:name>&gt; 100 m</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19889">
+			<gml:description>Skredet har stoppet i skredsikringstiltak. Det ville blokkert veg om ikke siikringstiltak var etablert</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">19889</gml:identifier>
+			<gml:name>Stoppet i sikringstiltak (ny)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19890">
+			<gml:description>Skredmasser har krysset veg uten å legge igjen nevneverdige skredmasser på vegen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BlokkertVeglengde_2341.xml">19890</gml:identifier>
+			<gml:name>Passerte veg uten å legge igjen skredmasser (ny)</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

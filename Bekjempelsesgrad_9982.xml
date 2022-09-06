@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9982">
+	<gml:description>Angir i hvilken grad den uønskede fremmede arten bekjempes.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bekjempelsesgrad_9982.xml">Bekjempelsesgrad_9982</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16202">
+			<gml:description>Arten overvåkes for å se utviklingen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bekjempelsesgrad_9982.xml">16202</gml:identifier>
+			<gml:name>Overvåkes</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16203">
+			<gml:description>Arten bekjempes for å begrense spredning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bekjempelsesgrad_9982.xml">16203</gml:identifier>
+			<gml:name>Begrenses</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16204">
+			<gml:description>Arten bekjempes for å utryddes</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bekjempelsesgrad_9982.xml">16204</gml:identifier>
+			<gml:name>Bekjempes</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

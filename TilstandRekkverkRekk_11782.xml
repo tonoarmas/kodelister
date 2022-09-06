@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11782">
+	<gml:description>Angir hvorvidt krav til publisering av informasjon er ivaretatt. Bilder, dokument etc som lastes inn som vedlegg blir åpent tilgjengelig. Dersom det lastes inn vedlegg skal det alltid være angitt "Ja" til denne egenskapen. Det gjelder da som en bekreftelse på at dokumentasjon som legges inn ikke er i strid med personvernforordningen (GDPR) eller bryter med andre krav til skjerming av data. Informasjon som ikke skal være offentlig må legges i eksterne system/server hvor det kan settes begrensning på tilgang. Det angis da kun lenkeadresse til informajonene i NVDB (ET 10804 "Hyperlink"). Verdien "Ikke vurdert" skal kun benyttes midlertidig på tidligere innlagte data.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkRekk_11782.xml">TilstandRekkverkRekk_11782</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19740">
+			<gml:description>Ikke skade som reduserer styrke/egenskap/funksjon. Ikke andre skader pga. vinter og vinterdrift</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkRekk_11782.xml">19740</gml:identifier>
+			<gml:name>Ok </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19741">
+			<gml:description>Skader som reduserer styrke/egenskap/funksjon, kan være skader pga. vinter og vinterdrift. Informasjon om evt skade angis under tilleggsinformasjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkRekk_11782.xml">19741</gml:identifier>
+			<gml:name>Skader</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

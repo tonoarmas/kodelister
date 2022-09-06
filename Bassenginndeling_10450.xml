@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10450">
+	<gml:description>Angir hvordan bassengene er plassert i forhold til hverandre.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bassenginndeling_10450.xml">Bassenginndeling_10450</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16901">
+			<gml:description>Bassengene ligger fysisk adskilt fra hverandre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bassenginndeling_10450.xml">16901</gml:identifier>
+			<gml:name>Adskilte basseng</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16902">
+			<gml:description>Bassengene ligger side ved side kun adskilt med vegg eller terskel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bassenginndeling_10450.xml">16902</gml:identifier>
+			<gml:name>Basseng vegg i vegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16903">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bassenginndeling_10450.xml">16903</gml:identifier>
+			<gml:name>Felles basseng</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

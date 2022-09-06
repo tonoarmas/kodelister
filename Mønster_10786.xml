@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10786">
+	<gml:description>Angir hvordan pelene er plassert i forhold til hverandre.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Mønster_10786.xml">Mønster_10786</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17535">
+			<gml:description>Peler står ikke i spesielt mønster</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Mønster_10786.xml">17535</gml:identifier>
+			<gml:name>Enkeltpeler</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17536">
+			<gml:description>Peler står på rekke etterhverandre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Mønster_10786.xml">17536</gml:identifier>
+			<gml:name>Enkel ribbe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17537">
+			<gml:description>To ribber som står ved siden av hverandre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Mønster_10786.xml">17537</gml:identifier>
+			<gml:name>Dobbel ribbe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17538">
+			<gml:description>Peler plassert i rutenett innenfor et avgrensa område</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Mønster_10786.xml">17538</gml:identifier>
+			<gml:name>Blokk</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

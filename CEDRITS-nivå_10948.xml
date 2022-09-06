@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10948">
+	<gml:description>Angir hvilket nivå vegstrekningen ligger på i forhold til ITS-systemer/ITS-styring. De ulike nivåene er definert av CEDR.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">CEDRITS-nivå_10948</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18290">
+			<gml:description>None</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">18290</gml:identifier>
+			<gml:name>Level 0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18291">
+			<gml:description>Monitoring Systems</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">18291</gml:identifier>
+			<gml:name>Level 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18292">
+			<gml:description>Level 1 + Travel information</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">18292</gml:identifier>
+			<gml:name>Level 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18293">
+			<gml:description>Level 2 + Traffic Management</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">18293</gml:identifier>
+			<gml:name>Level 3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18294">
+			<gml:description>Cooperative ITS (C-ITS)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/CEDRITS-nivå_10948.xml">18294</gml:identifier>
+			<gml:name>Level 4</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

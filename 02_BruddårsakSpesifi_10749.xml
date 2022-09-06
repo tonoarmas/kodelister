@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10749">
+	<gml:description>Angir hva som er årsak til bruddhendelse.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">02_BruddårsakSpesifi_10749</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17410">
+			<gml:description>Brukes i Veg stengt. Brukes der det er eller forventes økt forekomst av fastkjørte vogntog, for eksempel i bratte stigninger vinterstid..</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17410</gml:identifier>
+			<gml:name>Bilberging (Vogntog)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17411">
+			<gml:description>Brukes i Tunnel stengt eller Veg stengt. Brukes i tunneler eller der vegen ligger nært opp til objekter som kan forårsake storbrann som fører til langvarig stengt veg, for eksempel prosessindustri. Bensinstasjoner og industriområder generelt skal ikke kartlegges her. Brukes kun i særskilte tilfeller.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17411</gml:identifier>
+			<gml:name>Brann (i objekter på/nær vegen)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17413">
+			<gml:description>Brukes i Veg stengt. Brukes der det er skadde og/eller underdimensjonerte stikkrenner eller lukket drenering langs veg som erfaringsvis forårsaker overvann/flom ved store nedbørsmengder.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17413</gml:identifier>
+			<gml:name>Dreneringssvikt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17415">
+			<gml:description>Brukes i Veg stengt. Brukes der det er spesielt høy risiko for ulykker med farlig gods, for eksempel i tilknytning til raffineri/industri.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17415</gml:identifier>
+			<gml:name>Farlig gods ulykke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17417">
+			<gml:description>Brukes i Bru stengt eller Veg stengt. Brukes for bruer, evt. tunneler eller der det er veg langs vassdrag som erfaringsvis er utsatt for flom ved store nedbørsmengder og/eller snøsmelting, eller ved flom i sidebekker på grunn av ekstremnedbør.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17417</gml:identifier>
+			<gml:name>Flom</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17418">
+			<gml:description>Brukes i Veg stengt. Brukes der det er økt sannsynlighet for brudd i vegfundamenteringen pga. utvasking etter store nedbørsmengder, slitasje fra tungtrafikk, dårlige grunnforhold eller andre årsaker.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17418</gml:identifier>
+			<gml:name>Fundamenteringssvikt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17419">
+			<gml:description>Brukes i Bru stengt, Veg stengt eller Tunnel stengt. Brukes der restriksjoner eller begrensninger kan føre til at kjøretøy som overstiger grensene kjører seg fast, eller skader/ødelegger infrastrukturen eller på annen måte stenger for annen trafikk.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17419</gml:identifier>
+			<gml:name>Høyde - lengde - bredde - vekt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17421">
+			<gml:description>Brukes i Veg stengt. Punkt eller strekning med fare for kvikkleireskred der vegen ligger i eller nær et område med kvikkleire.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17421</gml:identifier>
+			<gml:name>Skred kvikkleire</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17422">
+			<gml:description>Brukes i Veg stengt. Punkt eller strekning som er spesielt utsatt for jordskred. Jordskred er raske utglidninger og bevegelse av vannmettede løsmasser i bratte skråninger, utenfor definerte vannveier. Høyt vanninnhold og oppbygging av vanntrykk i løsmassene er oftest den utløsende faktoren for jordskred. Dette skjer som følge langvarig nedbør, eller etter korte og intense regnskyll eller i kombinasjon med rask snøsmelting, se NVE's faktaark 2013-01 om Jordskred og flomskred</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17422</gml:identifier>
+			<gml:name>Skred jord</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17424">
+			<gml:description>Brukes i veg stengt. Punkt eller strekning som er spesielt utsatt for snøskred.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17424</gml:identifier>
+			<gml:name>Skred snø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17425">
+			<gml:description>Brukes i Veg stengt. Punkt eller strekning som er spesielt utsatt for steinskred</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17425</gml:identifier>
+			<gml:name>Skred stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18536">
+			<gml:description>Brukes i Veg stengt. Punkt eller strekning der det er fare for nedfall fra fjellskjæring.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">18536</gml:identifier>
+			<gml:name>Nedfall fra fjellskjæring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17426">
+			<gml:description>Brukes i Veg stengt, evt. Tunnel stengt, Bru stengt eller Ferje/ferjekai stengt. Brukes der det finnes lavtliggende punkt eller strekning som ligger slik til at det kan bli oversvømt ved stormflo.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17426</gml:identifier>
+			<gml:name>Stormflo</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17427">
+			<gml:description>Brukes i Tunnel stengt, Ferje/ferjekai stengt, Veg stengt, Bru stengt. Brukes i tilknytning til mekaniske skilt, bommer, pumpesumper eller lignende, og kun der langvarige strømbrudd er av avgjørende betydning for funksjonsevnen til vegen, brua, tunnelen, ferjekaia.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17427</gml:identifier>
+			<gml:name>Strømbrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17430">
+			<gml:description>Brukes i Veg stengt eller Tunnel stengt. Kartlegging av ulykkespunkt og -strekninger i VegROS skal være et supplement til allerede eksisterende ulykkespunkt i NVDB. Det som spesielt skal registreres er punkt eller strekninger der hyppig forekommende ulykker og utforkjøringer (som oftest uten personskade) er et tegn på potensielle framkommelighetsutfordringer slik de er definert i risikovurderingen i retningslinjene for VegROS. Lokal kunnskap er spesielt viktig i denne kartleggingen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17430</gml:identifier>
+			<gml:name>Ulykkespunkt/-strekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17431">
+			<gml:description>Brukes i Veg stengt. Utglidning brukes også for å indikere en generell massebevegelse i en skråning og er ofte det første bruddet i et senere jordskred. Utglidninger oppstår i slakere terreng med finkornet, vannmettet jord og leire. De finnes gjerne på dyrket mark eller i naturlige skråninger i terrenget, særlig i de bratte sidekantene langs veier, elver, kunstige/modifiserte skråninger, langs jernbaner og i menneskeskapte fyllinger i bebodde områder.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17431</gml:identifier>
+			<gml:name>Utglidning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17432">
+			<gml:description>Brukes i Veg stengt, Bru stengt, eller Ferje/ferjekai stengt. Brukes for strekning som er spesielt sårbar for sterk vind som storm/orkan, for eksempel vinterstormer over fjelloverganger, eller store trær nær vegen som gir økt risiko for vindfall og dermed stengt veg ved sterk vind/storm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17432</gml:identifier>
+			<gml:name>Vind</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17433">
+			<gml:description> Brukes i Veg stengt, Tunnel stengt. Punkt eller strekning som er utsatt for snøfokk o.l.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">17433</gml:identifier>
+			<gml:name>Snø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18535">
+			<gml:description>Brukes i Veg stengt, Bru stengt, Tunnel stengt, Ferje stengt. Punkt eller strekning der bruddårsak ikke dekkes av det forhåndsdefinerte utvalget.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/02_BruddårsakSpesifi_10749.xml">18535</gml:identifier>
+			<gml:name>Annen årsak</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

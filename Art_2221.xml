@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2221">
+	<gml:description>Angir hvilken dyreart som er antatt mest forekommende på strekningen(vises på evt skilting).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Art_2221.xml">Art_2221</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4073">
+			<gml:description>Elg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Art_2221.xml">4073</gml:identifier>
+			<gml:name>Elg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4074">
+			<gml:description>Rein</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Art_2221.xml">4074</gml:identifier>
+			<gml:name>Rein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4072">
+			<gml:description>Hjort</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Art_2221.xml">4072</gml:identifier>
+			<gml:name>Hjort</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16783">
+			<gml:description>Rådyr</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Art_2221.xml">16783</gml:identifier>
+			<gml:name>Rådyr</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

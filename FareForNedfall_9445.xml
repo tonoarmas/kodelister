@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9445">
+	<gml:description>Angir om det er fare for fremtidig nedfall fra bergskjæring.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">FareForNedfall_9445</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13302">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">13302</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13303">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">13303</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13304">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">13304</gml:identifier>
+			<gml:name>Ja, inntil 5 kbm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13305">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">13305</gml:identifier>
+			<gml:name>Ja, inntil 10 kbm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13306">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/FareForNedfall_9445.xml">13306</gml:identifier>
+			<gml:name>Ja, mer enn 10 kbm</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

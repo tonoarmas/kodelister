@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12563">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">GjelderFor_12563</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21639">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">21639</gml:identifier>
+			<gml:name>Motorvogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21640">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">21640</gml:identifier>
+			<gml:name>Motorvogn unntatt buss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21641">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">21641</gml:identifier>
+			<gml:name>Motorvogn unntatt taxi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21642">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">21642</gml:identifier>
+			<gml:name>Motorvogn unntatt buss og taxi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21643">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GjelderFor_12563.xml">21643</gml:identifier>
+			<gml:name>Lastebil og trekkbil</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

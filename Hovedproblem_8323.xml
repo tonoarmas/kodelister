@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8323">
+	<gml:description>Angir hva som er hovedproblem ved dette inngrepet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">Hovedproblem_8323</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11271">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">11271</gml:identifier>
+			<gml:name>Brudd i vannstrøm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11272">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">11272</gml:identifier>
+			<gml:name>Strømningshastighet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11273">
+			<gml:description>For liten dybde.  Fisken kommer ikke videre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">11273</gml:identifier>
+			<gml:name>Dybde</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11274">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">11274</gml:identifier>
+			<gml:name>Bunnsubstrat</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21574">
+			<gml:description>Hovedproblem er ikke definert</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Hovedproblem_8323.xml">21574</gml:identifier>
+			<gml:name>Ikke definert</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

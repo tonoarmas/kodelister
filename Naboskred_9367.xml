@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9367">
+	<gml:description>Angir i hvilken grad det er fare for naboskred på strekningen, dvs om ventende biler på grunn av skred kan treffes av nytt skred. Brukes i beregning av F6 Naboskredfaktor.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Naboskred_9367.xml">Naboskred_9367</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13093">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Naboskred_9367.xml">13093</gml:identifier>
+			<gml:name>Ingen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13094">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Naboskred_9367.xml">13094</gml:identifier>
+			<gml:name>To skredløp, liten samtidighet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13095">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Naboskred_9367.xml">13095</gml:identifier>
+			<gml:name>To skredløp, stor samtidighet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13096">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Naboskred_9367.xml">13096</gml:identifier>
+			<gml:name>Flere skredløp</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

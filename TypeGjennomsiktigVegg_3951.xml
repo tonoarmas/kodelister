@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3951">
+	<gml:description>Angir hvilket materiale gjennomsiktig vegg er laget av.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeGjennomsiktigVegg_3951.xml">TypeGjennomsiktigVegg_3951</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4961">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeGjennomsiktigVegg_3951.xml">4961</gml:identifier>
+			<gml:name>Pleksiglass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4962">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeGjennomsiktigVegg_3951.xml">4962</gml:identifier>
+			<gml:name>Herdet glass</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

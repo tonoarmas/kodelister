@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9392">
+	<gml:description>Beregnet omkjøringstid (inkl fergetid) hvis vegen er stengt ved skredpunktet. Brukes ved beregning av F3 Omkjøringsfaktor.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">Omkjøring_9392</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13204">
+			<gml:description>Under 1 min.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13204</gml:identifier>
+			<gml:name>Under 1 min.</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13190">
+			<gml:description>5 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13190</gml:identifier>
+			<gml:name>5 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13191">
+			<gml:description>15 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13191</gml:identifier>
+			<gml:name>15 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13192">
+			<gml:description>30 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13192</gml:identifier>
+			<gml:name>30 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13193">
+			<gml:description>45 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13193</gml:identifier>
+			<gml:name>45 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13194">
+			<gml:description>60 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13194</gml:identifier>
+			<gml:name>60 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13195">
+			<gml:description>75 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13195</gml:identifier>
+			<gml:name>75 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13196">
+			<gml:description>90 min</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13196</gml:identifier>
+			<gml:name>90 min</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13197">
+			<gml:description>2 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13197</gml:identifier>
+			<gml:name>2 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13198">
+			<gml:description>3 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13198</gml:identifier>
+			<gml:name>3 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13199">
+			<gml:description>4 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13199</gml:identifier>
+			<gml:name>4 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13200">
+			<gml:description>5 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13200</gml:identifier>
+			<gml:name>5 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13201">
+			<gml:description>6 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13201</gml:identifier>
+			<gml:name>6 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13202">
+			<gml:description>7 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13202</gml:identifier>
+			<gml:name>7 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13203">
+			<gml:description>8 t</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13203</gml:identifier>
+			<gml:name>8 t</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13205">
+			<gml:description>Ingen omkjøringsmulighet. Dersom omkjøring tar mer enn 8 timer regnes det også som ingen omkjøring.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Omkjøring_9392.xml">13205</gml:identifier>
+			<gml:name>Ingen omkjøringsmulighet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

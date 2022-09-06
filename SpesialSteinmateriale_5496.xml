@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5496">
+	<gml:description>Angir bruk av evt. spesial steinmateriale.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesialSteinmateriale_5496.xml">SpesialSteinmateriale_5496</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7470">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesialSteinmateriale_5496.xml">7470</gml:identifier>
+			<gml:name>Slagg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7471">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesialSteinmateriale_5496.xml">7471</gml:identifier>
+			<gml:name>Lys stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7472">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesialSteinmateriale_5496.xml">7472</gml:identifier>
+			<gml:name>Dynagrip</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

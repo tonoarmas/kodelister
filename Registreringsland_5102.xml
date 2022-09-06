@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5102">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">Registreringsland_5102</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6605">
+			<gml:description>Norge</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6605</gml:identifier>
+			<gml:name>Norge</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6606">
+			<gml:description>Sverige</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6606</gml:identifier>
+			<gml:name>Sverige</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6607">
+			<gml:description>Danmark</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6607</gml:identifier>
+			<gml:name>Danmark</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6608">
+			<gml:description>Finland</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6608</gml:identifier>
+			<gml:name>Finland</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6609">
+			<gml:description>Storbritannia</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6609</gml:identifier>
+			<gml:name>Storbritannia</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6610">
+			<gml:description>Tyskland</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6610</gml:identifier>
+			<gml:name>Tyskland</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6611">
+			<gml:description>Frankrike</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6611</gml:identifier>
+			<gml:name>Frankrike</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6612">
+			<gml:description>Nederland</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6612</gml:identifier>
+			<gml:name>Nederland</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6613">
+			<gml:description>Belgia</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6613</gml:identifier>
+			<gml:name>Belgia</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6614">
+			<gml:description>Luxembourg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6614</gml:identifier>
+			<gml:name>Luxembourg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6615">
+			<gml:description>Østerrike</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6615</gml:identifier>
+			<gml:name>Østerrike</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6616">
+			<gml:description>Sveits</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6616</gml:identifier>
+			<gml:name>Sveits</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6617">
+			<gml:description>Italia</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6617</gml:identifier>
+			<gml:name>Italia</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6618">
+			<gml:description>Polen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6618</gml:identifier>
+			<gml:name>Polen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6619">
+			<gml:description>Russland</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6619</gml:identifier>
+			<gml:name>Russland</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9805">
+			<gml:description>Litauen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">9805</gml:identifier>
+			<gml:name>Litauen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13439">
+			<gml:description>Estland</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">13439</gml:identifier>
+			<gml:name>Estland</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13440">
+			<gml:description>Latvia</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">13440</gml:identifier>
+			<gml:name>Latvia</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13441">
+			<gml:description>Romania</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">13441</gml:identifier>
+			<gml:name>Romania</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13442">
+			<gml:description>Bulgaria</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">13442</gml:identifier>
+			<gml:name>Bulgaria</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13443">
+			<gml:description>Kroatia</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">13443</gml:identifier>
+			<gml:name>Kroatia</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6620">
+			<gml:description>Andre østeuropeiske land</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6620</gml:identifier>
+			<gml:name>Andre østeuropeiske land</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6621">
+			<gml:description>Andre vesteuropeiske land</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6621</gml:identifier>
+			<gml:name>Andre vesteuropeiske land</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6622">
+			<gml:description>Diplomatbil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6622</gml:identifier>
+			<gml:name>Diplomatbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6623">
+			<gml:description>Militært kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6623</gml:identifier>
+			<gml:name>Militært kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6624">
+			<gml:description>Annet land</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6624</gml:identifier>
+			<gml:name>Annet land</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6625">
+			<gml:description>Ukjent </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Registreringsland_5102.xml">6625</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

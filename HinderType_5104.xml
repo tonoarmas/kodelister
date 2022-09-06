@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5104">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">HinderType_5104</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6626">
+			<gml:description>Intet hinder påkjørt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6626</gml:identifier>
+			<gml:name>Intet hinder påkjørt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6627">
+			<gml:description>Skiltstolpe</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6627</gml:identifier>
+			<gml:name>Skiltstolpe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6628">
+			<gml:description>Signalstolpe</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6628</gml:identifier>
+			<gml:name>Signalstolpe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6629">
+			<gml:description>Lysmast av tre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6629</gml:identifier>
+			<gml:name>Lysmast av tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6630">
+			<gml:description>Lysmast av stål</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6630</gml:identifier>
+			<gml:name>Lysmast av stål</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6631">
+			<gml:description>Annen mast / stolpe</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6631</gml:identifier>
+			<gml:name>Annen mast / stolpe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6632">
+			<gml:description>Tre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6632</gml:identifier>
+			<gml:name>Tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6633">
+			<gml:description>Gjerde, rekkverk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6633</gml:identifier>
+			<gml:name>Gjerde, rekkverk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6634">
+			<gml:description>Mur, bygning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6634</gml:identifier>
+			<gml:name>Mur, bygning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6635">
+			<gml:description>Stein, fjellvegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6635</gml:identifier>
+			<gml:name>Stein, fjellvegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6636">
+			<gml:description>Kantstein</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6636</gml:identifier>
+			<gml:name>Kantstein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6637">
+			<gml:description>Parkert kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6637</gml:identifier>
+			<gml:name>Parkert kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6638">
+			<gml:description>Annen gjenstand i kjørebanen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6638</gml:identifier>
+			<gml:name>Annen gjenstand i kjørebanen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6639">
+			<gml:description>Større tamdyr (ku mm.)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6639</gml:identifier>
+			<gml:name>Større tamdyr (ku mm.)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6640">
+			<gml:description>Mindre tamdyr ( katt mm.) </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6640</gml:identifier>
+			<gml:name>Mindre tamdyr ( katt mm.)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6641">
+			<gml:description>Elg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6641</gml:identifier>
+			<gml:name>Elg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6642">
+			<gml:description>Rein    </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6642</gml:identifier>
+			<gml:name>Rein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6643">
+			<gml:description>Rådyr, hjort</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6643</gml:identifier>
+			<gml:name>Rådyr, hjort</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6644">
+			<gml:description>Annet vilt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6644</gml:identifier>
+			<gml:name>Annet vilt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6645">
+			<gml:description>Ukjent dyr</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6645</gml:identifier>
+			<gml:name>Ukjent dyr</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6646">
+			<gml:description>annet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6646</gml:identifier>
+			<gml:name>Annet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6647">
+			<gml:description>ukjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HinderType_5104.xml">6647</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

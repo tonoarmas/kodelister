@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3514">
+	<gml:description>Angir hvilken type overdekningslag det er tale om</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Type_3514.xml">Utgår_Type_3514</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4708">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Type_3514.xml">4708</gml:identifier>
+			<gml:name>Utgår_PE-skum</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4709">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Type_3514.xml">4709</gml:identifier>
+			<gml:name>Utgår_Sprøytebetong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4710">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Type_3514.xml">4710</gml:identifier>
+			<gml:name>Utgår_PE-skum m sprøytebetong</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

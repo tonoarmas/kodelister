@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3839">
+	<gml:description>Angir hvordan åpning/lukking foregår.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeÅpningLukking_3839.xml">TypeÅpningLukking_3839</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4704">
+			<gml:description>Åpning/lukking foregår ved at en f.eks. noen «trykker på en knapp» eller av brikke i kjøretøy el. lign.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeÅpningLukking_3839.xml">4704</gml:identifier>
+			<gml:name>Automatisert/elektrisk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4705">
+			<gml:description>Må åpnes/lukkes fysisk på stedet.  Noen vegbommer kan være låst med hengelås.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeÅpningLukking_3839.xml">4705</gml:identifier>
+			<gml:name>Manuell</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19820">
+			<gml:description>Vegbom har ikke åpne lukke-mulighet. For å passeres må eventuelt hele vegbom/sperring fjernes. Relevant for noen typer rørgelender, stolper/puller/kjegle, mm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeÅpningLukking_3839.xml">19820</gml:identifier>
+			<gml:name>Ikke åpne-/lukkemulighet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

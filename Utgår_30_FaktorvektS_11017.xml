@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11017">
+	<gml:description>Angir faktor for sannsynnslighet av framkommelighetsbruddet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_30_FaktorvektS_11017.xml">Utgår_30_FaktorvektS_11017</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18439">
+			<gml:description>Svært lite sannsylig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_30_FaktorvektS_11017.xml">18439</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18440">
+			<gml:description>Sannsynlig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_30_FaktorvektS_11017.xml">18440</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18441">
+			<gml:description>Svært sannsynlig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_30_FaktorvektS_11017.xml">18441</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

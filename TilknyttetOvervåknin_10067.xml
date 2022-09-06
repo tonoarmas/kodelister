@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10067">
+	<gml:description>Angir hvilken overvåkningssentral tavlen er tilknyttet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">TilknyttetOvervåknin_10067</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16441">
+			<gml:description>Fortdelingstavle er knyttet til VTS.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">16441</gml:identifier>
+			<gml:name>VTS</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21047">
+			<gml:description>Fortdelingstavle er knyttet til VTS Nord</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">21047</gml:identifier>
+			<gml:name>VTS Nord</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21048">
+			<gml:description>Fortdelingstavle er knyttet til VTS Midt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">21048</gml:identifier>
+			<gml:name>VTS Midt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21049">
+			<gml:description>Fortdelingstavle er knyttet til VTS Vest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">21049</gml:identifier>
+			<gml:name>VTS Vest</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21050">
+			<gml:description>Fortdelingstavle er knyttet til VTS Sør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">21050</gml:identifier>
+			<gml:name>VTS Sør</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21051">
+			<gml:description>Fortdelingstavle er knyttet til VTS Øst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">21051</gml:identifier>
+			<gml:name>VTS Øst</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16442">
+			<gml:description>Fortdelingstavle er knyttet til annet sentralt styringssystem</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">16442</gml:identifier>
+			<gml:name>Annet sentralt styringssystem</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16443">
+			<gml:description>Fortdelingstavle er ikke knyttet til overvåkningssentral</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilknyttetOvervåknin_10067.xml">16443</gml:identifier>
+			<gml:name>Ingen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

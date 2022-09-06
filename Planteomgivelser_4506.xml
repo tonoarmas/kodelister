@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4506">
+	<gml:description>Angir hva som omgir plantene.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planteomgivelser_4506.xml">Planteomgivelser_4506</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5290">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planteomgivelser_4506.xml">5290</gml:identifier>
+			<gml:name>Matjord</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5291">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planteomgivelser_4506.xml">5291</gml:identifier>
+			<gml:name>Gress</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5292">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Planteomgivelser_4506.xml">5292</gml:identifier>
+			<gml:name>Barklag</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

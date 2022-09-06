@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11505">
+	<gml:description>Angir formål for graving.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">Graveformål_11505</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19538">
+			<gml:description>Ledninger, kuimmer etc i tilknytning til vann, avløp og/eller overvannssystem</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19538</gml:identifier>
+			<gml:name>Vann, avløp, overvann</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19539">
+			<gml:description>Ledninger, kuimmer etc i tilknytning til drenering</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19539</gml:identifier>
+			<gml:name>Drenering</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19540">
+			<gml:description>Kabler, trekkerør, trekkekummer, etc relatert til ecom, dvs signal, fiber, bredånd, etc</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19540</gml:identifier>
+			<gml:name>Ecom</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19541">
+			<gml:description>Kabler, trekkerør, trekkekummer, etc relatert til strømforsyning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19541</gml:identifier>
+			<gml:name>Strømforsyning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19542">
+			<gml:description>Rørledninger, kummer etc relatert til fjernvarme/kjøleanlegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19542</gml:identifier>
+			<gml:name>Fjernvarme/kjøling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19543">
+			<gml:description>Rørledninger, kummer, etc relart til olje-/gassanlegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19543</gml:identifier>
+			<gml:name>Olje, gass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19544">
+			<gml:description>Avfallssug, etc</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19544</gml:identifier>
+			<gml:name>Avfall</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19545">
+			<gml:description>Graving i forbindelse med vegvedlikehold</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19545</gml:identifier>
+			<gml:name>Vegvedlikehold</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19546">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Graveformål_11505.xml">19546</gml:identifier>
+			<gml:name>Annet formål</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

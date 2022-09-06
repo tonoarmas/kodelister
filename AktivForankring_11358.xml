@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11358">
+	<gml:description>Angir hvor vidt støttekonstruksjonen har en aktiv støttefunksjon etter at anlegget er ferdig.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktivForankring_11358.xml">AktivForankring_11358</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19213">
+			<gml:description>Støttekonstruksjonen har aktiv støttefunksjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktivForankring_11358.xml">19213</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19214">
+			<gml:description>Støttekonstruksjonen er inaktiv, dvs den har ikke lenger støttefunksjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AktivForankring_11358.xml">19214</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

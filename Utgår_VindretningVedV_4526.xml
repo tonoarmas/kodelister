@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4526">
+	<gml:description>Angir vindretning ved værstasjon</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">Utgår_VindretningVedV_4526</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5374">
+			<gml:description>sør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5374</gml:identifier>
+			<gml:name>S</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5375">
+			<gml:description>Sør-sørvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5375</gml:identifier>
+			<gml:name>SSV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5376">
+			<gml:description>Sørvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5376</gml:identifier>
+			<gml:name>SV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5377">
+			<gml:description>Vest-Sørvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5377</gml:identifier>
+			<gml:name>VSV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5378">
+			<gml:description>Vest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5378</gml:identifier>
+			<gml:name>V</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5379">
+			<gml:description>Vest-nordvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5379</gml:identifier>
+			<gml:name>VNV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5380">
+			<gml:description>Nordvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5380</gml:identifier>
+			<gml:name>NV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5381">
+			<gml:description>Nord-nordvest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5381</gml:identifier>
+			<gml:name>NNV</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5382">
+			<gml:description>Nord</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5382</gml:identifier>
+			<gml:name>N</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5383">
+			<gml:description>Nord-nordøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5383</gml:identifier>
+			<gml:name>NNØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5384">
+			<gml:description>Nordøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5384</gml:identifier>
+			<gml:name>NØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5385">
+			<gml:description>Øst-nordøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5385</gml:identifier>
+			<gml:name>ØNØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5386">
+			<gml:description>Øst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5386</gml:identifier>
+			<gml:name>Ø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5387">
+			<gml:description>Øst-sørøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5387</gml:identifier>
+			<gml:name>ØSØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5388">
+			<gml:description>Sørøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5388</gml:identifier>
+			<gml:name>SØ</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5389">
+			<gml:description>Sør-sørøst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_VindretningVedV_4526.xml">5389</gml:identifier>
+			<gml:name>SSØ</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

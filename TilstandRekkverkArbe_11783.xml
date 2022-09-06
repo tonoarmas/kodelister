@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11783">
+	<gml:description>Angir om det er trafikkfarlige objekter innenfor arbeidsbredden til rekkverket.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkArbe_11783.xml">TilstandRekkverkArbe_11783</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19742">
+			<gml:description>Ingen trafikkfarlige objekter innenfor arbeidsbredde</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkArbe_11783.xml">19742</gml:identifier>
+			<gml:name>Ok</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19743">
+			<gml:description>Det finnes trafikkfarlige objekter innenfor arbeidsbredden</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandRekkverkArbe_11783.xml">19743</gml:identifier>
+			<gml:name>Trafikkfarlige objekter innenfor arbeidsbredde</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

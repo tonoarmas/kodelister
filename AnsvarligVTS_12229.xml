@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12229">
+	<gml:description>Angir ansvarlig vegtrafikksentral for strekningen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">AnsvarligVTS_12229</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21343">
+			<gml:description>Vegtrafikksentral Øst</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">21343</gml:identifier>
+			<gml:name>VTS Øst</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21344">
+			<gml:description>Vegtrafikksentral Sør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">21344</gml:identifier>
+			<gml:name>VTS Sør</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21345">
+			<gml:description>Vegtrafikksentral Vest</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">21345</gml:identifier>
+			<gml:name>VTS Vest</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21346">
+			<gml:description>Vegtrafikksentral Midt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">21346</gml:identifier>
+			<gml:name>VTS Midt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21347">
+			<gml:description>Vegtrafikksentral Nord</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AnsvarligVTS_12229.xml">21347</gml:identifier>
+			<gml:name>VTS Nord</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

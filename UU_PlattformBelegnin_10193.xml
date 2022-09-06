@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10193">
+	<gml:description>Belegning på plattform.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">UU_PlattformBelegnin_10193</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16605">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">16605</gml:identifier>
+			<gml:name>Asfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16606">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">16606</gml:identifier>
+			<gml:name>Betong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16607">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">16607</gml:identifier>
+			<gml:name>Betongstein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16609">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">16609</gml:identifier>
+			<gml:name>Naturstein, brostein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20073">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">20073</gml:identifier>
+			<gml:name>Naturstein, heller</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16608">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformBelegnin_10193.xml">16608</gml:identifier>
+			<gml:name>Grus</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

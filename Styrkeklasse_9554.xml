@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9554">
+	<gml:description>Angir styrkeklasse i henhold til håndbok N101 (231), vedlegg 1.1.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">Styrkeklasse_9554</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13726">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13726</gml:identifier>
+			<gml:name>H1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13727">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13727</gml:identifier>
+			<gml:name>H2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13728">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13728</gml:identifier>
+			<gml:name>H3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13729">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13729</gml:identifier>
+			<gml:name>H4a</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13730">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13730</gml:identifier>
+			<gml:name>H4b</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13731">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13731</gml:identifier>
+			<gml:name>L1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13732">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13732</gml:identifier>
+			<gml:name>L2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13733">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13733</gml:identifier>
+			<gml:name>L3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13734">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13734</gml:identifier>
+			<gml:name>L4a</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13735">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13735</gml:identifier>
+			<gml:name>L4b</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13736">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13736</gml:identifier>
+			<gml:name>N1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13737">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13737</gml:identifier>
+			<gml:name>N2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13738">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13738</gml:identifier>
+			<gml:name>T1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13739">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13739</gml:identifier>
+			<gml:name>T2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13740">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Styrkeklasse_9554.xml">13740</gml:identifier>
+			<gml:name>T3</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

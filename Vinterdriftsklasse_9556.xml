@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9556">
+	<gml:description>Beskriver hvilken standard for vinterdrift som skal gjelde for plassen. (Se også vegobjekttype 819-Vinterdriftsklasse).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vinterdriftsklasse_9556.xml">Vinterdriftsklasse_9556</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13766">
+			<gml:description>Godkjent føreforhold er bar veg (tørr eller våt). Håndbok R610 (111)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vinterdriftsklasse_9556.xml">13766</gml:identifier>
+			<gml:name>DkA</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

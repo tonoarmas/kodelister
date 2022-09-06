@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2037">
+	<gml:description>Angir om rasteplassen har lovlig adkomst fra en eller begge kjøreretninger.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LovligAdkomst_2037.xml">LovligAdkomst_2037</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3252">
+			<gml:description>Det er kun lovlig adkomst til rasteplassen for en kjøreretning. Den andre kjøreretningen har ikke tilgang til rasteplassen pga. enten skilting, vegoppmerking eller fysisk sperring.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LovligAdkomst_2037.xml">3252</gml:identifier>
+			<gml:name>En retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3251">
+			<gml:description>Rasteplassen er tilgjengelig for begge kjøreretninger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LovligAdkomst_2037.xml">3251</gml:identifier>
+			<gml:name>Begge retninger</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

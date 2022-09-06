@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1130">
+	<gml:description>Angir hvilken type tunnelløp det er tale om.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">TypeTunnelløp_1130</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3386">
+			<gml:description>Tunnelløp som hovedsaklig går i berg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">3386</gml:identifier>
+			<gml:name>Berg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3387">
+			<gml:description>Tunnelløp som går i løsmasser</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">3387</gml:identifier>
+			<gml:name>Løsmasse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3388">
+			<gml:description>Tunnelløp som delvis går i berg og delvis i løsmasser</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">3388</gml:identifier>
+			<gml:name>Berg/løsmasse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4843">
+			<gml:description>Tunnelløp som går under bygning/lokk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">4843</gml:identifier>
+			<gml:name>Lokk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13001">
+			<gml:description>Tunnelløp under vann som er satt sammen av ferdigbygde seksjoner som har blitt senka på plass.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeTunnelløp_1130.xml">13001</gml:identifier>
+			<gml:name>Senketunnel</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

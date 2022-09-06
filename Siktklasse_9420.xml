@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9420">
+	<gml:description>Angir hvilken siktklasse som gjelder på denne strekningen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Siktklasse_9420.xml">Siktklasse_9420</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13269">
+			<gml:description>Vegstrekninger bygd i henhold til normaler for veg- og gateutforming fra før 1992 og vegstrekninger med svært varierende geometrisk standard.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Siktklasse_9420.xml">13269</gml:identifier>
+			<gml:name>Siktklasse 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13270">
+			<gml:description>Vegstrekninger som i hovedsak er bygd i henhold til vegnormal Statens vegvesen håndbok N100 (017) Veg- og gateutforming (1992/1993)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Siktklasse_9420.xml">13270</gml:identifier>
+			<gml:name>Siktklasse 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13271">
+			<gml:description>Vegstrekninger som i hovedsak er bygd i henhold til vegnormal Statens vegvesen håndbok N100 (017) Veg- og gateutforming (2008)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Siktklasse_9420.xml">13271</gml:identifier>
+			<gml:name>Siktklasse 3</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

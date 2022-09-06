@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5076">
+	<gml:description>Stedsforhold på ulykkessted.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">Stedsforhold_5076</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6442">
+			<gml:description>Vegstrekning utenfor kryss/avkjørsel </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6442</gml:identifier>
+			<gml:name>Vegstrekning utenfor kryss/avkjørsel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6443">
+			<gml:description>3-armet kryss (T-kryss, Y-kryss)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6443</gml:identifier>
+			<gml:name>3-armet kryss (T-kryss, Y-kryss)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6444">
+			<gml:description>4 armet kryss (X-kryss)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6444</gml:identifier>
+			<gml:name>4 armet kryss (X-kryss)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6445">
+			<gml:description>Rundkjøring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6445</gml:identifier>
+			<gml:name>Rundkjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6446">
+			<gml:description>Annet kryss</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6446</gml:identifier>
+			<gml:name>Annet kryss</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6447">
+			<gml:description>Avkjørsel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6447</gml:identifier>
+			<gml:name>Avkjørsel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6448">
+			<gml:description>Planovergang</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6448</gml:identifier>
+			<gml:name>Planovergang</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6449">
+			<gml:description>Bru</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6449</gml:identifier>
+			<gml:name>Bru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6451">
+			<gml:description>Bomstasjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6451</gml:identifier>
+			<gml:name>Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13461">
+			<gml:description>Undergang (gang- og sykkelveg)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">13461</gml:identifier>
+			<gml:name>Undergang (gang- og sykkelveg)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13460">
+			<gml:description>Tunnel (primært for motorkjøretøy)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">13460</gml:identifier>
+			<gml:name>Tunnel (primært for motorkjøretøy)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20449">
+			<gml:description>Planskilt kryssning, kjøreveg (f.eks. under bru)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">20449</gml:identifier>
+			<gml:name>Planskilt kryssning, kjøreveg (Ny)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6452">
+			<gml:description>annet (P-plass, torv, o. l.)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6452</gml:identifier>
+			<gml:name>Annet (P-plass, torv, o. l.)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6453">
+			<gml:description>ukjent    </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Stedsforhold_5076.xml">6453</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

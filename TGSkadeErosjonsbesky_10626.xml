@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10626">
+	<gml:description>Tilstandsgrad, Skade erosjonsbeskyttelse. 0=TG0, 1=TG1, 2=TG3, 3=TG3, 8=TGIU, 9=TGmang.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">TGSkadeErosjonsbesky_10626</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17055">
+			<gml:description>Tilstandsgrad 0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17055</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17081">
+			<gml:description>Tilstandsgrad 1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17081</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17107">
+			<gml:description>Tilstandsgrad 2</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17107</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17133">
+			<gml:description>Tilstandsgrad 3</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17133</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17159">
+			<gml:description>Tilstandsgrad Ikke Undersøkt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17159</gml:identifier>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17185">
+			<gml:description>Tilstandsgrad mangler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadeErosjonsbesky_10626.xml">17185</gml:identifier>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

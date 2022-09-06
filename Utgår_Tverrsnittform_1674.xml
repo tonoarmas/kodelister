@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1674">
+	<gml:description>Angir hvilken form tverrsnittet av vegobjektet</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">Utgår_Tverrsnittform_1674</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2526">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2526</gml:identifier>
+			<gml:name>Sirkulært</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2531">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2531</gml:identifier>
+			<gml:name>Firkanta</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2438">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2438</gml:identifier>
+			<gml:name>H-form</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2529">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2529</gml:identifier>
+			<gml:name>Rektangulært</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2437">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2437</gml:identifier>
+			<gml:name>I-form</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2439">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Tverrsnittform_1674.xml">2439</gml:identifier>
+			<gml:name>T-form</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

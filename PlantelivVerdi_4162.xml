@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4162">
+	<gml:description>Angir hvor verdifullt planteliv det er i vegens sideområde.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlantelivVerdi_4162.xml">PlantelivVerdi_4162</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5135">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlantelivVerdi_4162.xml">5135</gml:identifier>
+			<gml:name>Noe høy verdi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5134">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlantelivVerdi_4162.xml">5134</gml:identifier>
+			<gml:name>Høy verdi</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5133">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/PlantelivVerdi_4162.xml">5133</gml:identifier>
+			<gml:name>Svært høy verdi</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

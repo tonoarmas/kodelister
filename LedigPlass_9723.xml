@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9723">
+	<gml:description>Angir om rør/kanal er ledig (tomt).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LedigPlass_9723.xml">LedigPlass_9723</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="15868">
+			<gml:description>Det er ledig kapasitet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LedigPlass_9723.xml">15868</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="15869">
+			<gml:description>Det er ikke ledig kapasitet for tiden</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LedigPlass_9723.xml">15869</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21523">
+			<gml:description>Det er ikke avklart om det er ledig plass</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LedigPlass_9723.xml">21523</gml:identifier>
+			<gml:name>Uavklart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21522">
+			<gml:description>Vil aldri være relevant med ledig plass</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/LedigPlass_9723.xml">21522</gml:identifier>
+			<gml:name>Ikke relevant</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

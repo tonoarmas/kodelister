@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12149">
+	<gml:description>Angir i hvilket bruforvaltningssystem bruene har sin opprinnelse. Bruforvaltningssystemet vil også sørge for at bruene oppdateres i NVDB om det er endringer.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">Bruforvaltningssyste_12149</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21103">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">21103</gml:identifier>
+			<gml:name>Brutus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21104">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">21104</gml:identifier>
+			<gml:name>Sinus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21105">
+			<gml:description>Bru er generet på basis av forekomst av Bru i FKB ByggAnlegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">21105</gml:identifier>
+			<gml:name>Generert fra FKB</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21107">
+			<gml:description>Annet Bruforvaltningssystem. Benyttes i forbindelse med tilpasning av nye systemer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">21107</gml:identifier>
+			<gml:name>Annet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21106">
+			<gml:description>Bru er opprettet i NVDB og har ikke kopling til eksternt system.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruforvaltningssyste_12149.xml">21106</gml:identifier>
+			<gml:name>Ingen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

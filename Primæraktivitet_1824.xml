@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1824">
+	<gml:description>Angir hva som er primær aktivitet langs avkjørselsveg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">Primæraktivitet_1824</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3175">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3175</gml:identifier>
+			<gml:name>1-2leiligheter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3176">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3176</gml:identifier>
+			<gml:name>3-5 leiligheter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3177">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3177</gml:identifier>
+			<gml:name>6-10 leiligheter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3178">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3178</gml:identifier>
+			<gml:name>&gt; 10 leiligheter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3179">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3179</gml:identifier>
+			<gml:name>1-2 hytter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3180">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3180</gml:identifier>
+			<gml:name>3-5 hytter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3181">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3181</gml:identifier>
+			<gml:name>&gt; 5 hytter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3182">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3182</gml:identifier>
+			<gml:name>1 gardsbruk i drift</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3183">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3183</gml:identifier>
+			<gml:name>2-3 gardsbruk i drift</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3184">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3184</gml:identifier>
+			<gml:name>Nedlagt gardsbruk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3185">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3185</gml:identifier>
+			<gml:name>Jord/grustak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3186">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3186</gml:identifier>
+			<gml:name>Tømmeropplagring/velteplass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3187">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3187</gml:identifier>
+			<gml:name>Grustak/steinbrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3188">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3188</gml:identifier>
+			<gml:name>Liten forretning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3189">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3189</gml:identifier>
+			<gml:name>Middels landhandel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3190">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3190</gml:identifier>
+			<gml:name>Stort forretningssenter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3191">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3191</gml:identifier>
+			<gml:name>Kiosk/gatekjøkken</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3192">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3192</gml:identifier>
+			<gml:name>Hotell &lt; 50 plasser</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3193">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3193</gml:identifier>
+			<gml:name>Hotell &gt; 50 plasser</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3194">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3194</gml:identifier>
+			<gml:name>Bensinstasjon, bilverksted</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3195">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3195</gml:identifier>
+			<gml:name>Sykehus &lt; 50 plasser</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3196">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3196</gml:identifier>
+			<gml:name>Sykehus &gt; 50 plasser</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3197">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3197</gml:identifier>
+			<gml:name>Utfartsplass, skitrekk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3198">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3198</gml:identifier>
+			<gml:name>Fritid, kino</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3199">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Primæraktivitet_1824.xml">3199</gml:identifier>
+			<gml:name>Lekeplass/løkke</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

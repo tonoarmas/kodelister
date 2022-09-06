@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4520">
+	<gml:description>Angir bruksområde for vegobjekttypen.  Dette er en tilleggsopplysning til typen.  Det er ikke aktuelt å gi til alle typer.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_4520.xml">Bruksområde_4520</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5342">
+			<gml:description>Linje som skiller mellom kjørefelt med trafikk i motgående retninger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_4520.xml">5342</gml:identifier>
+			<gml:name>Midtlinje</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

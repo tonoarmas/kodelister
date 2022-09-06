@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5558">
+	<gml:description>Angir SOSI-versjon</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SOSI-versjon_5558.xml">SOSI-versjon_5558</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="15929">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SOSI-versjon_5558.xml">15929</gml:identifier>
+			<gml:name>Versjon 4.5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11747">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SOSI-versjon_5558.xml">11747</gml:identifier>
+			<gml:name>Versjon 4.0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11748">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SOSI-versjon_5558.xml">11748</gml:identifier>
+			<gml:name>Versjon 4.0 med temakoder</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7897">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SOSI-versjon_5558.xml">7897</gml:identifier>
+			<gml:name>Versjon 3.41</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

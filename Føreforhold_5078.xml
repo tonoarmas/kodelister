@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5078">
+	<gml:description>FØREFORHOLD PÅ ULYKKESSTED.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">Føreforhold_5078</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6460">
+			<gml:description>Tørr, bar veg </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6460</gml:identifier>
+			<gml:name>Tørr, bar veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6461">
+			<gml:description>Våt, bar veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6461</gml:identifier>
+			<gml:name>Våt, bar veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6462">
+			<gml:description>Snø / isbelagt veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6462</gml:identifier>
+			<gml:name>Snø / isbelagt veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6463">
+			<gml:description>Delvis snø / isbelagt veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6463</gml:identifier>
+			<gml:name>Delvis snø / isbelagt veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6464">
+			<gml:description>Glatt ellers</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6464</gml:identifier>
+			<gml:name>Glatt ellers</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6465">
+			<gml:description>ukjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Føreforhold_5078.xml">6465</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

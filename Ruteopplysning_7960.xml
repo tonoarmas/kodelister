@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.7960">
+	<gml:description>Angir</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ruteopplysning_7960.xml">Ruteopplysning_7960</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="10196">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ruteopplysning_7960.xml">10196</gml:identifier>
+			<gml:name>Digital/elektronisk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10197">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ruteopplysning_7960.xml">10197</gml:identifier>
+			<gml:name>Manuelt oppslag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10198">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Ruteopplysning_7960.xml">10198</gml:identifier>
+			<gml:name>Ingen informasjon</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

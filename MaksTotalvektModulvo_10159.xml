@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10159">
+	<gml:description>Angir maksimal totalvekt for modulvogntog</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektModulvo_10159.xml">MaksTotalvektModulvo_10159</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16553">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektModulvo_10159.xml">16553</gml:identifier>
+			<gml:name>60</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16554">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaksTotalvektModulvo_10159.xml">16554</gml:identifier>
+			<gml:name>50</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4611">
+	<gml:description>Angir om det er montert varselblink på vegbom/stengsel.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VarselblinkPåmontert_4611.xml">VarselblinkPåmontert_4611</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5567">
+			<gml:description>Det er montert varselblink</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VarselblinkPåmontert_4611.xml">5567</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5568">
+			<gml:description>Benyttes i tilfeller hvor det ikke er montert varselblink, men det er relevant å montere varselblink</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VarselblinkPåmontert_4611.xml">5568</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17303">
+			<gml:description>Angis i tilfeller hvor det ikke er relevant å montere varselblink.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VarselblinkPåmontert_4611.xml">17303</gml:identifier>
+			<gml:name>Ikke relevant</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

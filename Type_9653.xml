@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9653">
+	<gml:description>Angir type forbygning.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_9653.xml">Type_9653</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13907">
+			<gml:description>Paraplyforebygning montert i et system for å holde snø på plass i løsneområdet.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_9653.xml">13907</gml:identifier>
+			<gml:name>Snøanker</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

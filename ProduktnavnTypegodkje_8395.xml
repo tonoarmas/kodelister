@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8395">
+	<gml:description>Refererer til produktnavn og typegodkjenning (samsvarsgodkjenning) for støtputer godkjent av Statens vegvesen. Se http://www.vegvesen.no/Fag/Teknologi/Rekkverk+og+master/Sok+etter+godkjent+produkt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkje_8395.xml">ProduktnavnTypegodkje_8395</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20338">
+			<gml:description>Produktnavn: APM 50. Typegodkjenning: S 50 Z1 D2. Mer informasjon: https://www.vegvesen.no/fag/teknologi/Rekkverk+og+master/Sok+etter+godkjent+produkt/Vegutstyr?key=2911668&amp;method=alle&amp;produkttype=12624</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkje_8395.xml">20338</gml:identifier>
+			<gml:name>APM 50 - S50</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

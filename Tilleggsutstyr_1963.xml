@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1963">
+	<gml:description>Angir hvilket tilleggsutstyr det finnes i forbindelse med vegobjektet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilleggsutstyr_1963.xml">Tilleggsutstyr_1963</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2989">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilleggsutstyr_1963.xml">2989</gml:identifier>
+			<gml:name>Trykknapp for fotgjengere</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2990">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilleggsutstyr_1963.xml">2990</gml:identifier>
+			<gml:name>Akustisk signal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2991">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilleggsutstyr_1963.xml">2991</gml:identifier>
+			<gml:name>Trykknapp for fotgjengere og akustisk signal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18308">
+			<gml:description>Ikke noe tilleggsutstyr. Bare aktuelt å angi denne verdien i tilfeller hvor det er relevant med tilleggsutstyr</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tilleggsutstyr_1963.xml">18308</gml:identifier>
+			<gml:name>Ikke tilleggsutstyr</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12083">
+	<gml:description>Angir hvordan oppgitt ÅDT-verdi for trafikkmengdeforekomster stedfestet på vegstrekning med adskilte løp=Ja eller adskilte løp=Nei skal tolkes.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkmengdePåAdski_12083.xml">TrafikkmengdePåAdski_12083</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21001">
+			<gml:description>Det er oppgitt ÅDT-verdi som er summen av trafikken for med-strekning og tilhørende mot-strekning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkmengdePåAdski_12083.xml">21001</gml:identifier>
+			<gml:name>Sum av trafikk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21002">
+			<gml:description>Det er oppgitt ÅDT-verdi som angir summen av trafikken i en retning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkmengdePåAdski_12083.xml">21002</gml:identifier>
+			<gml:name>Trafikk i en retning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21003">
+			<gml:description>Angis for trafikkmengdeforekomster som ikke er stedfestet på enveg med/mot-streknminger</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TrafikkmengdePåAdski_12083.xml">21003</gml:identifier>
+			<gml:name>Ikke relevant</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10698">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">Trafikkberedskapskla_10698</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17283">
+			<gml:description>Vegnett i klasse TBK1 som er tilrettelagt for å iverksette omkjøringsrute ved hjelp av variable skilt som fjernstyres fra VTS.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">17283</gml:identifier>
+			<gml:name>TBK1A</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17284">
+			<gml:description>Vegnett i klasse TBK1 hvor iverksetting av omkjøringsrute etableres manuelt.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">17284</gml:identifier>
+			<gml:name>TBK1B</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17285">
+			<gml:description>Overordnet vegnett og viktige regionale ruter for næringstransport (som ikke tilfredsstiller kriteriene for TBK1) skal kategoriseres i trafikkberedskapsklasse 2 (TBK2).</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">17285</gml:identifier>
+			<gml:name>TBK2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17286">
+			<gml:description>Veger som er av betydning for næringstransport, men som ikke er kategorisert i TBK1 eller TBK2, skal kategoriseres i trafikkberedskapsklasse 3 (TBK3).</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">17286</gml:identifier>
+			<gml:name>TBK3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17287">
+			<gml:description>Øvrige veger som ikke er kategorisert i TBK1, TBK2 eller TBK3, kategoriseres i TBK4</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Trafikkberedskapskla_10698.xml">17287</gml:identifier>
+			<gml:name>TBK4</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

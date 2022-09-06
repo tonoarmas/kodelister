@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2105">
+	<gml:description>Angir hvilken type stolper gjerdet har.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">TypeStolpe_2105</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2253">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">2253</gml:identifier>
+			<gml:name>Metall, aluminium</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2243">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">2243</gml:identifier>
+			<gml:name>Metall, stål</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2196">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">2196</gml:identifier>
+			<gml:name>Tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2275">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">2275</gml:identifier>
+			<gml:name>Plast</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17440">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStolpe_2105.xml">17440</gml:identifier>
+			<gml:name>Betong</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

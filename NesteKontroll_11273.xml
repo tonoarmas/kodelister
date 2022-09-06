@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11273">
+	<gml:description>Angir når det er behov for ny kontroll.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">NesteKontroll_11273</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19010">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">19010</gml:identifier>
+			<gml:name>Neste vegetasjonsperiode</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19011">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">19011</gml:identifier>
+			<gml:name>Om 1 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19012">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">19012</gml:identifier>
+			<gml:name>Om 3 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19013">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">19013</gml:identifier>
+			<gml:name>Om 5 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19008">
+			<gml:description>Det er ikke behov for ny kontroll</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/NesteKontroll_11273.xml">19008</gml:identifier>
+			<gml:name>Ikke nødvendig</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9144">
+	<gml:description>Angir telegruppe.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Telegruppe_9144.xml">Telegruppe_9144</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12222">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Telegruppe_9144.xml">12222</gml:identifier>
+			<gml:name>T1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12223">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Telegruppe_9144.xml">12223</gml:identifier>
+			<gml:name>T2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12224">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Telegruppe_9144.xml">12224</gml:identifier>
+			<gml:name>T3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12225">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Telegruppe_9144.xml">12225</gml:identifier>
+			<gml:name>T4</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5470">
+	<gml:description>Angir bæreevnegruppe/materialbetegnelse i undergrunn.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">BæreevnegruppeMatrial_5470</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7438">
+			<gml:description>Fjell, steinfylling</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7438</gml:identifier>
+			<gml:name>I - Fjell, steinfylling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7439">
+			<gml:description>Grus, sand, velgradert (Cu&gt;10) .  Telegruppe = T1  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7439</gml:identifier>
+			<gml:name>II - Grus, sand, velgradert, Cu&gt;10</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7440">
+			<gml:description>Sand ensgradert (Cu&lt;10) .  Telegruppe = T1  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7440</gml:identifier>
+			<gml:name>III - Sand ensgradert, Cu&lt;10</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7441">
+			<gml:description>Grus, sand, morene: litt finstoff.  Telegruppe = T2  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7441</gml:identifier>
+			<gml:name>IV - Grus, sand, morene, med litt finstoff T2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7442">
+			<gml:description>Grus, sand, morene: mye  finstoff.  Telegruppe =  T3  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7442</gml:identifier>
+			<gml:name>V - Grus, sand, morene, med mye  finstoff T3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7443">
+			<gml:description>Silt, leire.  Telegruppe = T4  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7443</gml:identifier>
+			<gml:name>VI - Silt, leire  T4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7444">
+			<gml:description>Myr, torv  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7444</gml:identifier>
+			<gml:name>VII - Myr, torv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7445">
+			<gml:description>Bark </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BæreevnegruppeMatrial_5470.xml">7445</gml:identifier>
+			<gml:name>VIII - Bark</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

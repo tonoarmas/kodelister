@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11246">
+	<gml:description>Angir grad av usikkerhet i vurderingene som ligger til grunn for fastsettelse av risiko.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/14_Usikkerhet_11246.xml">14_Usikkerhet_11246</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18537">
+			<gml:description>Lite usikkerhet. Omfattende faglig grunnlag.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/14_Usikkerhet_11246.xml">18537</gml:identifier>
+			<gml:name>Liten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18538">
+			<gml:description>Noe usikkerhet. Noe faglig grunnlag.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/14_Usikkerhet_11246.xml">18538</gml:identifier>
+			<gml:name>Middels</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18539">
+			<gml:description>Stor usikkerhet. Mangelfullt eller svært lite faglig grunnlag.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/14_Usikkerhet_11246.xml">18539</gml:identifier>
+			<gml:name>Stor</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

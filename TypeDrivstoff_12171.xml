@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12171">
+	<gml:description>Angir hvilket drivstoff utstyret krever.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">TypeDrivstoff_12171</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21228">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21228</gml:identifier>
+			<gml:name>Hydrogen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21229">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21229</gml:identifier>
+			<gml:name>Naturgass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21230">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21230</gml:identifier>
+			<gml:name>Propan</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21231">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21231</gml:identifier>
+			<gml:name>Flytende petroleumsgass (LPG)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21232">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21232</gml:identifier>
+			<gml:name>Metanol</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21233">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21233</gml:identifier>
+			<gml:name>Biogass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21234">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeDrivstoff_12171.xml">21234</gml:identifier>
+			<gml:name>Ammoniakk</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

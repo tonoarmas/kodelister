@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11254">
+	<gml:description>Angir hvilken type skade på krone som er mest utbredt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">KronePrimærSkade_11254</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18939">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18939</gml:identifier>
+			<gml:name>K1-Greinbrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18940">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18940</gml:identifier>
+			<gml:name>K2-Greinsår</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18941">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18941</gml:identifier>
+			<gml:name>K3-Tørre greiner</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18942">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18942</gml:identifier>
+			<gml:name>K4-Greinsprekk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18943">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18943</gml:identifier>
+			<gml:name>K5-Sopp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18944">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18944</gml:identifier>
+			<gml:name>K6-Barkskader</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18945">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18945</gml:identifier>
+			<gml:name>K7-Kløyving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18946">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18946</gml:identifier>
+			<gml:name>K8-Hull og råte</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18947">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18947</gml:identifier>
+			<gml:name>K9-Kronebrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18948">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18948</gml:identifier>
+			<gml:name>K10-Oppstamming</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18949">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18949</gml:identifier>
+			<gml:name>K11-Glissen krone</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18950">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KronePrimærSkade_11254.xml">18950</gml:identifier>
+			<gml:name>K12-Avvik</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

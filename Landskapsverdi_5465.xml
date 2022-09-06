@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5465">
+	<gml:description>Angir landskapsverdi</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Landskapsverdi_5465.xml">Landskapsverdi_5465</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7399">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Landskapsverdi_5465.xml">7399</gml:identifier>
+			<gml:name>Spesielt verdifullt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7400">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Landskapsverdi_5465.xml">7400</gml:identifier>
+			<gml:name>Verdifullt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7401">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Landskapsverdi_5465.xml">7401</gml:identifier>
+			<gml:name>Vanlig</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9345">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Landskapsverdi_5465.xml">9345</gml:identifier>
+			<gml:name>Forringet verdi</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

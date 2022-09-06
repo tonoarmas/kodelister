@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4562">
+	<gml:description>Angir eventuelle spesielle problem knyttet til stikkrennen. Dette er problem som stadig gjentar seg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">SpesielleProblem_4562</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5470">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">5470</gml:identifier>
+			<gml:name>Masser, innløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5471">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">5471</gml:identifier>
+			<gml:name>Masser, utløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21652">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">21652</gml:identifier>
+			<gml:name>Masser, innløp og utløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5472">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">5472</gml:identifier>
+			<gml:name>Vegetasjonstetting, innløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5473">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">5473</gml:identifier>
+			<gml:name>Vegetasjonstetting, utløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21653">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">21653</gml:identifier>
+			<gml:name>Vegetasjonstetting, innløp og utløp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21654">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleProblem_4562.xml">21654</gml:identifier>
+			<gml:name>Kollaps</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

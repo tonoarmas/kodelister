@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11888">
+	<gml:description>Angir hvilken type drivstoff enheten bruker.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">Drivstoff_Ny__11888</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20143">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20143</gml:identifier>
+			<gml:name>Bensin</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20144">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20144</gml:identifier>
+			<gml:name>Diesel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20145">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20145</gml:identifier>
+			<gml:name>Parafin</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20146">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20146</gml:identifier>
+			<gml:name>Gass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20147">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20147</gml:identifier>
+			<gml:name>Elektrisk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20148">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20148</gml:identifier>
+			<gml:name>Hydrogen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20149">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20149</gml:identifier>
+			<gml:name>Hybrid</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20150">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20150</gml:identifier>
+			<gml:name>Biodiesel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20151">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20151</gml:identifier>
+			<gml:name>Biobensin</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20152">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20152</gml:identifier>
+			<gml:name>LPG-Gass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20153">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20153</gml:identifier>
+			<gml:name>CNG-Gass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20154">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20154</gml:identifier>
+			<gml:name>Metanol</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20155">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20155</gml:identifier>
+			<gml:name>Etanol</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20156">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Drivstoff_Ny__11888.xml">20156</gml:identifier>
+			<gml:name>Annet drivstoff</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

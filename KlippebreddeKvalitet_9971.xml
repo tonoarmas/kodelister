@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9971">
+	<gml:description>Angir kvalitet på verdier for "Klippebredde, faktisk" og ev. "Klippebredde, krav".</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">KlippebreddeKvalitet_9971</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16183">
+			<gml:description>Angir at det framkommet basert på en del målinger i felt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">16183</gml:identifier>
+			<gml:name>Målt i felt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16184">
+			<gml:description>Angir at det er vurdert noe grovt i felt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">16184</gml:identifier>
+			<gml:name>Vurdert i felt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16185">
+			<gml:description>Angir at det er angitt ut fra bilder og kart uten at det er foretatt vuredering i felt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">16185</gml:identifier>
+			<gml:name>Vurdert ut fra vegbilder/flyfoto/kart </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16186">
+			<gml:description>Angir at det er stor usikkerhet til informasjon, kan f.eks være basert på diverse gamle data osv</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">16186</gml:identifier>
+			<gml:name>Generelt anslag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16187">
+			<gml:description>Angir at det er lagt inn verdier ut fra generelle krav til klippebredde, f.eks kan det da være lagt inn 6 meter på alle steder der det er behov for klipping på gitt strekning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/KlippebreddeKvalitet_9971.xml">16187</gml:identifier>
+			<gml:name>Basert på generelle krav</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

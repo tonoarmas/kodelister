@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3921">
+	<gml:description>Angir hvilken type skred det er fare for. Bare aktuell dersom hovedårsak til vegstengning er "Skred" eller "Skredfare".</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">Skredtype_3921</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4931">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4931</gml:identifier>
+			<gml:name>Stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4932">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4932</gml:identifier>
+			<gml:name>Jord/løsmasse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4933">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4933</gml:identifier>
+			<gml:name>Snø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4934">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4934</gml:identifier>
+			<gml:name>Is</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4935">
+			<gml:description>Består av vann, stein og jord</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4935</gml:identifier>
+			<gml:name>Flomskred</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5350">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">5350</gml:identifier>
+			<gml:name>Is/stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4936">
+			<gml:description>Består av vann, snø og stein</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">4936</gml:identifier>
+			<gml:name>Sørpeskred</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13231">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skredtype_3921.xml">13231</gml:identifier>
+			<gml:name>Utglidning av veg</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

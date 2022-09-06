@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11256">
+	<gml:description>Angir hvilken type skade på stamme som er mest utbredt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">StammePrimærSkade_11256</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18951">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18951</gml:identifier>
+			<gml:name>S1-Påkjørselskade</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18952">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18952</gml:identifier>
+			<gml:name>S2-Greinsår</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18953">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18953</gml:identifier>
+			<gml:name>S3-Skadeinsekter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18954">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18954</gml:identifier>
+			<gml:name>S4-Sprukket bark</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18955">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18955</gml:identifier>
+			<gml:name>S5-Sopp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18956">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18956</gml:identifier>
+			<gml:name>S6-Barkskader</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18957">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18957</gml:identifier>
+			<gml:name>S7-Kløyving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18958">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18958</gml:identifier>
+			<gml:name>K8-Hull og råte</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18959">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18959</gml:identifier>
+			<gml:name>S9-Stammeskudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18960">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18960</gml:identifier>
+			<gml:name>S10-Stang/plombe</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18961">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18961</gml:identifier>
+			<gml:name>S11-Skakt tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18962">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StammePrimærSkade_11256.xml">18962</gml:identifier>
+			<gml:name>S12-Avvik</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

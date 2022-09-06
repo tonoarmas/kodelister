@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11534">
+	<gml:description>Angir hvilken aldersgruppe ulykkesinvolvert person tilhører.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">Alderskategori_11534</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19610">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19610</gml:identifier>
+			<gml:name>0-5 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19612">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19612</gml:identifier>
+			<gml:name>6-15</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19613">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19613</gml:identifier>
+			<gml:name>16-17</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19614">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19614</gml:identifier>
+			<gml:name>18-19</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19615">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19615</gml:identifier>
+			<gml:name>20-24</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19616">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19616</gml:identifier>
+			<gml:name>25-34</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19617">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19617</gml:identifier>
+			<gml:name>35-44</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19618">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19618</gml:identifier>
+			<gml:name>45-54</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19619">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19619</gml:identifier>
+			<gml:name>55-64</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19620">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19620</gml:identifier>
+			<gml:name>65-74</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19621">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19621</gml:identifier>
+			<gml:name>75-84</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19622">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19622</gml:identifier>
+			<gml:name>85 år eller eldre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19623">
+			<gml:description>Alder er ikke kjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Alderskategori_11534.xml">19623</gml:identifier>
+			<gml:name>Uoppgitt alder</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5271">
+	<gml:description>Angir hva som er begrensning i høyde, hva vegen går under.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">GårUnder_5271</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7287">
+			<gml:description>Undergang under vegbru, dvs under kryssende veg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">7287</gml:identifier>
+			<gml:name>Vegbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7286">
+			<gml:description>Undergang under jernbanebru, dvs under kryssende jernbane</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">7286</gml:identifier>
+			<gml:name>Jernbanebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7285">
+			<gml:description>Undergang under en gangbru, dvs under kryssende gang-/sykkelveg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">7285</gml:identifier>
+			<gml:name>Gangbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7909">
+			<gml:description>Undergang under bygning, dvs bygning med veg under</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">7909</gml:identifier>
+			<gml:name>Bygning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8176">
+			<gml:description>Undergang under viltovergang, dvs bygning med veg under</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">8176</gml:identifier>
+			<gml:name>Viltovergang</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8188">
+			<gml:description>Undergang under låvebru</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/GårUnder_5271.xml">8188</gml:identifier>
+			<gml:name>Låvebru</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

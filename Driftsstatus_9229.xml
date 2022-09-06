@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9229">
+	<gml:description>Angir driftsstatus til ferjekai.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Driftsstatus_9229.xml">Driftsstatus_9229</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12865">
+			<gml:description>Ferjekai benyttes i normal rutetrafikk.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Driftsstatus_9229.xml">12865</gml:identifier>
+			<gml:name>Trafikkeres</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21612">
+			<gml:description>Ferjekai benyttes i spesielle situasjoner. Kan f.eks ved vegstengning, vanskelige værforhold etc.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Driftsstatus_9229.xml">21612</gml:identifier>
+			<gml:name>Beredskapskai</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

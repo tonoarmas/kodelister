@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12044">
+	<gml:description>Juridisk vern, hjemlet i lov, forskrift, plan mv.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vernestatus_12044.xml">Vernestatus_12044</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="20878">
+			<gml:description>Vegminne i Nasjonal verneplan (NVP)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vernestatus_12044.xml">20878</gml:identifier>
+			<gml:name>Statlig listeført</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

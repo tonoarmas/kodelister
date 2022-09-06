@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9738">
+	<gml:description>Angir kummens form.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumform_9738.xml">Kumform_9738</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="14022">
+			<gml:description>Kummen er kvadratisk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumform_9738.xml">14022</gml:identifier>
+			<gml:name>Kvadratisk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14023">
+			<gml:description>Kummen er rektangulær</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumform_9738.xml">14023</gml:identifier>
+			<gml:name>Rektangulær</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="14024">
+			<gml:description>Kummen er rund</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kumform_9738.xml">14024</gml:identifier>
+			<gml:name>Rund</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

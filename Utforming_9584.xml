@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9584">
+	<gml:description>Angir hvilken utforming nedføringsrenne har.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utforming_9584.xml">Utforming_9584</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="13804">
+			<gml:description>Benyttes i fjellskjæringer</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utforming_9584.xml">13804</gml:identifier>
+			<gml:name>Loddrett</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

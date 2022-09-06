@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5080">
+	<gml:description>Lysforhold på ulykkessted/tidspunkt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">Lysforhold_5080</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6472">
+			<gml:description>Dagslys</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">6472</gml:identifier>
+			<gml:name>Dagslys</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6473">
+			<gml:description>Tussmørke, skumring</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">6473</gml:identifier>
+			<gml:name>Tussmørke, skumring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6474">
+			<gml:description>Mørkt med vegbelysning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">6474</gml:identifier>
+			<gml:name>Mørkt med vegbelysning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6475">
+			<gml:description>Mørkt uten vegbelysning</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">6475</gml:identifier>
+			<gml:name>Mørkt uten vegbelysning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6476">
+			<gml:description>ukjent </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Lysforhold_5080.xml">6476</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

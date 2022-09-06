@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10764">
+	<gml:description>Angir hvilken kjøretøykategori omkjøringsruta gjelder for.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjøretøykategori_10764.xml">Kjøretøykategori_10764</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17434">
+			<gml:description>Omkjøringsrute gjelder kun for lette kjøretøy.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjøretøykategori_10764.xml">17434</gml:identifier>
+			<gml:name>Lette kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17435">
+			<gml:description>Omkjøringsrute gjelder for både lette og tunge kjøretøy som ikke overkrider eventuelle begrensinger angitt i veglistene.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kjøretøykategori_10764.xml">17435</gml:identifier>
+			<gml:name>Alle kjøretøy</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

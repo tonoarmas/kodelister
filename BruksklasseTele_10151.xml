@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10151">
+	<gml:description>Angir bruksklasse (maks aksellast) for teleløsningsperiode</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BruksklasseTele_10151.xml">BruksklasseTele_10151</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16539">
+			<gml:description>Bruksklasse BkT8.  Maks totalvekt 50 tonn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BruksklasseTele_10151.xml">16539</gml:identifier>
+			<gml:name>BkT8 - 50 tonn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16540">
+			<gml:description>Bruksklasse BkT8.  Maks totalvekt 40 tonn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BruksklasseTele_10151.xml">16540</gml:identifier>
+			<gml:name>BkT8 - 40 tonn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16538">
+			<gml:description>Bruksklasse Bk8.  Maks totalvekt 32 tonn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BruksklasseTele_10151.xml">16538</gml:identifier>
+			<gml:name>Bk8 - 32 tonn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16536">
+			<gml:description>Bruksklasse Bk6.  Maks totalvekt 28 tonn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BruksklasseTele_10151.xml">16536</gml:identifier>
+			<gml:name>Bk6 - 28 tonn</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1940">
+	<gml:description>Angir hvilken type utløp det er i ei stikkrenne.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeUtløp_1940.xml">TypeUtløp_1940</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2927">
+			<gml:description>Vann ledes til kum</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeUtløp_1940.xml">2927</gml:identifier>
+			<gml:name>Kum</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2928">
+			<gml:description>Vann ledes ut i skråning eller ut i terreng</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeUtløp_1940.xml">2928</gml:identifier>
+			<gml:name>I skråning/terreng</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2929">
+			<gml:description>Vann ledes ut i bekk/elv</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeUtløp_1940.xml">2929</gml:identifier>
+			<gml:name>I bekk/elv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11655">
+			<gml:description>Vann ledes til åpen grøft.  Merknad: Ofte aktuelt i forbindelse med stikkrenner under avkjørsel.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeUtløp_1940.xml">11655</gml:identifier>
+			<gml:name>Åpen grøft</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

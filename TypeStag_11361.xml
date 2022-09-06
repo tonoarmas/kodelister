@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11361">
+	<gml:description>Angir type stag for stagforankring.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStag_11361.xml">TypeStag_11361</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19217">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStag_11361.xml">19217</gml:identifier>
+			<gml:name>Lissestag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19218">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStag_11361.xml">19218</gml:identifier>
+			<gml:name>Selvborende stag</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19219">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeStag_11361.xml">19219</gml:identifier>
+			<gml:name>Stangstag</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

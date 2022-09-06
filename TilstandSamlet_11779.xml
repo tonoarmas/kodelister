@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11779">
+	<gml:description>Angir samlet tilstand for rekkverket.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandSamlet_11779.xml">TilstandSamlet_11779</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19732">
+			<gml:description>Indikerer at alt er ok og dermed ikke behov for tiltak. De enkelte tilstandsparametrene skal enten være angitt med "Ok" eller ikke ha verdi.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandSamlet_11779.xml">19732</gml:identifier>
+			<gml:name>Ok</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19734">
+			<gml:description>Behov for tiltak. Minst en tilstandsparameter skal være angtt med verdi forskjellig fra OK</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandSamlet_11779.xml">19734</gml:identifier>
+			<gml:name>Tiltaksbehov</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19735">
+			<gml:description>Det er ikke gjennomført tilstandsinspeksjon</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandSamlet_11779.xml">19735</gml:identifier>
+			<gml:name>Ikke registrert</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

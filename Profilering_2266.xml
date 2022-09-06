@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2266">
+	<gml:description>Angir om vegoppmerkingen er profilert eller ikke, og i tilfelle hvilken type profilering.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">Profilering_2266</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4095">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">4095</gml:identifier>
+			<gml:name>Plan linje</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4097">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">4097</gml:identifier>
+			<gml:name>Kamflex</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4098">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">4098</gml:identifier>
+			<gml:name>Longflex</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4099">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">4099</gml:identifier>
+			<gml:name>Dråpeflex</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16772">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Profilering_2266.xml">16772</gml:identifier>
+			<gml:name>Dråpe kombi</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

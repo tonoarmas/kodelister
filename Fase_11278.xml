@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11278">
+	<gml:description>Angir vegens fase i livet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fase_11278.xml">Fase_11278</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19030">
+			<gml:description>Planlagt veg, vedtatt trasé.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fase_11278.xml">19030</gml:identifier>
+			<gml:name>Planlagt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19031">
+			<gml:description>Veg under bygging</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fase_11278.xml">19031</gml:identifier>
+			<gml:name>Under bygging</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19032">
+			<gml:description>Veg som er del av operativt vegnett</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fase_11278.xml">19032</gml:identifier>
+			<gml:name>Eksisterende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19090">
+			<gml:description>Fiktiv veglenke for stedfesting av objekter som ikke kan stedfestes på andre lenker. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Fase_11278.xml">19090</gml:identifier>
+			<gml:name>Fiktiv</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

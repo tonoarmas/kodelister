@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1574">
-	<gml:description>Angir den høyde over vegkant som rekkverket var dimensjonert for ved oppsetting langs veg.</gml:description>
-	<gml:identifier codeSpace="https://register.geonorge.no/kodelister/1574">1574</gml:identifier>
-	<gml:dictionaryEntry>
-        
-    </gml:dictionaryEntry>
-</gml:Dictionary>

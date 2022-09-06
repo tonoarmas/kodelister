@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1892">
+	<gml:description>Angir hvilken form skiltplaten har.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltform_1892.xml">Skiltform_1892</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2853">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltform_1892.xml">2853</gml:identifier>
+			<gml:name>Plan</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2854">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltform_1892.xml">2854</gml:identifier>
+			<gml:name>Bukket kant</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2855">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltform_1892.xml">2855</gml:identifier>
+			<gml:name>Buet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2856">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltform_1892.xml">2856</gml:identifier>
+			<gml:name>Profil</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

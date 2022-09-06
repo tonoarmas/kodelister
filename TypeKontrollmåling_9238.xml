@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9238">
+	<gml:description>Angir hvilken type kontrollmåling som ble foretatt sist.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKontrollmåling_9238.xml">TypeKontrollmåling_9238</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="12870">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKontrollmåling_9238.xml">12870</gml:identifier>
+			<gml:name>Kjørt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12871">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKontrollmåling_9238.xml">12871</gml:identifier>
+			<gml:name>Målehjul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12872">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKontrollmåling_9238.xml">12872</gml:identifier>
+			<gml:name>Målband/snor</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21387">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeKontrollmåling_9238.xml">21387</gml:identifier>
+			<gml:name>Landmåling/avstandsmåling</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5523">
+	<gml:description>Angir feltkode for flate.  Skal bare gis for kjørefeltflater</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">Utgår_Feltkode_5523</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11609">
+			<gml:description>Feltkode som gjelder alle felt på strekningen.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">11609</gml:identifier>
+			<gml:name> - Alle kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7506">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7506</gml:identifier>
+			<gml:name>1 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7507">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7507</gml:identifier>
+			<gml:name>2 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7508">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7508</gml:identifier>
+			<gml:name>3 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7509">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7509</gml:identifier>
+			<gml:name>4 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7510">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7510</gml:identifier>
+			<gml:name>5 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7511">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7511</gml:identifier>
+			<gml:name>6 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7512">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7512</gml:identifier>
+			<gml:name>7 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7513">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7513</gml:identifier>
+			<gml:name>8 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7514">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7514</gml:identifier>
+			<gml:name>9 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7515">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7515</gml:identifier>
+			<gml:name>10 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7516">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7516</gml:identifier>
+			<gml:name>11 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7517">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til ordinær trafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7517</gml:identifier>
+			<gml:name>12 - Ordinært kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7554">
+			<gml:description>Angir forbikjøringsfelt i metreringsretning.  Kjørefeltet ligger til venstre for første gjennomgående kjørefelt.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7554</gml:identifier>
+			<gml:name>1F - Forbikjøringsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7555">
+			<gml:description>Angir forbikjøringsfelt mot metreringsretning.  Kjørefeltet ligger til venstre for første gjennomgående kjørefelt.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7555</gml:identifier>
+			<gml:name>2F - Forbikjøringsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7556">
+			<gml:description>Angir reversibelt kjørefelt.  </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7556</gml:identifier>
+			<gml:name>1R - Reversibelt kjørefelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7558">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7558</gml:identifier>
+			<gml:name>1K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7559">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7559</gml:identifier>
+			<gml:name>2K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7560">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7560</gml:identifier>
+			<gml:name>3K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7561">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7561</gml:identifier>
+			<gml:name>4K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7562">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7562</gml:identifier>
+			<gml:name>5K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7563">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7563</gml:identifier>
+			<gml:name>6K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7564">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7564</gml:identifier>
+			<gml:name>7K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7565">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7565</gml:identifier>
+			<gml:name>8K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7566">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7566</gml:identifier>
+			<gml:name>9K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7567">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7567</gml:identifier>
+			<gml:name>10K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8164">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8164</gml:identifier>
+			<gml:name>11K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8165">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivtrafikk.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8165</gml:identifier>
+			<gml:name>12K - Kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17465">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17465</gml:identifier>
+			<gml:name>1K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17466">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17466</gml:identifier>
+			<gml:name>2K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17467">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17467</gml:identifier>
+			<gml:name>3K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17468">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17468</gml:identifier>
+			<gml:name>4K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17469">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17469</gml:identifier>
+			<gml:name>5K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17470">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17470</gml:identifier>
+			<gml:name>6K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17471">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17471</gml:identifier>
+			<gml:name>7K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17472">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17472</gml:identifier>
+			<gml:name>8K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17473">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17473</gml:identifier>
+			<gml:name>9K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17474">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17474</gml:identifier>
+			<gml:name>10K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17475">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17475</gml:identifier>
+			<gml:name>11K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17476">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sambruksfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">17476</gml:identifier>
+			<gml:name>12K+ - Sambruksfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16845">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">16845</gml:identifier>
+			<gml:name>1S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16846">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">16846</gml:identifier>
+			<gml:name>2S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10779">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10779</gml:identifier>
+			<gml:name>3S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10780">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10780</gml:identifier>
+			<gml:name>4S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10781">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10781</gml:identifier>
+			<gml:name>5S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10782">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10782</gml:identifier>
+			<gml:name>6S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10783">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10783</gml:identifier>
+			<gml:name>7S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10784">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10784</gml:identifier>
+			<gml:name>8S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10785">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10785</gml:identifier>
+			<gml:name>9S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10786">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10786</gml:identifier>
+			<gml:name>10S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10787">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10787</gml:identifier>
+			<gml:name>11S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10788">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10788</gml:identifier>
+			<gml:name>12S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10789">
+			<gml:description>Angir syvende gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10789</gml:identifier>
+			<gml:name>13S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="10790">
+			<gml:description>Angir syvende gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til sykkelfelt.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">10790</gml:identifier>
+			<gml:name>14S - Sykkelfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7568">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7568</gml:identifier>
+			<gml:name>3B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7569">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7569</gml:identifier>
+			<gml:name>4B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7570">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7570</gml:identifier>
+			<gml:name>5B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7571">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7571</gml:identifier>
+			<gml:name>6B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7572">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7572</gml:identifier>
+			<gml:name>7B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7573">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7573</gml:identifier>
+			<gml:name>8B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7574">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7574</gml:identifier>
+			<gml:name>9B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7575">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7575</gml:identifier>
+			<gml:name>10B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7576">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7576</gml:identifier>
+			<gml:name>11B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7577">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7577</gml:identifier>
+			<gml:name>12B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8352">
+			<gml:description>Angir syvende gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8352</gml:identifier>
+			<gml:name>13B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8353">
+			<gml:description>Angir syvende gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8353</gml:identifier>
+			<gml:name>14B - Bomstasjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9302">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9302</gml:identifier>
+			<gml:name>3BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9303">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfeltt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9303</gml:identifier>
+			<gml:name>4BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9304">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9304</gml:identifier>
+			<gml:name>5BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9305">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9305</gml:identifier>
+			<gml:name>6BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9306">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9306</gml:identifier>
+			<gml:name>7BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9307">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9307</gml:identifier>
+			<gml:name>8BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9308">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9308</gml:identifier>
+			<gml:name>9BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9309">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9309</gml:identifier>
+			<gml:name>10BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9310">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9310</gml:identifier>
+			<gml:name>11BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9311">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9311</gml:identifier>
+			<gml:name>12BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9312">
+			<gml:description>Angir syvende gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9312</gml:identifier>
+			<gml:name>13BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9313">
+			<gml:description>Angir syvende gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt i forbindelse med bomstasjon.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9313</gml:identifier>
+			<gml:name>14BK - Bomstasjon, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7578">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7578</gml:identifier>
+			<gml:name>1O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7579">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7579</gml:identifier>
+			<gml:name>2O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7580">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7580</gml:identifier>
+			<gml:name>3O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7581">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kollektivfelt til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7581</gml:identifier>
+			<gml:name>4O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7582">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kollektivfelt til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7582</gml:identifier>
+			<gml:name>5O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7583">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7583</gml:identifier>
+			<gml:name>6O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7584">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7584</gml:identifier>
+			<gml:name>7O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7585">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7585</gml:identifier>
+			<gml:name>8O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7586">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7586</gml:identifier>
+			<gml:name>9O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7587">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7587</gml:identifier>
+			<gml:name>10O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7588">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7588</gml:identifier>
+			<gml:name>11O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7589">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7589</gml:identifier>
+			<gml:name>12O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8354">
+			<gml:description>Angir syvende gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8354</gml:identifier>
+			<gml:name>13O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8355">
+			<gml:description>Angir syvende gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til oppstilling av kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8355</gml:identifier>
+			<gml:name>14O - Oppstillingsfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9314">
+			<gml:description>Angir første gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9314</gml:identifier>
+			<gml:name>1OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9315">
+			<gml:description>Angir første gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9315</gml:identifier>
+			<gml:name>2OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9316">
+			<gml:description>Angir andre gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9316</gml:identifier>
+			<gml:name>3OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9317">
+			<gml:description>Angir andre gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9317</gml:identifier>
+			<gml:name>4OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9318">
+			<gml:description>Angir tredje gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9318</gml:identifier>
+			<gml:name>5OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9143">
+			<gml:description>Angir tredje gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9143</gml:identifier>
+			<gml:name>6OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9319">
+			<gml:description>Angir fjerde gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9319</gml:identifier>
+			<gml:name>7OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9320">
+			<gml:description>Angir fjerde gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9320</gml:identifier>
+			<gml:name>8OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9321">
+			<gml:description>Angir femte gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9321</gml:identifier>
+			<gml:name>9OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9322">
+			<gml:description>Angir femte gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9322</gml:identifier>
+			<gml:name>10OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9323">
+			<gml:description>Angir sjette gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9323</gml:identifier>
+			<gml:name>11OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9324">
+			<gml:description>Angir sjette gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9324</gml:identifier>
+			<gml:name>12OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9325">
+			<gml:description>Angir syvende gjennomgående kjørefelt i metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9325</gml:identifier>
+			<gml:name>13OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9326">
+			<gml:description>Angir syvende gjennomgående kjørefelt mot metreringsretning. Kjørefeltet benyttes til kombinert kollektivfelt og oppstillingsfelt for kjøretøy f.eks i forbindelse med ferjekaier.  Nummerering fra venstre mot høyre. </gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">9326</gml:identifier>
+			<gml:name>14OK - Oppstilling, kollektivfelt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7518">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for første gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7518</gml:identifier>
+			<gml:name>1H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7520">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for første gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7520</gml:identifier>
+			<gml:name>2H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7522">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for andre gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7522</gml:identifier>
+			<gml:name>3H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7524">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for andre gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7524</gml:identifier>
+			<gml:name>4H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7526">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for tredje gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7526</gml:identifier>
+			<gml:name>5H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7528">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for tredje gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7528</gml:identifier>
+			<gml:name>6H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7530">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for fjerde gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7530</gml:identifier>
+			<gml:name>7H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7532">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for fjerde gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7532</gml:identifier>
+			<gml:name>8H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7534">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for femte gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7534</gml:identifier>
+			<gml:name>9H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8156">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for femte gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8156</gml:identifier>
+			<gml:name>10H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8158">
+			<gml:description>Angir første høyresvingefelt i metreringsretning.  Feltet ligger til høyre for sjette gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8158</gml:identifier>
+			<gml:name>11H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8160">
+			<gml:description>Angir første høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for sjette gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8160</gml:identifier>
+			<gml:name>12H1 - Høyresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7519">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for første gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7519</gml:identifier>
+			<gml:name>1H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7521">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for første gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7521</gml:identifier>
+			<gml:name>2H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7523">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for andre gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7523</gml:identifier>
+			<gml:name>3H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7525">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for andre gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7525</gml:identifier>
+			<gml:name>4H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7527">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for tredje gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7527</gml:identifier>
+			<gml:name>5H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7529">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for tredje gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7529</gml:identifier>
+			<gml:name>6H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7531">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for fjerde gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7531</gml:identifier>
+			<gml:name>7H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7533">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for fjerde gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7533</gml:identifier>
+			<gml:name>8H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7535">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for femte gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7535</gml:identifier>
+			<gml:name>9H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8157">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for femte gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8157</gml:identifier>
+			<gml:name>10H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8159">
+			<gml:description>Angir andre høyresvingefelt i metreringsretning.  Feltet ligger til høyre for sjette gjennomgående felt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8159</gml:identifier>
+			<gml:name>11H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8161">
+			<gml:description>Angir andre høyresvingefelt mot metreringsretning.  Feltet ligger til høyre for sjette gjennomgående felt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8161</gml:identifier>
+			<gml:name>12H2 - Høyresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7536">
+			<gml:description>Angir første venstresvingefelt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7536</gml:identifier>
+			<gml:name>1V1 - Venstresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7537">
+			<gml:description>Angir andre venstresvingefelt i metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7537</gml:identifier>
+			<gml:name>1V2 - Venstresvingefelt 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="8162">
+			<gml:description>Angir første venstresvingefelt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">8162</gml:identifier>
+			<gml:name>2V1 - Venstresvingefelt 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7539">
+			<gml:description>Angir andre venstresvingefelt mot metreringsretning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utgår_Feltkode_5523.xml">7539</gml:identifier>
+			<gml:name>2V2 - Venstresvingefelt 2</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

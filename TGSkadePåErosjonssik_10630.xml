@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10630">
+	<gml:description>Tilstandsgrad. Skade på erosjonssikring ved inn- og utløp. 0=TG0, 1=TG1, 2=TG3, 3=TG3, 8=TGIU, 9=TGmang.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">TGSkadePåErosjonssik_10630</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17059">
+			<gml:description>Tilstandsgrad 0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17059</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17085">
+			<gml:description>Tilstandsgrad 1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17085</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17111">
+			<gml:description>Tilstandsgrad 2</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17111</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17137">
+			<gml:description>Tilstandsgrad 3</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17137</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17163">
+			<gml:description>Tilstandsgrad Ikke Undersøkt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17163</gml:identifier>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17189">
+			<gml:description>Tilstandsgrad mangler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkadePåErosjonssik_10630.xml">17189</gml:identifier>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

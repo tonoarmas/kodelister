@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11510">
+	<gml:description>beskriver hvordan "stigning, maks" er framkommet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StigningKvalitet_11510.xml">StigningKvalitet_11510</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19547">
+			<gml:description>Stigningsverdi er kontrollmålt eller beregnet ut fra pålitelige grunnlagsdata</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StigningKvalitet_11510.xml">19547</gml:identifier>
+			<gml:name>Verifisert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19549">
+			<gml:description>Verdi er typisk beregnet med Kurvgen basert på vegnettsdata uten at det er verifisert/kontrollmålt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StigningKvalitet_11510.xml">19549</gml:identifier>
+			<gml:name>Noe usikker</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19550">
+			<gml:description>Det er ikke kjent hvilken kvalitet verdien har.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/StigningKvalitet_11510.xml">19550</gml:identifier>
+			<gml:name>Ukjent kvalitet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

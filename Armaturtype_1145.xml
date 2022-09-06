@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1145">
+	<gml:description>Angir hvilken type armatur det er. Avledes av Belysningspunkt.Bruksområde.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armaturtype_1145.xml">Armaturtype_1145</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3758">
+			<gml:description>Veglys i dagen</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armaturtype_1145.xml">3758</gml:identifier>
+			<gml:name>Veglys</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2750">
+			<gml:description>Veglbelysning i tunnel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armaturtype_1145.xml">2750</gml:identifier>
+			<gml:name>Tunnellys</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3759">
+			<gml:description>Lysarmatur som benyttes bla i park</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armaturtype_1145.xml">3759</gml:identifier>
+			<gml:name>Parklys</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3760">
+			<gml:description>Lysarmatur av type lyskaster</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Armaturtype_1145.xml">3760</gml:identifier>
+			<gml:name>Lyskaster</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

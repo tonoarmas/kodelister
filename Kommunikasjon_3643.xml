@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3643">
+	<gml:description>Angir hvilken type kommunikasjon det er i tilknytning til stasjonen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kommunikasjon_3643.xml">Kommunikasjon_3643</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4886">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kommunikasjon_3643.xml">4886</gml:identifier>
+			<gml:name>Modem/oppringt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4887">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kommunikasjon_3643.xml">4887</gml:identifier>
+			<gml:name>Mobiltelefon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4888">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kommunikasjon_3643.xml">4888</gml:identifier>
+			<gml:name>Fast linje</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4889">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Kommunikasjon_3643.xml">4889</gml:identifier>
+			<gml:name>Manuell "tapping" av data</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

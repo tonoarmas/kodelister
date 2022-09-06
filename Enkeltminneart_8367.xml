@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8367">
+	<gml:description>Angir hvilken enkeltminneart vegminne tilhører. Begrepet er definert i Askeladden.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">Enkeltminneart_8367</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11374">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11374</gml:identifier>
+			<gml:name>Vegfar</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11350">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11350</gml:identifier>
+			<gml:name>Rideveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11365">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11365</gml:identifier>
+			<gml:name>Postveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11357">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11357</gml:identifier>
+			<gml:name>Høgfjellsveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11363">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11363</gml:identifier>
+			<gml:name>Kongeveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11352">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11352</gml:identifier>
+			<gml:name>Kjerreveg-fransk prinsipp</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11353">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11353</gml:identifier>
+			<gml:name>Chaussé</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11371">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11371</gml:identifier>
+			<gml:name>Mellomriksveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11379">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11379</gml:identifier>
+			<gml:name>Motorveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11397">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11397</gml:identifier>
+			<gml:name>Veg, 1. generasjons bilveg (før 1960)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11394">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11394</gml:identifier>
+			<gml:name>Veg, 2-felts bilveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16789">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">16789</gml:identifier>
+			<gml:name>Forbindelsesveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11377">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11377</gml:identifier>
+			<gml:name>Bevegelig bru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11349">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11349</gml:identifier>
+			<gml:name>Bjelkebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11361">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11361</gml:identifier>
+			<gml:name>Buebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11382">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11382</gml:identifier>
+			<gml:name>Fagverksbru / Hengverksbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11385">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11385</gml:identifier>
+			<gml:name>Flytebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11354">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11354</gml:identifier>
+			<gml:name>Fritt frambygd bru / Kassebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11351">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11351</gml:identifier>
+			<gml:name>Hellebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11359">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11359</gml:identifier>
+			<gml:name>Hengebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11319">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11319</gml:identifier>
+			<gml:name>Hvelvbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11378">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11378</gml:identifier>
+			<gml:name>Kavlbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11383">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11383</gml:identifier>
+			<gml:name>Mastebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11356">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11356</gml:identifier>
+			<gml:name>Platebru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11358">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11358</gml:identifier>
+			<gml:name>Skråstagbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11355">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11355</gml:identifier>
+			<gml:name>Sprengverkbru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11391">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11391</gml:identifier>
+			<gml:name>Allé</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11399">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11399</gml:identifier>
+			<gml:name>Kryss/Rundkjøring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11368">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11368</gml:identifier>
+			<gml:name>Vegknute</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11367">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11367</gml:identifier>
+			<gml:name>Rekkverk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11387">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11387</gml:identifier>
+			<gml:name>Rasteplass</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11370">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11370</gml:identifier>
+			<gml:name>Støttemur</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11395">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11395</gml:identifier>
+			<gml:name>Støyskjerm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11400">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11400</gml:identifier>
+			<gml:name>Vegkunst</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11401">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11401</gml:identifier>
+			<gml:name>Vegmerker/skilt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11380">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11380</gml:identifier>
+			<gml:name>Båtdrag / Trallebane</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11366">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11366</gml:identifier>
+			<gml:name>Båtvorr/Steinkai</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11386">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11386</gml:identifier>
+			<gml:name>Ferjekai</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11364">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11364</gml:identifier>
+			<gml:name>Ferjekaibru</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11392">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11392</gml:identifier>
+			<gml:name>Landkar/Pilar/Pontong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11388">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11388</gml:identifier>
+			<gml:name>Gangstein/Vadestein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11317">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11317</gml:identifier>
+			<gml:name>Varde/Varderekke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11375">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11375</gml:identifier>
+			<gml:name>Tunnel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11389">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11389</gml:identifier>
+			<gml:name>Tunnelportal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11381">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11381</gml:identifier>
+			<gml:name>Skredoverbygg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11393">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11393</gml:identifier>
+			<gml:name>Kulvert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11398">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11398</gml:identifier>
+			<gml:name>Stikkrenne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11362">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11362</gml:identifier>
+			<gml:name>Bygate</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11390">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11390</gml:identifier>
+			<gml:name>Gang- og sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11318">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11318</gml:identifier>
+			<gml:name>Lokalveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11396">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11396</gml:identifier>
+			<gml:name>Miljøgate</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11360">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enkeltminneart_8367.xml">11360</gml:identifier>
+			<gml:name>Bomstasjon</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

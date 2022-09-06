@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1905">
+	<gml:description>Angir hva som varierer på et variabelt skilt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">Variasjon_1905</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2827">
+			<gml:description>Skiltet kan veksle mellom å vise et definerte motiv og å være avslått.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">2827</gml:identifier>
+			<gml:name>Et motiv på/av</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2828">
+			<gml:description>Skiltet kan veksle mellom å vise to fast definerte motiv. Eventuell avslått posisjon kommer i tillegg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">2828</gml:identifier>
+			<gml:name>Veksling mellom to motiv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2829">
+			<gml:description>Skiltet kan veksle mellom å vise tre fast definerte motiv. Eventuell avslått posisjon kommer i tillegg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">2829</gml:identifier>
+			<gml:name>Veksling mellom tre motiv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17933">
+			<gml:description>Skiltet kan veksle mellom å vise 3 eller flere fast definerte motiv. Eventuell avslått posisjon kommer i tillegg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">17933</gml:identifier>
+			<gml:name>Veksling mellom flere enn tre motiv</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2830">
+			<gml:description>Skiltet kan vise fritt valgt fartsgrense/fartsgrenseoppheving.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">2830</gml:identifier>
+			<gml:name>Fritt valgt fartsgrensevarsling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2831">
+			<gml:description>Det kan vises fritt valgt teskt på skiltet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Variasjon_1905.xml">2831</gml:identifier>
+			<gml:name>Fritt valgt tekst</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

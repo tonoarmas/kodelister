@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10608">
+	<gml:description>Angir hvorvidt anlegget er dimensjonert for å håndtere lekkasje fra tankbil.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tankbillekkasje_10608.xml">Tankbillekkasje_10608</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17023">
+			<gml:description>Eget system for å fange opp lekkasje fra tankbil. Er dimensjonert for å ta hånd om lekkasje fra stor tankbil, dvs volum inntil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tankbillekkasje_10608.xml">17023</gml:identifier>
+			<gml:name>Stor tankbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17024">
+			<gml:description>Eget system for å fange opp lekkasje fra tankbil. Er dimensjonert for å ta hånd om lekkasje fra mindre tankbil, dvs standard lastebil med tank uten henger.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tankbillekkasje_10608.xml">17024</gml:identifier>
+			<gml:name>Mindre tankbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17025">
+			<gml:description>Eget system for å fange opp mindre lekkasjer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tankbillekkasje_10608.xml">17025</gml:identifier>
+			<gml:name>Kun mindre lekkasjer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17026">
+			<gml:description>Anlegget har ikke eget system for å fange opp lekkasje fra tankbil.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Tankbillekkasje_10608.xml">17026</gml:identifier>
+			<gml:name>Hånderes ikke spesielt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

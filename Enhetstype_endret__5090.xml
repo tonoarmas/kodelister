@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5090">
+	<gml:description>Alle enhetstyper er gitt sin egen kode fra 01 til 99.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">Enhetstype_endret__5090</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6499">
+			<gml:description>Gående</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6499</gml:identifier>
+			<gml:name>Gående</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6500">
+			<gml:description>Akende</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6500</gml:identifier>
+			<gml:name>Akende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6501">
+			<gml:description>Ski</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6501</gml:identifier>
+			<gml:name>Ski</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6502">
+			<gml:description>Rullende enheter, ikke motorisert</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6502</gml:identifier>
+			<gml:name>Rullende enheter, ikke motorisert</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6512">
+			<gml:description>Rullestol (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6512</gml:identifier>
+			<gml:name>Rullestol (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6503">
+			<gml:description>Fotgjenger, annet</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6503</gml:identifier>
+			<gml:name>Fotgjenger, annet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6504">
+			<gml:description>2-hjuls trå- og elsykkel (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6504</gml:identifier>
+			<gml:name>2-hjuls trå- og elsykkel (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20304">
+			<gml:description>Små elektriske kjøretøy  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20304</gml:identifier>
+			<gml:name>Små elektriske kjøretøy  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20305">
+			<gml:description>Sykkel, annet  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20305</gml:identifier>
+			<gml:name>Sykkel, annet  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6505">
+			<gml:description>Hest (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6505</gml:identifier>
+			<gml:name>Hest (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6507">
+			<gml:description>Moped 2-hjul</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6507</gml:identifier>
+			<gml:name>Moped 2-hjul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20306">
+			<gml:description>Moped 3-hjul  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20306</gml:identifier>
+			<gml:name>Moped 3-hjul  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20307">
+			<gml:description>Moped 4-hjul  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20307</gml:identifier>
+			<gml:name>Moped 4-hjul  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20308">
+			<gml:description>Moped 4-hjul (ATV)  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20308</gml:identifier>
+			<gml:name>Moped 4-hjul (ATV)  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6508">
+			<gml:description>Lett MC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6508</gml:identifier>
+			<gml:name>Lett MC</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20309">
+			<gml:description>Lett MC m/sidevogn  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20309</gml:identifier>
+			<gml:name>Lett MC m/sidevogn  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20310">
+			<gml:description>Mellomtung MC  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20310</gml:identifier>
+			<gml:name>Mellomtung MC  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20311">
+			<gml:description>Mellomtung MC m/sidevogn  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20311</gml:identifier>
+			<gml:name>Mellomtung MC m/sidevogn  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6509">
+			<gml:description>Tung MC</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6509</gml:identifier>
+			<gml:name>Tung MC</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20312">
+			<gml:description>Tung MC m/sidevogn  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20312</gml:identifier>
+			<gml:name>Tung MC m/sidevogn  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20313">
+			<gml:description>MC 3-hjul  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20313</gml:identifier>
+			<gml:name>MC 3-hjul  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13463">
+			<gml:description>MC 4-hjul</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">13463</gml:identifier>
+			<gml:name>MC 4-hjul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9561">
+			<gml:description>MC 4-hjul (ATV)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">9561</gml:identifier>
+			<gml:name>MC 4-hjul (ATV)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6510">
+			<gml:description>MC m/sidevogn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6510</gml:identifier>
+			<gml:name>MC m/sidevogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6513">
+			<gml:description>Personbil, stasjonsvogn (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6513</gml:identifier>
+			<gml:name>Personbil, stasjonsvogn (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6528">
+			<gml:description>Campingbil</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6528</gml:identifier>
+			<gml:name>Campingbil</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6518">
+			<gml:description>Ambulanse</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6518</gml:identifier>
+			<gml:name>Ambulanse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6516">
+			<gml:description>Buss, under 5001 kg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6516</gml:identifier>
+			<gml:name>Buss, under 5001 kg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20314">
+			<gml:description>Buss, over 5000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20314</gml:identifier>
+			<gml:name>Buss, over 5000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6515">
+			<gml:description>Buss, ukjent (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6515</gml:identifier>
+			<gml:name>Buss, ukjent (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20315">
+			<gml:description>Ambulansebuss, under 5001 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20315</gml:identifier>
+			<gml:name>Ambulansebuss, under 5001 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20316">
+			<gml:description>Ambulansebuss, over 5000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20316</gml:identifier>
+			<gml:name>Ambulansebuss, over 5000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6521">
+			<gml:description>Varebil (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6521</gml:identifier>
+			<gml:name>Varebil (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20317">
+			<gml:description>Lastebil, 3501 kg - 12000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20317</gml:identifier>
+			<gml:name>Lastebil, 3501 kg - 12000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20318">
+			<gml:description>Lastebil, over 12000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20318</gml:identifier>
+			<gml:name>Lastebil, over 12000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6522">
+			<gml:description>Lastebil, ukjent (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6522</gml:identifier>
+			<gml:name>Lastebil, ukjent (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20319">
+			<gml:description>Trekkbil, 3501 kg - 12000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20319</gml:identifier>
+			<gml:name>Trekkbil, 3501 kg - 12000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20320">
+			<gml:description>Trekkbil, over 12000 kg  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20320</gml:identifier>
+			<gml:name>Trekkbil, over 12000 kg  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6535">
+			<gml:description>Trekkbil, ukjent (endret 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6535</gml:identifier>
+			<gml:name>Trekkbil, ukjent (endret 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6538">
+			<gml:description>Traktor</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6538</gml:identifier>
+			<gml:name>Traktor</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20321">
+			<gml:description>Traktor (ATV)  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20321</gml:identifier>
+			<gml:name>Traktor (ATV)  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6511">
+			<gml:description>Snøscooter, beltemotorsykkel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6511</gml:identifier>
+			<gml:name>Snøscooter, beltemotorsykkel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6537">
+			<gml:description>Beltebil (ikke anleggsmaskin)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6537</gml:identifier>
+			<gml:name>Beltebil (ikke anleggsmaskin)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20322">
+			<gml:description>Anleggsmaskin/motorredskap  (ny 2020)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">20322</gml:identifier>
+			<gml:name>Anleggsmaskin/motorredskap  (ny 2020)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6539">
+			<gml:description>Tilhenger/tilhengerredskap uten trekkvogn</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6539</gml:identifier>
+			<gml:name>Tilhenger/tilhengerredskap uten trekkvogn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6540">
+			<gml:description>Jernbanetog</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6540</gml:identifier>
+			<gml:name>Jernbanetog</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6541">
+			<gml:description>Sporvogn/trikk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6541</gml:identifier>
+			<gml:name>Sporvogn/trikk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6542">
+			<gml:description>Annet kjøretøy</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6542</gml:identifier>
+			<gml:name>Annet kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6543">
+			<gml:description>Ukjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6543</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6506">
+			<gml:description>Hest med vogn, hestekjøretøy (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6506</gml:identifier>
+			<gml:name>Hest med vogn, hestekjøretøy (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="9562">
+			<gml:description>El-bil (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">9562</gml:identifier>
+			<gml:name>El-bil (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6514">
+			<gml:description>Drosje (også minibuss) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6514</gml:identifier>
+			<gml:name>Drosje (også minibuss) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6519">
+			<gml:description>Politi under utrykning (blålys og/eller særskilt lydsignal) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6519</gml:identifier>
+			<gml:name>Politi under utrykning (blålys og/eller særskilt lydsignal) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6520">
+			<gml:description>Brannbil under utrykning (blålys og/eller særskilt lydsignal) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6520</gml:identifier>
+			<gml:name>Brannbil under utrykning (blålys og/eller særskilt lydsignal) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6517">
+			<gml:description>Annen buss, turvogn (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6517</gml:identifier>
+			<gml:name>Annen buss, turvogn (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6523">
+			<gml:description>Kombinert bil (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6523</gml:identifier>
+			<gml:name>Kombinert bil (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6525">
+			<gml:description>Personbil/stasjonsvogn med campingvogn (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6525</gml:identifier>
+			<gml:name>Personbil/stasjonsvogn med campingvogn (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6526">
+			<gml:description>Varebil med campingvogn (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6526</gml:identifier>
+			<gml:name>Varebil med campingvogn (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6527">
+			<gml:description>Tankbil (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6527</gml:identifier>
+			<gml:name>Tankbil (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6529">
+			<gml:description>Personbil/stasjonsvogn med tilh./tilh.redskap (unntatt camp.vogn) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6529</gml:identifier>
+			<gml:name>Personbil/stasjonsvogn med tilh./tilh.redskap (unntatt camp.vogn) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6530">
+			<gml:description>Varebil med tilhenger/tilhengerredskap (unntatt campingvogn) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6530</gml:identifier>
+			<gml:name>Varebil med tilhenger/tilhengerredskap (unntatt campingvogn) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6531">
+			<gml:description>Lastebil med påhengsvogn (1-akslet) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6531</gml:identifier>
+			<gml:name>Lastebil med påhengsvogn (1-akslet) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6532">
+			<gml:description>Lastebil med slepevogn (2-akslet) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6532</gml:identifier>
+			<gml:name>Lastebil med slepevogn (2-akslet) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6533">
+			<gml:description>Lastebil med tilhengerredskap (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6533</gml:identifier>
+			<gml:name>Lastebil med tilhengerredskap (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6534">
+			<gml:description>Kombinert bil med tilhenger/tilhengerredskap (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6534</gml:identifier>
+			<gml:name>Kombinert bil med tilhenger/tilhengerredskap (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6524">
+			<gml:description>Trekkbil (uten semitrailer) (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6524</gml:identifier>
+			<gml:name>Trekkbil (uten semitrailer) (utgår)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6536">
+			<gml:description>Tankbil med tilhenger (utgår)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Enhetstype_endret__5090.xml">6536</gml:identifier>
+			<gml:name>Tankbil med tilhenger (utgår)</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

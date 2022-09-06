@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10621">
+	<gml:description>Tilstandsgrad, Skråningshelning, ytre. 0=TG0, 1=TG1, 2=TG3, 3=TG3, 8=TGIU, 9=TGmang.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">TGSkråningshelningYt_10621</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17050">
+			<gml:description>Tilstandsgrad 0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17050</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17076">
+			<gml:description>Tilstandsgrad 1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17076</gml:identifier>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17102">
+			<gml:description>Tilstandsgrad 2</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17102</gml:identifier>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17128">
+			<gml:description>Tilstandsgrad 3</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17128</gml:identifier>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17154">
+			<gml:description>Tilstandsgrad Ikke Undersøkt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17154</gml:identifier>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17180">
+			<gml:description>Tilstandsgrad mangler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSkråningshelningYt_10621.xml">17180</gml:identifier>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

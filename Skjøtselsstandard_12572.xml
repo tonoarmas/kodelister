@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12572">
+	<gml:description>Angi hvilken skjøtselsstandard grøntanlegget skal ha</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skjøtselsstandard_12572.xml">Skjøtselsstandard_12572</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21662">
+			<gml:description>Grøntanlegg som skal ha parklik skjøtsel er som regel opparbeidet med plen, grasbakke med 3-4 årlige klipp. trær, gatetrær, busker og/ eller blomsterbeplanting. De er ofte tilknyttet veger og gater i/ ved byer og tettsteder, men det kan også gjelde rasteplasser, holdeplasser/ stopplasser, rundkjøringer og kryssområder. Disse områdene driftes mer intensivt, og skjøtsel innebærer blant annet jevnlig grasklipping, gjødsling, vanning, fjerning av ugras, samt beskjæring av busker, blomsterbeplanting og trær. Grøntanlegget skal være ordentlig og se velstelt ut.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skjøtselsstandard_12572.xml">21662</gml:identifier>
+			<gml:name>Parklik</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21663">
+			<gml:description>Grøntanlegg som skal ha naturlik skjøtsel har som regel naturlig vegetasjon med trær og gress/ eng. De er ofte tilknyttet mer landlige veger. Det kan også gjelde rasteplasser, holdeplasser/ stopplasser, rundkjøringer og kryssområder som er opparbeidet, men som ikke krever så mye skjøtsel. Disse områdene driftes mindre intensivt, og skjøtsel innebærer blant annet grasklipping 1 -2 ganger årlig, fjerning av krattoppkomst, fjerning av døde/ skadde greiner, siktrydding og skjøtsel av verdifulle trær og trerekker.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skjøtselsstandard_12572.xml">21663</gml:identifier>
+			<gml:name>Naturlik</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="21664">
+			<gml:description>Denne benyttes unntaksvis. Angi hvilken skjøtsel som gjelder i «Beskrivelse».</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skjøtselsstandard_12572.xml">21664</gml:identifier>
+			<gml:name>Annen spesifikk</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

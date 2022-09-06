@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3508">
+	<gml:description>Angir hvilken type abonnement det er på telefonforbindelsen (uoff).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Abonnementstype_3508.xml">Abonnementstype_3508</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18273">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Abonnementstype_3508.xml">18273</gml:identifier>
+			<gml:name>Bredbånd/fiber</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4759">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Abonnementstype_3508.xml">4759</gml:identifier>
+			<gml:name>ISDN</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4758">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Abonnementstype_3508.xml">4758</gml:identifier>
+			<gml:name>ISDN, Basis</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4760">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Abonnementstype_3508.xml">4760</gml:identifier>
+			<gml:name>ISDN, Plus</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

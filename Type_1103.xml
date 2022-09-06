@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1103">
+	<gml:description>Angir hvilken type vegobjektet er av.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1103.xml">Type_1103</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2197">
+			<gml:description>Omfatter brøytestikk av kvist samt andre typer av tre</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1103.xml">2197</gml:identifier>
+			<gml:name>Tre</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

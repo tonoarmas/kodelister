@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.9996">
+	<gml:description>Angir hvor ofte tiltak skal gjennomføres.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">HyppighetTiltak_9996</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16252">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">16252</gml:identifier>
+			<gml:name>Hvert år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16248">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">16248</gml:identifier>
+			<gml:name>Annet hvert år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16249">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">16249</gml:identifier>
+			<gml:name>To ganger i løpet av 5 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16250">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">16250</gml:identifier>
+			<gml:name>En gang i løpet av 5 år</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16251">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HyppighetTiltak_9996.xml">16251</gml:identifier>
+			<gml:name>Sjeldnere enn 5 år</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

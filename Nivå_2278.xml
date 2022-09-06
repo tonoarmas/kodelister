@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.2278">
+	<gml:description>Angir om det er et navn på overordna-, lokalt- eller detaljert nivå.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_2278.xml">Nivå_2278</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4178">
+			<gml:description>07</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_2278.xml">4178</gml:identifier>
+			<gml:name>Nivå 7</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4179">
+			<gml:description>08</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_2278.xml">4179</gml:identifier>
+			<gml:name>Nivå 8</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4180">
+			<gml:description>09</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_2278.xml">4180</gml:identifier>
+			<gml:name>Nivå 9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

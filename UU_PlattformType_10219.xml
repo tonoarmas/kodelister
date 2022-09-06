@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10219">
+	<gml:description>Angir type område hvor reisende kan oppholde seg i forbindelse med venting på kollektivtrafikk .</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">UU_PlattformType_10219</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16692">
+			<gml:description>Eget areal som brukes som venteareal</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">16692</gml:identifier>
+			<gml:name>Eget areal</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16690">
+			<gml:description>Plattformen er del av gjennomgående fortau</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">16690</gml:identifier>
+			<gml:name>Del av fortau</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19834">
+			<gml:description>Plattformen er del av gjennomgående g/sveg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">19834</gml:identifier>
+			<gml:name>Del av g/s-veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16691">
+			<gml:description>Trafikkøy som skiller kjørefelt eller påstigningspunkt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">16691</gml:identifier>
+			<gml:name>Trafikkøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16689">
+			<gml:description>Det er ikke noe eget tilpasset venteareal</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/UU_PlattformType_10219.xml">16689</gml:identifier>
+			<gml:name>Ikke plattform</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

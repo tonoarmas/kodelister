@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4577">
+	<gml:description>Angir bruddkode 2.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">Brkode2_4577</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5523">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5523</gml:identifier>
+			<gml:name> </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5520">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5520</gml:identifier>
+			<gml:name>Start kmbrudd</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5525">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5525</gml:identifier>
+			<gml:name>Slutt envegmed</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5526">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5526</gml:identifier>
+			<gml:name>Slutt envegmot</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5527">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5527</gml:identifier>
+			<gml:name>Slutt hovedparsell</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5528">
+			<gml:description>Slutt veg/delstrekning (Fysisk)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Brkode2_4577.xml">5528</gml:identifier>
+			<gml:name>Slutt veg/delstrekn</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

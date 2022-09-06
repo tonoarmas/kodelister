@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5163">
+	<gml:description></gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">HistoriskVegstatus_5163</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7086">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7086</gml:identifier>
+			<gml:name>Eksisterende veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7098">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7098</gml:identifier>
+			<gml:name>Midlertidig veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7097">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7097</gml:identifier>
+			<gml:name>Midlertidig status</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="12324">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">12324</gml:identifier>
+			<gml:name>Gang-/sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17362">
+			<gml:description>Midlertidig status inntil ny status er bestemt for gang- og sykkelvegstrekninngen.  Denne skal brukes i de tilfeller hvor det formelt ikke er avklart hvilken status den gamle gang- og sykkelvegen skal ha.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17362</gml:identifier>
+			<gml:name>Midlertidig status gang-/sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17360">
+			<gml:description>Beredskapsveg, ikke åpen for allmenn ferdsel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17360</gml:identifier>
+			<gml:name>Beredskapsveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17363">
+			<gml:description>Serviceveg, normalt sett ikke åpen for allmenn ferdsel</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17363</gml:identifier>
+			<gml:name>Serviceveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7091">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7091</gml:identifier>
+			<gml:name>Eksisterende ferjestrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7096">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7096</gml:identifier>
+			<gml:name>Veggrunn</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7087">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7087</gml:identifier>
+			<gml:name>Anleggsveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17361">
+			<gml:description>Gang-/sykkelveg anlegg</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17361</gml:identifier>
+			<gml:name>Gang-/sykkelveg anlegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17365">
+			<gml:description>Planlagt veg vedtatt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17365</gml:identifier>
+			<gml:name>Vedtatt veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17364">
+			<gml:description>Planlagt gang- og sykkelveg, vedtatt</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">17364</gml:identifier>
+			<gml:name>Vedtatt gang-/sykkelveg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7090">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7090</gml:identifier>
+			<gml:name>Vedtatt ferjekai</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7089">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7089</gml:identifier>
+			<gml:name>Eksisterende ferjekai</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7093">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7093</gml:identifier>
+			<gml:name>Planlagt ferjestrekning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7092">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/HistoriskVegstatus_5163.xml">7092</gml:identifier>
+			<gml:name>Vedtatt ferjestrekning</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

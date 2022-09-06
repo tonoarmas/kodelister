@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5469">
+	<gml:description>Angir materialbetegnelse i overbygning. Refererer til HB R211 (015) tabell 15.431-2.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">MaterialbetegnelseOve_5469</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="7403">
+			<gml:description>01 - Betongdekke.  Materialkoeffisient = 3,0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7403</gml:identifier>
+			<gml:name>01 - Betongdekke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7404">
+			<gml:description>02 - Asfaltdekke.  Materialkoeffisient = 3,0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7404</gml:identifier>
+			<gml:name>02 - Asfaltdekke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7405">
+			<gml:description>03 - Asfaltert grus.  Materialkoeffisient = 3,0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7405</gml:identifier>
+			<gml:name>03 - Asfaltert grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7406">
+			<gml:description>04 - Ottadekke.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7406</gml:identifier>
+			<gml:name>04 - Ottadekke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7407">
+			<gml:description>05 - Asfaltert sand.  Materialkoeffisient = 2,0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7407</gml:identifier>
+			<gml:name>05 - Asfaltert sand</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7408">
+			<gml:description>06 - Asfaltert pukk.  Materialkoeffisient = 2,0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7408</gml:identifier>
+			<gml:name>06 - Asfaltert pukk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7409">
+			<gml:description>07 - Sementbunden pukk magerbetong  2,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7409</gml:identifier>
+			<gml:name>07 - Sementbunden pukk, magerbetong</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7410">
+			<gml:description>08 - Oljegrus.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7410</gml:identifier>
+			<gml:name>08 - Oljegrus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7411">
+			<gml:description>09 - Penetrert pukk.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7411</gml:identifier>
+			<gml:name>09 - Penetrert pukk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7412">
+			<gml:description>10 - Forkilt pukk, sandf. pukk.  Materialkoeffisient = 1,25.  Telegruppe = T1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7412</gml:identifier>
+			<gml:name>10 - Forkilt pukk, sandf. Pukk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7413">
+			<gml:description>11 - Bærelag grus.  Materialkoeffisient = 1,25T1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7413</gml:identifier>
+			<gml:name>11 - Bærelag grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7414">
+			<gml:description>12 - Forsterkningslag sand, grus,sams masse,kult,stein.  Materialkoeffisient = 1,0.  Telegruppe = T1</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7414</gml:identifier>
+			<gml:name>12 - Forsterkningslag sand, grus, sams masse, kult, stein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7415">
+			<gml:description>13 -T2-materialer.  Materialkoeffisient = 0,75.  Telegruppe = T2</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7415</gml:identifier>
+			<gml:name>13 - T2-materialer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7416">
+			<gml:description>14 - T3-materialer.  Materialkoeffisient = 0,50.  Telegruppe = T3</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7416</gml:identifier>
+			<gml:name>14 - T3-materialer</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7417">
+			<gml:description>15 - Krakelert asfaltdekke.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7417</gml:identifier>
+			<gml:name>15 - Krakelert asfaltdekke</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7418">
+			<gml:description>16 - Krakelert oljegrus ottadekke,asfaltløsninggrus.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7418</gml:identifier>
+			<gml:name>16 - Krakelert oljegrus, ottadekke,asfaltløsninggrus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7419">
+			<gml:description>17 - Brostein.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7419</gml:identifier>
+			<gml:name>17 - Brostein</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7420">
+			<gml:description>18 - Isolasjonsplater.  Materialkoeffisient = 0,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7420</gml:identifier>
+			<gml:name>18 - Isolasjonsplater</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7421">
+			<gml:description>19 - Bark.  Materialkoeffisient = 0,00</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7421</gml:identifier>
+			<gml:name>19 - Bark</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7422">
+			<gml:description>Bitumenstabilisert grus.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7422</gml:identifier>
+			<gml:name>Bitumenstab. grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7423">
+			<gml:description>Sementstabilisert grus/pukk.  Materialkoeffisient = 2,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7423</gml:identifier>
+			<gml:name>Sementstab. grus/pukk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7424">
+			<gml:description>Dobbel overflatebehandling.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7424</gml:identifier>
+			<gml:name>Dobbel overflatebehandling</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7425">
+			<gml:description>Dobbel overflatebehandling m/grus.  Materialkoeffisient =1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7425</gml:identifier>
+			<gml:name>Dobbel overflatebehandling m/grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7426">
+			<gml:description>Emulsjons grus.  Materialkoeffisient = 1,75</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7426</gml:identifier>
+			<gml:name>Emulsjons grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7427">
+			<gml:description>Emulsjons grus, drenerende.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7427</gml:identifier>
+			<gml:name>Emulsjons grus, drenerende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7428">
+			<gml:description>Emulsjons grus, tett.  Materialkoeffisient =  1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7428</gml:identifier>
+			<gml:name>Emulsjons grus, tett</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7429">
+			<gml:description>Enkel overflate behandling.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7429</gml:identifier>
+			<gml:name>Enkel overflate behandl</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7430">
+			<gml:description>Enkel overflatebehandling m/grus.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7430</gml:identifier>
+			<gml:name>Enkel overflatebehandling m/grus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7431">
+			<gml:description>Emulsjons pukk.  Materialkoeffisient = 1,75</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7431</gml:identifier>
+			<gml:name>Emulsjons pukk</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7432">
+			<gml:description>Asfaltløsningsrus.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7432</gml:identifier>
+			<gml:name>Asfaltløsningsrus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7433">
+			<gml:description>Mykasfalt.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7433</gml:identifier>
+			<gml:name>Mykasfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7434">
+			<gml:description>Myk drensasfalt.  Materialkoeffisient = 1,25</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7434</gml:identifier>
+			<gml:name>Myk drensasfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7435">
+			<gml:description>Drensasfalt.  Materialkoeffisient = 2,00</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7435</gml:identifier>
+			<gml:name>Drensasfalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7436">
+			<gml:description>Asfalt skumgrus.  Materialkoeffisient = 1,75</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7436</gml:identifier>
+			<gml:name>Asfalt skumgrus</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7437">
+			<gml:description>Gjenbruks-asfalt.  Materialkoeffisient = 1,50</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/MaterialbetegnelseOve_5469.xml">7437</gml:identifier>
+			<gml:name>Gjenbruksasfalt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

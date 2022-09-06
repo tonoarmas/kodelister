@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11792">
+	<gml:description>Angir tilstand med hensyn på funksjon og fundament for ettergivende rekkverksende.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11792.xml">TilstandEttergivende_11792</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19764">
+			<gml:description>Løsmasser bak stolpe som sikrer funksjon ved påkjørsel (frigjøring av stolpe)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11792.xml">19764</gml:identifier>
+			<gml:name>OK</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19765">
+			<gml:description>Manglende løsmasser bak stolpe som sikrer funksjon ved påkjørsel (frigjøring av stolpe)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TilstandEttergivende_11792.xml">19765</gml:identifier>
+			<gml:name>Manglende løsmasser bak stolper</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

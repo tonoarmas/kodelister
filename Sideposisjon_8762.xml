@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8762">
+	<gml:description>Gir lovlige verdier for sideposisjon i NVDB sin lokasjonsattributt. Høyre og venstre er relatert til vegens metreringsretning.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">Sideposisjon_8762</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11591">
+			<gml:description>Angir at vegobjektet er stedfestet på venstre side av vegen (LEFT)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11591</gml:identifier>
+			<gml:name>Venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11594">
+			<gml:description>Angir at vegobjektet er stedfestet på høyre side av vegen. (RIGHT)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11594</gml:identifier>
+			<gml:name>Høyre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11598">
+			<gml:description>Angir at vegobjektet er stedfestet delvis på høyre og delvis på venstre side av vegen (LEFT_AND_RIGHT)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11598</gml:identifier>
+			<gml:name>Høyre og venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11593">
+			<gml:description>Angir at vegobjektet er stedfestet på midtrabatt (MIDDLE)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11593</gml:identifier>
+			<gml:name>Midten</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11590">
+			<gml:description>Angir at vegobjektet krysser vegen. (CROSSING)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11590</gml:identifier>
+			<gml:name>Kryssende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11597">
+			<gml:description>Angir at vegobjektet er stedfestet på venstre side av midtrabatt (MIDDLE_LEFT)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11597</gml:identifier>
+			<gml:name>Midten, venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11596">
+			<gml:description>Angir at vegobjektet er stedfestet på høyre side av midtrabatt (MIDDLE_RIGHT)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11596</gml:identifier>
+			<gml:name>Midten, høyre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11592">
+			<gml:description>Angir at vegobjektet er stedfestet i tilknytning til sideveg/avkjørsel på venstre side av vegen (LEFT_ACCESS)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11592</gml:identifier>
+			<gml:name>Venstre tilfart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11595">
+			<gml:description>Angir at vegobjektet er stedfestet i tilknytning til sideveg/avkjørsel på høyre side av vegen (RIGHT_ACCESS)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11595</gml:identifier>
+			<gml:name>Høyre tilfart</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11600">
+			<gml:description>Angir at vegobjektet er stedfestet på sentraløya i rundkjøring (ROUNDABOUT_CENTRE)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11600</gml:identifier>
+			<gml:name>Rundkjøring, senter</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11601">
+			<gml:description>Angir at vegobjektet ligger langs med vegen (LONGITUDINAL)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Sideposisjon_8762.xml">11601</gml:identifier>
+			<gml:name>Langs</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

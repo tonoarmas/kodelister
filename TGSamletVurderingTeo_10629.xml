@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10629">
+	<gml:description>Tilstandsgrad, Samlet vurdering teoretisk, automatikk. 0=TG0, 1=TG1, 2=TG3, 3=TG3, 8=TGIU, 9=TGmang.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10629.xml">TGSamletVurderingTeo_10629</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17058">
+			<gml:description>Tilstandsgrad 0</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TGSamletVurderingTeo_10629.xml">17058</gml:identifier>
+			<gml:name>0</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

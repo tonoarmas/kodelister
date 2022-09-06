@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10548">
+	<gml:description>Angir om skiltpunktet har skiltholder.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltholder_10548.xml">Skiltholder_10548</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16935">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltholder_10548.xml">16935</gml:identifier>
+			<gml:name>Ja, rett</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16936">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltholder_10548.xml">16936</gml:identifier>
+			<gml:name>Ja, buet</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16937">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Skiltholder_10548.xml">16937</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

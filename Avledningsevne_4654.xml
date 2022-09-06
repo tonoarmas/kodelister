@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4654">
+	<gml:description>Støtputer deles inn i to typer etter deres evne til å fange opp og stanse eller avlede kjøretøyet ved en sidepåkjørsel. Kilde: Rekkverksnormal HB N101 (231).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Avledningsevne_4654.xml">Avledningsevne_4654</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5706">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Avledningsevne_4654.xml">5706</gml:identifier>
+			<gml:name>Avledende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5707">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Avledningsevne_4654.xml">5707</gml:identifier>
+			<gml:name>Ikke avledende</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

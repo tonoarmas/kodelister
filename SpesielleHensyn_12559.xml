@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.12559">
+	<gml:description>Angir om det skal tas spesielle hensyn ved skjøtsel. Dette kan for eksempel være om det er satt ned blomsterløk i grasdekket, eller om det er fremmede skadelige arter som ikke kan klippes (slirekne-artene). Dette beskrives i «Tilleggsinformasjon»</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensyn_12559.xml">SpesielleHensyn_12559</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="21627">
+			<gml:description>Angir om det er hensyn som må tas.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SpesielleHensyn_12559.xml">21627</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

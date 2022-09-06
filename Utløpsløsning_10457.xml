@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10457">
+	<gml:description>.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utløpsløsning_10457.xml">Utløpsløsning_10457</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16920">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utløpsløsning_10457.xml">16920</gml:identifier>
+			<gml:name>Dykket</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16921">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utløpsløsning_10457.xml">16921</gml:identifier>
+			<gml:name>Åpen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

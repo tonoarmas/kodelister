@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10588">
+	<gml:description>Angir hvilket nivå kollektivknutepunktet tilhører.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_10588.xml">Nivå_10588</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16982">
+			<gml:description>Knutepunkter hvorfra man kan reise både lokalt, regionalt og til andre landsdeler i Norge. Noen nasjonale knutepunkter har internasjonale reisemål. Det finnes et fåtall nasjonale knutepunkter som alle krever spesiell utforming.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_10588.xml">16982</gml:identifier>
+			<gml:name>Nasjonalt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16983">
+			<gml:description>Knutepunkter der man kan reise lokalt og regionalt i betydningen i og til de nærmeste fylkene.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Nivå_10588.xml">16983</gml:identifier>
+			<gml:name>Regionalt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

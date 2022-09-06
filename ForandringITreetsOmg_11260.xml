@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11260">
+	<gml:description>.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">ForandringITreetsOmg_11260</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="18975">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18975</gml:identifier>
+			<gml:name>F1-Graving</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18976">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18976</gml:identifier>
+			<gml:name>F2-Fylling/senking</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18977">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18977</gml:identifier>
+			<gml:name>F3-Jordkompresjon</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18978">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18978</gml:identifier>
+			<gml:name>F4-Belegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18979">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18979</gml:identifier>
+			<gml:name>F5-Fristilt tre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18980">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18980</gml:identifier>
+			<gml:name>F6-Grunnvannendr.</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18981">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18981</gml:identifier>
+			<gml:name>F7-Saltskader</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18982">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18982</gml:identifier>
+			<gml:name>F8-Ledninger</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18983">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ForandringITreetsOmg_11260.xml">18983</gml:identifier>
+			<gml:name>F9-Jordsprekk</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

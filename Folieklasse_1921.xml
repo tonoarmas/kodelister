@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1921">
+	<gml:description>Angir folieklasse på skiltplate.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">Folieklasse_1921</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3477">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">3477</gml:identifier>
+			<gml:name>Ingen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2848">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">2848</gml:identifier>
+			<gml:name>Klasse 1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2850">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">2850</gml:identifier>
+			<gml:name>Klasse 2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2849">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">2849</gml:identifier>
+			<gml:name>Klasse 3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4160">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">4160</gml:identifier>
+			<gml:name>Fluorescerende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19805">
+			<gml:description>Skiltmotiv er klistret på skiltplate/vegg/etc</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">19805</gml:identifier>
+			<gml:name>Klistreskilt</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18157">
+			<gml:description>Angis om informasjon om folieklasse ikke kan framskaffes.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Folieklasse_1921.xml">18157</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

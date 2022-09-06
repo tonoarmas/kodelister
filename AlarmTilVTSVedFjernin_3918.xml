@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3918">
+	<gml:description>Angir hvorvidt det utløses alarm direkte til Vegtrafikksentralen ved fjerning av brannslokker i tunnel.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlarmTilVTSVedFjernin_3918.xml">AlarmTilVTSVedFjernin_3918</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="4926">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlarmTilVTSVedFjernin_3918.xml">4926</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4950">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlarmTilVTSVedFjernin_3918.xml">4950</gml:identifier>
+			<gml:name>Nei, finnes ikke slik alarm</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4927">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/AlarmTilVTSVedFjernin_3918.xml">4927</gml:identifier>
+			<gml:name>Utgår_Brannvesen</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

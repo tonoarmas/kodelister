@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1295">
+	<gml:description>Angir hovedfarge til vegobjektet.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Farge_1295.xml">Farge_1295</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2116">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Farge_1295.xml">2116</gml:identifier>
+			<gml:name>Gul</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2125">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Farge_1295.xml">2125</gml:identifier>
+			<gml:name>Hvit</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

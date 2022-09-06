@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10420">
+	<gml:description>Vurdering av kvalitet på tilbud. Vurdering foretas av regionale sykkelkoordinatorer. Vegnormaler legges til grunn i vurderingen.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VurderingAvTilbud_10420.xml">VurderingAvTilbud_10420</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="16820">
+			<gml:description>Sykkeltilbudet er tilfredsstillende i forhold til krav som stilles i vegnormalene</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VurderingAvTilbud_10420.xml">16820</gml:identifier>
+			<gml:name>Tilfredsstillende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="16821">
+			<gml:description>Sykkeltilbudet er ikke tilfredsstillende i forhold til krav som stilles i vegnormalene</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/VurderingAvTilbud_10420.xml">16821</gml:identifier>
+			<gml:name>Ikke tilfredsstillende</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

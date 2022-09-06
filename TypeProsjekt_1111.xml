@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1111">
+	<gml:description>Angir hvilken type prosjekt dette er.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">TypeProsjekt_1111</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="3238">
+			<gml:description>Prosjekt hvor det inngår bygging av ny veg. Deler av prosjektet kan bestå av utbedring av eksisterende anlegg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">3238</gml:identifier>
+			<gml:name>Ny veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3239">
+			<gml:description>Prosjekt for å utbedre veg. Normalt er det endring i vegens linjeføring, men for det meste innenfor eksisterende vegtrase. Eksempel: Oppgradering av veg til gitt vegnormalstandard.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">3239</gml:identifier>
+			<gml:name>Utbedring av veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11573">
+			<gml:description>Prosjekt der det inngår avgrensa vedlikeholdstiltak knyttet til veg. Medfører normalt ikke endring av vegens linjeføring. Kan f.eks være forsterkning av veg, skifting av stikkrenner, utbedring av drenering, siktforhold mm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">11573</gml:identifier>
+			<gml:name>Vedlikeholdstiltak veg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20132">
+			<gml:description>Prosjekt for å etablere nytt anlegg for gående/syklende eller for å oppgradere eksisterende anlegg.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20132</gml:identifier>
+			<gml:name>Anlegg for gående/syklende</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20109">
+			<gml:description>Prosjekt der det gjennomføres oppgradering/rehabilitering av tunnel.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20109</gml:identifier>
+			<gml:name>Tunneloppgradering</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20130">
+			<gml:description>Prosjekt for å etablere ny skredsikring eller for å oppgradere eksisterende skredsikring.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20130</gml:identifier>
+			<gml:name>Skredsikring</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20126">
+			<gml:description>Prosjekt for å etablere ny vegbelysning eller for å oppgradere eksisterende vegbelysning.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20126</gml:identifier>
+			<gml:name>Vegbelysning</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20131">
+			<gml:description>Prosjekt for å etablere nye sikringstiltak langs veg eller for større oppgradering av eksisterende. Eksempel på sikringstiltak kan være etablering av rekkverk, støtputer, mm</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20131</gml:identifier>
+			<gml:name>Trafikksikkerhetstiltak</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20128">
+			<gml:description>Prosjekt for å etablere nye signalanlegg, skilt, oppmerking, o,l. eller for å oppgradere eksisterende.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20128</gml:identifier>
+			<gml:name>Signal, skilt, oppmerking</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20127">
+			<gml:description>Prosjekt for å etablere sideanlegg eller for å oppgradere eksisterende sideanlegg. Med sideanlegg menes f.eks rasteplasser, kollektivknutepunkt, holdeplasser, kontroll-/veieplasser, etc.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20127</gml:identifier>
+			<gml:name>Sideanlegg</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20129">
+			<gml:description>Prosjekt for å etablere nye grøntanlegg, miljøtiltak, støyskjerming eller for å oppgradere eksisterende.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20129</gml:identifier>
+			<gml:name>Grøntanlegg, miljø</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20133">
+			<gml:description>Prosjekt som kommer i annen kategori.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/TypeProsjekt_1111.xml">20133</gml:identifier>
+			<gml:name>Annen type prosjekt</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

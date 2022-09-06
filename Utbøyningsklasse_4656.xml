@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.4656">
+	<gml:description>Angir utbøyningsklasse.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">Utbøyningsklasse_4656</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5712">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5712</gml:identifier>
+			<gml:name>D1</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5713">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5713</gml:identifier>
+			<gml:name>D2</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5714">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5714</gml:identifier>
+			<gml:name>D3</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5715">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5715</gml:identifier>
+			<gml:name>D4</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5716">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5716</gml:identifier>
+			<gml:name>D5</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5719">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5719</gml:identifier>
+			<gml:name>D6</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5720">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5720</gml:identifier>
+			<gml:name>D7</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5721">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utbøyningsklasse_4656.xml">5721</gml:identifier>
+			<gml:name>D8</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

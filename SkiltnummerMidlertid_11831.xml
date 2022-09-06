@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.11831">
+	<gml:description>Angir skiltnummer til midlertidig skilt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">SkiltnummerMidlertid_11831</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="19872">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19872</gml:identifier>
+			<gml:name>713.V - Vanlig vegviser, Venstre</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19873">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19873</gml:identifier>
+			<gml:name>713.H - Vanlig vegviser, Høyre </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19874">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19874</gml:identifier>
+			<gml:name>723.41 - Omkjøringsrute for store kjøretøy</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19875">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19875</gml:identifier>
+			<gml:name>741 - Omkjøring for bestemte kjøretøygrupper </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19876">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19876</gml:identifier>
+			<gml:name>743.1 - Midlertidig omkjøring.  Uten tekst </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19877">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19877</gml:identifier>
+			<gml:name>743.2 - Midlertidig omkjøring.  Med tekst </gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19878">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/SkiltnummerMidlertid_11831.xml">19878</gml:identifier>
+			<gml:name>Annet skiltnummer</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

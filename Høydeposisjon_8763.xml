@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.8763">
+	<gml:description>Gir lovlige verdier for høydeposisjon i NVDB sin lokasjonsattributt</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydeposisjon_8763.xml">Høydeposisjon_8763</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="11587">
+			<gml:description>LEVEL_OVER_T  Ligger over.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydeposisjon_8763.xml">11587</gml:identifier>
+			<gml:name>Over</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11586">
+			<gml:description>LEVEL_ON_T  Ligger på.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydeposisjon_8763.xml">11586</gml:identifier>
+			<gml:name>På</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11588">
+			<gml:description>LEVEL_UNDER_T  Ligger under.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Høydeposisjon_8763.xml">11588</gml:identifier>
+			<gml:name>Under</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

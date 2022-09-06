@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3917">
+	<gml:description>Angir om service-/nødtelefonene i tunnelen går direkte til  Vegtrafikksentralen (VTS).</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Service-NødtelefonerT_3917.xml">Service-NødtelefonerT_3917</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="5009">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Service-NødtelefonerT_3917.xml">5009</gml:identifier>
+			<gml:name>Ja</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5010">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Service-NødtelefonerT_3917.xml">5010</gml:identifier>
+			<gml:name>Nei, Ingen service-/nødtelefoner</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5015">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Service-NødtelefonerT_3917.xml">5015</gml:identifier>
+			<gml:name>Utgår_Brannvesenet</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

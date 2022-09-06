@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.5079">
+	<gml:description>Værforhold på ulykkessted/tidspunkt.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">Værforhold_5079</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="6466">
+			<gml:description>God sikt, opphold</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6466</gml:identifier>
+			<gml:name>God sikt, opphold</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6467">
+			<gml:description>God sikt, nedbør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6467</gml:identifier>
+			<gml:name>God sikt, nedbør</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6468">
+			<gml:description>Dårlig sikt, nedbør</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6468</gml:identifier>
+			<gml:name>Dårlig sikt, nedbør</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6469">
+			<gml:description>Dårlig sikt, tåke eller dis</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6469</gml:identifier>
+			<gml:name>Dårlig sikt, tåke eller dis</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6470">
+			<gml:description>Dårlig sikt forøvrig</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6470</gml:identifier>
+			<gml:name>Dårlig sikt forøvrig</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="6471">
+			<gml:description>ukjent</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Værforhold_5079.xml">6471</gml:identifier>
+			<gml:name>Ukjent</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

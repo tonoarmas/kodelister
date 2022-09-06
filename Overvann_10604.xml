@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10604">
+	<gml:description>Angir om anlegget håndterer overvann fra tunnel/veg.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Overvann_10604.xml">Overvann_10604</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="17015">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Overvann_10604.xml">17015</gml:identifier>
+			<gml:name>Fra tunnel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17016">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Overvann_10604.xml">17016</gml:identifier>
+			<gml:name>Fra veg i dagen</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17017">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Overvann_10604.xml">17017</gml:identifier>
+			<gml:name>Fra veg i dagen og tunnel</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17018">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Overvann_10604.xml">17018</gml:identifier>
+			<gml:name>Ikke overvann</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

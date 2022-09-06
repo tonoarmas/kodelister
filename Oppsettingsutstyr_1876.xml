@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.1876">
+	<gml:description>Angir hvilket oppsettingsutstyr skiltplatene er festet på.</gml:description>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Oppsettingsutstyr_1876.xml">Oppsettingsutstyr_1876</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="2866">
+			<gml:description>ytre diameter 60,3 mm og godstykkelse 2,9 mm (beteget som 2")</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Oppsettingsutstyr_1876.xml">2866</gml:identifier>
+			<gml:name>Stolpe 60,3 mm (2")</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
