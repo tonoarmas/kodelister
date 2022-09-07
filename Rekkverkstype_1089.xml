@@ -98,10 +98,25 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">17305</gml:identifier>
 			<gml:name>Rekkverk for gående/syklende</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="11330">
+			<gml:description>Rekkverkstype levert av Varmforzinkning AB i Sverige.  Benyttet som midtdeler</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">11330</gml:identifier>
+			<gml:name>Utgår_Z-ellipse</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="5700">
+			<gml:description>Rekkverk plassert på toppen av betongrekkverk/kantdrager (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.  Mye brukt på bruer.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">5700</gml:identifier>
+			<gml:name>Utgår_Topprekkverk på mur/kantdrager</gml:name>
+		</gml:Definition>
 		<gml:Definition gml:id="11405">
 			<gml:description>Rør festet til stolper</gml:description>
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">11405</gml:identifier>
 			<gml:name>Utgår_Rekkverk m rør på stolper</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="3365">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3365</gml:identifier>
+			<gml:name>Utgår_Betongrekkverk</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="3970">
 			<gml:description></gml:description>
@@ -112,21 +127,6 @@
 			<gml:description></gml:description>
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3369</gml:identifier>
 			<gml:name>Utgår_Rekkverk m skinne</gml:name>
-		</gml:Definition>
-		<gml:Definition gml:id="3365">
-			<gml:description></gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">3365</gml:identifier>
-			<gml:name>Utgår_Betongrekkverk</gml:name>
-		</gml:Definition>
-		<gml:Definition gml:id="5700">
-			<gml:description>Rekkverk plassert på toppen av betongrekkverk/kantdrager (se figur 1.4 i Rekkverksnormal). Kilde: Rekkverksnormal.  Mye brukt på bruer.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">5700</gml:identifier>
-			<gml:name>Utgår_Topprekkverk på mur/kantdrager</gml:name>
-		</gml:Definition>
-		<gml:Definition gml:id="11330">
-			<gml:description>Rekkverkstype levert av Varmforzinkning AB i Sverige.  Benyttet som midtdeler</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Rekkverkstype_1089.xml">11330</gml:identifier>
-			<gml:name>Utgår_Z-ellipse</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

@@ -8,5 +8,30 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20473</gml:identifier>
 			<gml:name>Stat, Statens vegvesen</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="20474">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20474</gml:identifier>
+			<gml:name>Stat, Nye Veier</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20475">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20475</gml:identifier>
+			<gml:name>Fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20476">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20476</gml:identifier>
+			<gml:name>Kommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20477">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20477</gml:identifier>
+			<gml:name>Privat</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20478">
+			<gml:description>Verdi benyttes inntil det er avklart hvem som er eier (ingen verdi tolkes som at vegeier er eier).</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Eier_11962.xml">20478</gml:identifier>
+			<gml:name>Uavklart</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

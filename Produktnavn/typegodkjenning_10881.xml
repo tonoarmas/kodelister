@@ -1,1376 +1,1376 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.10881">
 	<gml:description>Refererer til produktnavn og typegodkjenning (samsvarsgodkjenning) for rekkverk godkjent av Statens vegvesen.Jfr: http://www.vegvesen.no/fag/Teknologi/Rekkverk+og+master.</gml:description>
-	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">ProduktnavnTypegodkj_10881</gml:identifier>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">Produktnavn/typegodkjenning_10881</gml:identifier>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="17944">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17944</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17944</gml:identifier>
 			<gml:name>Active Block 450.0 - (N1-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17945">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17945</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17945</gml:identifier>
 			<gml:name>Active Block 450.1 - (H1-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17946">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17946</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17946</gml:identifier>
 			<gml:name>Active Block 450.1 - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17947">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17947</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17947</gml:identifier>
 			<gml:name>BD Veg P140 - (N2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17948">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17948</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17948</gml:identifier>
 			<gml:name>BD Veg-Sigma CC2  - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17949">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17949</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17949</gml:identifier>
 			<gml:name>BD Veg-Sigma CC4 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17950">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17950</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17950</gml:identifier>
 			<gml:name>BD Veg-Sigma/BS CC1  - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17951">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17951</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17951</gml:identifier>
 			<gml:name>BD Veg-Sigma/BS CC2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20344">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20344</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20344</gml:identifier>
 			<gml:name>BDID - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20345">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20345</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20345</gml:identifier>
 			<gml:name>BDID - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17952">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17952</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17952</gml:identifier>
 			<gml:name>BDM veg CC2 - H1 - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17953">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17953</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17953</gml:identifier>
 			<gml:name>BDM veg CC2 - N2 - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17954">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17954</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17954</gml:identifier>
 			<gml:name>BDM veg CC4 - N2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17956">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17956</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17956</gml:identifier>
 			<gml:name>Birsta 1P - (H1-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17955">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17955</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17955</gml:identifier>
 			<gml:name>Birsta 1P - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17957">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17957</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17957</gml:identifier>
 			<gml:name>Birsta 3P - (H4B-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20346">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20346</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20346</gml:identifier>
 			<gml:name>BLINDN2R0 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20347">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20347</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20347</gml:identifier>
 			<gml:name>BMIDH1C2 - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17958">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17958</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17958</gml:identifier>
 			<gml:name>Bri-Flex - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17959">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17959</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17959</gml:identifier>
 			<gml:name>Britpave CSB  - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20348">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20348</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20348</gml:identifier>
 			<gml:name>CARN2BL3 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17960">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17960</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17960</gml:identifier>
 			<gml:name>CC4-BT1 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17961">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17961</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17961</gml:identifier>
 			<gml:name>CC4-BT2 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17962">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17962</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17962</gml:identifier>
 			<gml:name>CC4-RH2-1 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17963">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17963</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17963</gml:identifier>
 			<gml:name>CC4-RH2-2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17964">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17964</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17964</gml:identifier>
 			<gml:name>CC4-RP4 - (N2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17965">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17965</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17965</gml:identifier>
 			<gml:name>CC4-RS-2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17966">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17966</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17966</gml:identifier>
 			<gml:name>CC4-RS-4  - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20349">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20349</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20349</gml:identifier>
 			<gml:name>CESVV2 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17983">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17983</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17983</gml:identifier>
 			<gml:name>DB 65S - (H1-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17973">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17973</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17973</gml:identifier>
 			<gml:name>DB 100 K340 - (H4B-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20442">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20442</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20442</gml:identifier>
 			<gml:name>DB 100AS-R - K280 - (H4B-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17974">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17974</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17974</gml:identifier>
 			<gml:name>DB 100S K150 - (H1-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17975">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17975</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17975</gml:identifier>
 			<gml:name>DB 100S K150 (Double) - (H4B-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17976">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17976</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17976</gml:identifier>
 			<gml:name>DB 100S K220 - (H2-W5)</gml:name>
-		</gml:Definition>
-		<gml:Definition gml:id="20350">
-			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20350</gml:identifier>
-			<gml:name>DB 100S K220 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20351">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20351</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20351</gml:identifier>
 			<gml:name>DB 80 - T180S - (H2-W5)</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="20350">
+			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20350</gml:identifier>
+			<gml:name>DB 100S K220 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20352">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20352</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20352</gml:identifier>
 			<gml:name>DB 80 - T180S - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17985">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17985</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17985</gml:identifier>
 			<gml:name>DB 80 K150 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17984">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17984</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17984</gml:identifier>
 			<gml:name>DB 80 K150 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17986">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17986</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17986</gml:identifier>
 			<gml:name>DB 80 K150 (Double) - (H2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17990">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17990</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17990</gml:identifier>
 			<gml:name>DB 80 K220 - (H1-W6) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17991">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17991</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17991</gml:identifier>
 			<gml:name>DB 80 K220 - (N1-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20443">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20443</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20443</gml:identifier>
 			<gml:name>DB 80AS-A - K120S - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20353">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20353</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20353</gml:identifier>
 			<gml:name>DB 80AS-E - K180S med 30 cm back - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20354">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20354</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20354</gml:identifier>
 			<gml:name>DB 80AS-E - K180S med 40 cm back - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20444">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20444</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20444</gml:identifier>
 			<gml:name>DB 80AS-R - K180 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20355">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20355</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20355</gml:identifier>
 			<gml:name>DB 80E - K150S - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17969">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17969</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17969</gml:identifier>
 			<gml:name>DB 100 K250  - (H2-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17970">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17970</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17970</gml:identifier>
 			<gml:name>DB 100 K280 - (H4B-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17971">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17971</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17971</gml:identifier>
 			<gml:name>DB 100 K340 - (H1-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17972">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17972</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17972</gml:identifier>
 			<gml:name>DB 100 K340 - (H2-W6) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17997">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17997</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17997</gml:identifier>
 			<gml:name>Duo-Rail KAB - (H1-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17996">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17996</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17996</gml:identifier>
 			<gml:name>Duo-Rail KAB - (H2-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="17995">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">17995</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">17995</gml:identifier>
 			<gml:name>Duo-Rail KAB - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20356">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20356</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20356</gml:identifier>
 			<gml:name>Duo-Rail KAV - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21580">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21580</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21580</gml:identifier>
 			<gml:name>Nordic M H2 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20357">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20357</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20357</gml:identifier>
 			<gml:name>Ellips Z E2 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21579">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21579</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21579</gml:identifier>
 			<gml:name>Nordic M H1 V2 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20359">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20359</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20359</gml:identifier>
 			<gml:name>Ellips Z E3 - (H1-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20358">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20358</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20358</gml:identifier>
 			<gml:name>Ellips Z E3 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18136">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18136</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18136</gml:identifier>
 			<gml:name>Ellips ZE1 2 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18137">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18137</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18137</gml:identifier>
 			<gml:name>Ellips ZE2 2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18138">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18138</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18138</gml:identifier>
 			<gml:name>Ellips ZE2 3 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18139">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18139</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18139</gml:identifier>
 			<gml:name>Ellips ZE2 4 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18140">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18140</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18140</gml:identifier>
 			<gml:name>Ellips ZE2 5 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18141">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18141</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18141</gml:identifier>
 			<gml:name>Ellips ZE2 6 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18005">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18005</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18005</gml:identifier>
 			<gml:name>FlexBeam DS - (N2-W2) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18003">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18003</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18003</gml:identifier>
 			<gml:name>FlexBeam DS - (N2-W3) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18004">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18004</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18004</gml:identifier>
 			<gml:name>FlexBeam DS - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18007">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18007</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18007</gml:identifier>
 			<gml:name>FlexBeam PLUS - (H1-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18006">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18006</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18006</gml:identifier>
 			<gml:name>FlexBeam PLUS - (H2-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18008">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18008</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18008</gml:identifier>
 			<gml:name>FlexBeam SS - (N2-W5-1) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18009">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18009</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18009</gml:identifier>
 			<gml:name>FlexBeam SS - (N2-W5-2) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18010">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18010</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18010</gml:identifier>
 			<gml:name>FlexSafe - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20360">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20360</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20360</gml:identifier>
 			<gml:name>FlexSafe 1400 - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18001">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18001</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18001</gml:identifier>
 			<gml:name>FMK EU2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18002">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18002</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18002</gml:identifier>
 			<gml:name>FMK EU4 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18011">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18011</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18011</gml:identifier>
 			<gml:name>FMK-B1 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20361">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20361</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20361</gml:identifier>
 			<gml:name>FMK-B1 bru 1,2m - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20362">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20362</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20362</gml:identifier>
 			<gml:name>FMK-B1 bru 1,4m - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20363">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20363</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20363</gml:identifier>
 			<gml:name>FMK-C1 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20364">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20364</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20364</gml:identifier>
 			<gml:name>FMK-C1 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18012">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18012</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18012</gml:identifier>
 			<gml:name>FMK-VE3 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18014">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18014</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18014</gml:identifier>
 			<gml:name>GPLINK 1.5 - (N2-W5-1) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18013">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18013</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18013</gml:identifier>
 			<gml:name>GPLINK 1.5 - (N2-W5-2) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21576">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21576</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21576</gml:identifier>
 			<gml:name>H2BL - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18015">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18015</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18015</gml:identifier>
 			<gml:name>Linebloc LB90 - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18016">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18016</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18016</gml:identifier>
 			<gml:name>LT 100 D - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18017">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18017</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18017</gml:identifier>
 			<gml:name>LT 100 E - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18018">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18018</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18018</gml:identifier>
 			<gml:name>LT 101 bru - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18019">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18019</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18019</gml:identifier>
 			<gml:name>LT 102 veg - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18020">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18020</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18020</gml:identifier>
 			<gml:name>LT 103 veg - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18021">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18021</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18021</gml:identifier>
 			<gml:name>LT 104 veg-bru - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18022">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18022</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18022</gml:identifier>
 			<gml:name>LT 104 veg-bru - (H4B-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21577">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21577</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21577</gml:identifier>
 			<gml:name>MDB L - (H1/L1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21578">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21578</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21578</gml:identifier>
 			<gml:name>MDB L - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18028">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18028</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18028</gml:identifier>
 			<gml:name>Monoline - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20368">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20368</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20368</gml:identifier>
 			<gml:name>Monoline - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20369">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20369</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20369</gml:identifier>
 			<gml:name>NB100/300 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20370">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20370</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20370</gml:identifier>
 			<gml:name>Nordic M N2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20371">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20371</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20371</gml:identifier>
 			<gml:name>Nordic R H2 High - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21581">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21581</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21581</gml:identifier>
 			<gml:name>Nordic R H2 Low - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20372">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20372</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20372</gml:identifier>
 			<gml:name>Nordic R N2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20373">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20373</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20373</gml:identifier>
 			<gml:name>Nordic W H2 High - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20374">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20374</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20374</gml:identifier>
 			<gml:name>Nordic W N2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20375">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20375</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20375</gml:identifier>
 			<gml:name>Nordic W N2 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18032">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18032</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18032</gml:identifier>
 			<gml:name>Oppland SVV1 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18033">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18033</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18033</gml:identifier>
 			<gml:name>Oppland SVV2  - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20376">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20376</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20376</gml:identifier>
 			<gml:name>Passco H2 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20377">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20377</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20377</gml:identifier>
 			<gml:name>Passco H4b - (H4B-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18034">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18034</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18034</gml:identifier>
 			<gml:name>Passco L1 - (H1-W3) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18036">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18036</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18036</gml:identifier>
 			<gml:name>Passco L1 - (H1-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18037">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18037</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18037</gml:identifier>
 			<gml:name>Passco L1 - (N2-W2) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18035">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18035</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18035</gml:identifier>
 			<gml:name>Passco L1 - (N2-W3) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18038">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18038</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18038</gml:identifier>
 			<gml:name>Peis 100 - (H2-W3) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21582">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21582</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21582</gml:identifier>
 			<gml:name>Prodigy 7.20s 133 - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21583">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21583</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21583</gml:identifier>
 			<gml:name>Prodigy 7.20s 133 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21584">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21584</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21584</gml:identifier>
 			<gml:name>Prodigy 7.20s 133 - (L1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21585">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21585</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21585</gml:identifier>
 			<gml:name>Prodigy 7.20s 133 - (L2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21586">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21586</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21586</gml:identifier>
 			<gml:name>Prodigy 7.20s 133 - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21587">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21587</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21587</gml:identifier>
 			<gml:name>Prodigy 7.20s 200 - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21588">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21588</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21588</gml:identifier>
 			<gml:name>Prodigy 7.20s 200 - (L1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21589">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21589</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21589</gml:identifier>
 			<gml:name>Prodigy 7.20s 200 - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21590">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21590</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21590</gml:identifier>
 			<gml:name>Prodigy 7.20s 400 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21591">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21591</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21591</gml:identifier>
 			<gml:name>Prodigy 9.25s 200 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18050">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18050</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18050</gml:identifier>
 			<gml:name>RB100 - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18051">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18051</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18051</gml:identifier>
 			<gml:name>RB100 - (H4B-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20379">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20379</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20379</gml:identifier>
 			<gml:name>RB100A - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20380">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20380</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20380</gml:identifier>
 			<gml:name>RB100SF - (H4B-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20381">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20381</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20381</gml:identifier>
 			<gml:name>RB100SFS - (H4B-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18056">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18056</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18056</gml:identifier>
 			<gml:name>RB80 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18055">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18055</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18055</gml:identifier>
 			<gml:name>RB80 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20390">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20390</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20390</gml:identifier>
 			<gml:name>RB80A - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20391">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20391</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20391</gml:identifier>
 			<gml:name>RB80AS - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20392">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20392</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20392</gml:identifier>
 			<gml:name>RB80H - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20393">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20393</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20393</gml:identifier>
 			<gml:name>RB80L - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20395">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20395</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20395</gml:identifier>
 			<gml:name>RB84XEAL - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20399">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20399</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20399</gml:identifier>
 			<gml:name>RB85BF (dobbel rad) - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21592">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21592</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21592</gml:identifier>
 			<gml:name>REBLOC 120A_7.5 - (H4b-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21593">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21593</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21593</gml:identifier>
 			<gml:name>REBLOC 80X_8 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21594">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21594</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21594</gml:identifier>
 			<gml:name>REBLOC 80XA_8_3A - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21595">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21595</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21595</gml:identifier>
 			<gml:name>REBLOC 80XA_8_3P - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21596">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21596</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21596</gml:identifier>
 			<gml:name>REBLOC 80XW_8 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21597">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21597</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21597</gml:identifier>
 			<gml:name>REBLOC 84XEA.3_8 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21598">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21598</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21598</gml:identifier>
 			<gml:name>REBLOC 92XES_8 - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21599">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21599</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21599</gml:identifier>
 			<gml:name>REBOC 84XEAL_8 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18057">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18057</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18057</gml:identifier>
 			<gml:name>RSS 2m/cc - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18058">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18058</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18058</gml:identifier>
 			<gml:name>RSS 4m/cc - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20400">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20400</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20400</gml:identifier>
 			<gml:name>RSS Bru 1 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20401">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20401</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20401</gml:identifier>
 			<gml:name>RSS Bru 2 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18059">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18059</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18059</gml:identifier>
 			<gml:name>RSS BSB 1m/cc  - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18060">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18060</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18060</gml:identifier>
 			<gml:name>RSS BSB 2m/cc - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18061">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18061</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18061</gml:identifier>
 			<gml:name>RSS PP - (N2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18062">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18062</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18062</gml:identifier>
 			<gml:name>Safeline Parapet - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18063">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18063</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18063</gml:identifier>
 			<gml:name>Safeline Parapet 1,4 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18064">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18064</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18064</gml:identifier>
 			<gml:name>Safeline veg (dobbeltsidig) - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18065">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18065</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18065</gml:identifier>
 			<gml:name>Safeline veg (ensidig) - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20404">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20404</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20404</gml:identifier>
 			<gml:name>SafeLine-M - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20403">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20403</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20403</gml:identifier>
 			<gml:name>SafeLine-M - (N2-W4-3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20402">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20402</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20402</gml:identifier>
 			<gml:name>SafeLine-M - (N2-W4-6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21600">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21600</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21600</gml:identifier>
 			<gml:name>SafeLine-M with baseplate - (H1-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21601">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21601</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21601</gml:identifier>
 			<gml:name>SafeLine-M with baseplate - (L1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21602">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21602</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21602</gml:identifier>
 			<gml:name>SafeLine-M with baseplate - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20405">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20405</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20405</gml:identifier>
 			<gml:name>SafeLine-R H2 - (H2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20407">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20407</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20407</gml:identifier>
 			<gml:name>SafeLine-R N2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20406">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20406</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20406</gml:identifier>
 			<gml:name>SafeLine-R N2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18066">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18066</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18066</gml:identifier>
 			<gml:name>Safetybaer H2 D90 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18067">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18067</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18067</gml:identifier>
 			<gml:name>Safetybaer H2 E80 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18068">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18068</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18068</gml:identifier>
 			<gml:name>Safetybaer H2 E90 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18074">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18074</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18074</gml:identifier>
 			<gml:name>Secura 700/4000 lås 250 - (N1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18076">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18076</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18076</gml:identifier>
 			<gml:name>Secura 900/4000 lås 250 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18077">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18077</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18077</gml:identifier>
 			<gml:name>Secura 900/4000 lås 330 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18078">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18078</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18078</gml:identifier>
 			<gml:name>Sicuro-Arc  - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18080">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18080</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18080</gml:identifier>
 			<gml:name>Sicuro-Classic - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18079">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18079</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18079</gml:identifier>
 			<gml:name>Sicuro-Classic - (N2-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20412">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20412</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20412</gml:identifier>
 			<gml:name>Smart Rail 1.33 Plus - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21603">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21603</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21603</gml:identifier>
 			<gml:name>SmartProtect Barriär 2.9 - (T1-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21604">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21604</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21604</gml:identifier>
 			<gml:name>SmartProtect Barriär 2.9 - (T2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21605">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21605</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21605</gml:identifier>
 			<gml:name>SmartProtect Barriär 2.9 - (T3-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21606">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21606</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21606</gml:identifier>
 			<gml:name>SmartProtect Barriär 5.8 - (T1-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21607">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21607</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21607</gml:identifier>
 			<gml:name>SmartProtect Barriär 5.8 - (T2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21608">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21608</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21608</gml:identifier>
 			<gml:name>SmartProtect Barriär 5.8 - (T3-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20413">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20413</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20413</gml:identifier>
 			<gml:name>SP-05 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20414">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20414</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20414</gml:identifier>
 			<gml:name>SP-07 - (H1-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18081">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18081</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18081</gml:identifier>
 			<gml:name>SP-11 - (H1-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18082">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18082</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18082</gml:identifier>
 			<gml:name>SP-15 - (N2-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18083">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18083</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18083</gml:identifier>
 			<gml:name>SP-15W - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18084">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18084</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18084</gml:identifier>
 			<gml:name>SP-15W - (N2-W5) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18085">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18085</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18085</gml:identifier>
 			<gml:name>SP-17 - (H1-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20415">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20415</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20415</gml:identifier>
 			<gml:name>SPR4 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18087">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18087</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18087</gml:identifier>
 			<gml:name>StalPro Rail d  - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18086">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18086</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18086</gml:identifier>
 			<gml:name>StalPro Rail dn  - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21609">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21609</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21609</gml:identifier>
 			<gml:name>StalPro Rail en - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18088">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18088</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18088</gml:identifier>
 			<gml:name>StalPro Rail hd  - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18089">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18089</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18089</gml:identifier>
 			<gml:name>StalPro Rail hd  - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21610">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21610</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21610</gml:identifier>
 			<gml:name>StalPro Rail hn - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20072">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20072</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20072</gml:identifier>
 			<gml:name>StalPro Rail sl  - (N2 W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18093">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18093</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18093</gml:identifier>
 			<gml:name>StalPro Rail su - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18092">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18092</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18092</gml:identifier>
 			<gml:name>StalPro Rail su - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18091">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18091</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18091</gml:identifier>
 			<gml:name>StalPro Rail sx - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18090">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18090</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18090</gml:identifier>
 			<gml:name>StalPro Rail sx - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20416">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20416</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20416</gml:identifier>
 			<gml:name>STP-11M - (H1-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18094">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18094</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18094</gml:identifier>
 			<gml:name>Super-Rail - (H4B-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18095">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18095</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18095</gml:identifier>
 			<gml:name>Super-Rail Plus - (H4B-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18096">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18096</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18096</gml:identifier>
 			<gml:name>Svelvik Ellipsen - (N1-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18097">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18097</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18097</gml:identifier>
 			<gml:name>SVS-Betong - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18100">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18100</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18100</gml:identifier>
 			<gml:name>SVS-T - (N1-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18099">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18099</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18099</gml:identifier>
 			<gml:name>SVS-T - (N1-W6) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18098">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18098</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18098</gml:identifier>
 			<gml:name>SVS-T - (N2-W7) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18101">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18101</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18101</gml:identifier>
 			<gml:name>SVS-T/P - (N2-W6) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18102">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18102</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18102</gml:identifier>
 			<gml:name>T18 - 4M - (N2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18103">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18103</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18103</gml:identifier>
 			<gml:name>T18 - 4MS2 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18104">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18104</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18104</gml:identifier>
 			<gml:name>T22 - (N2-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18106">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18106</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18106</gml:identifier>
 			<gml:name>T40 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18105">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18105</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18105</gml:identifier>
 			<gml:name>T40 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20417">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20417</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20417</gml:identifier>
 			<gml:name>TLC18 - (N1-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18108">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18108</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18108</gml:identifier>
 			<gml:name>TRS BoxBeam - (N2-W4) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18107">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18107</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18107</gml:identifier>
 			<gml:name>TRS BoxBeam - (N2-W5-1) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18109">
 			<gml:description>Ikke lenger aktiv i database over typegodkjent vegutstyr.</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18109</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18109</gml:identifier>
 			<gml:name>TRS BoxBeam - (N2-W5-2) U</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20418">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20418</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20418</gml:identifier>
 			<gml:name>Vik 2mm - (N2-W4-2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18117">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18117</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18117</gml:identifier>
 			<gml:name>Vik 2mm - (N2-W4-4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18118">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18118</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18118</gml:identifier>
 			<gml:name>Vik CC2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18119">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18119</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18119</gml:identifier>
 			<gml:name>Vik CC4 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21381">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk/vik-eo-megarail-eo/</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21381</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21381</gml:identifier>
 			<gml:name>Vik eo (Megarail eo) - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="21611">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">21611</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">21611</gml:identifier>
 			<gml:name>Vik eo (Megarail eo) - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20419">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20419</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20419</gml:identifier>
 			<gml:name>VIK H1 - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20420">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20420</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20420</gml:identifier>
 			<gml:name>VIK H1 midtrekkverk - (H1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18120">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18120</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18120</gml:identifier>
 			<gml:name>Vik P - (N2-W7)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18121">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18121</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18121</gml:identifier>
 			<gml:name>Vik SVV1 - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18122">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18122</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18122</gml:identifier>
 			<gml:name>Vik SVV2  - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18123">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18123</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18123</gml:identifier>
 			<gml:name>Vik Veg CC1  - (H2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18124">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk/vik-n2-2m/</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18124</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18124</gml:identifier>
 			<gml:name>Vik Veg CC2  - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18125">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18125</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18125</gml:identifier>
 			<gml:name>Vik W3 cc2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18126">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18126</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18126</gml:identifier>
 			<gml:name>Vik W3 cc4 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20421">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20421</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20421</gml:identifier>
 			<gml:name>VIK-EP - (H1-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20422">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20422</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20422</gml:identifier>
 			<gml:name>VIK-EP - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20423">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20423</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20423</gml:identifier>
 			<gml:name>VIK-EP - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18127">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18127</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18127</gml:identifier>
 			<gml:name>Vik-midtdeler - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18128">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18128</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18128</gml:identifier>
 			<gml:name>Vik-P - (N1-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20424">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20424</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20424</gml:identifier>
 			<gml:name>VS-H2-D90 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20425">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20425</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20425</gml:identifier>
 			<gml:name>VS-H2-E80 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20426">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20426</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20426</gml:identifier>
 			<gml:name>VS-H2-E90 - (H2-W1)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20427">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20427</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20427</gml:identifier>
 			<gml:name>Z B5-3 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20428">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20428</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20428</gml:identifier>
 			<gml:name>Z B5-4 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20429">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20429</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20429</gml:identifier>
 			<gml:name>Z B5-5 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20430">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20430</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20430</gml:identifier>
 			<gml:name>Z B5-6 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18130">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18130</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18130</gml:identifier>
 			<gml:name>Z R1 - (N2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18129">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18129</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18129</gml:identifier>
 			<gml:name>Z R1 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18131">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18131</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18131</gml:identifier>
 			<gml:name>Z R1 4D - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18133">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18133</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18133</gml:identifier>
 			<gml:name>Z R2 - (N2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18132">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18132</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18132</gml:identifier>
 			<gml:name>Z R2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18134">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18134</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18134</gml:identifier>
 			<gml:name>ZB4-1 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20431">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20431</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20431</gml:identifier>
 			<gml:name>ZB4-12+ - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20432">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20432</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20432</gml:identifier>
 			<gml:name>ZB4-13 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20433">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20433</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20433</gml:identifier>
 			<gml:name>ZB4-14+ - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20434">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20434</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20434</gml:identifier>
 			<gml:name>ZB4-15 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20435">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20435</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20435</gml:identifier>
 			<gml:name>ZB4-16 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20436">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20436</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20436</gml:identifier>
 			<gml:name>ZB4-17 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18135">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18135</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18135</gml:identifier>
 			<gml:name>ZB4-2 - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20437">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20437</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20437</gml:identifier>
 			<gml:name>ZB4-4 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20438">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20438</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20438</gml:identifier>
 			<gml:name>ZB4-4+ - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20439">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20439</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20439</gml:identifier>
 			<gml:name>ZB4-5 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20440">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20440</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20440</gml:identifier>
 			<gml:name>ZB4-6 - (H2-W3)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="20441">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">20441</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">20441</gml:identifier>
 			<gml:name>ZB4-7 - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18143">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18143</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18143</gml:identifier>
 			<gml:name>ZK1  - (N2-W6)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18142">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18142</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18142</gml:identifier>
 			<gml:name>ZK1 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18150">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18150</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18150</gml:identifier>
 			<gml:name>ZW1 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18151">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18151</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18151</gml:identifier>
 			<gml:name>ZW1 - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18153">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18153</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18153</gml:identifier>
 			<gml:name>ZW1 EM - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18152">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18152</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18152</gml:identifier>
 			<gml:name>ZW1 EM - (N2-W5)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18154">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18154</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18154</gml:identifier>
 			<gml:name>ZW2 - (N2-W4)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18155">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18155</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18155</gml:identifier>
 			<gml:name>Ørsta-Bru - (H2-W2)</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="18156">
 			<gml:description>https://www.vegvesen.no/fag/teknologi/vegutstyr/rekkverk</gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/ProduktnavnTypegodkj_10881.xml">18156</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Produktnavn/typegodkjenning_10881.xml">18156</gml:identifier>
 			<gml:name>Ørsta-Veg CC3 - (N2-W4)</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>

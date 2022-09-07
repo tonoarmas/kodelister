@@ -13,5 +13,20 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">5451</gml:identifier>
 			<gml:name>Drensgrøft, grunn</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="2924">
+			<gml:description>Jfr Håndbok N200 (018)</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">2924</gml:identifier>
+			<gml:name>Pukkstreng</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11581">
+			<gml:description>Grøft som kun har rør for å lede bort overvann/avløpsvann.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">11581</gml:identifier>
+			<gml:name>Avløpsgrøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17232">
+			<gml:description>Grøft fylt med sand. Vann renses ved å renne gjennom sanden. Også benevnt infiltrasjonsgrøft eller sandfiltergrøft. Slike grøfter benyttes bla i forbindelse med rensing av overvann og/eller vaskevann fra tunnel.</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1268.xml">17232</gml:identifier>
+			<gml:name>Filter-/rensegrøft</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

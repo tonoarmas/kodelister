@@ -8,5 +8,35 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">7930</gml:identifier>
 			<gml:name>Statens vegvesen</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="18740">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">18740</gml:identifier>
+			<gml:name>Nye Veier</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="19906">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">19906</gml:identifier>
+			<gml:name>Fylkeskommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="18869">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">18869</gml:identifier>
+			<gml:name>OPS</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7931">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">7931</gml:identifier>
+			<gml:name>Kommune</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="7932">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">7932</gml:identifier>
+			<gml:name>Privat</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="17685">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Vedlikeholdsansvarlig_5638.xml">17685</gml:identifier>
+			<gml:name>Uavklart</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

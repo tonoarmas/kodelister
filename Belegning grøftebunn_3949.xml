@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd" gml:id="kodelister.3949">
 	<gml:description>Angir hvilken type belegning det er i bunn av grøfta.</gml:description>
-	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningGrøftebunn_3949.xml">BelegningGrøftebunn_3949</gml:identifier>
+	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning grøftebunn_3949.xml">Belegning grøftebunn_3949</gml:identifier>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="4957">
 			<gml:description></gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningGrøftebunn_3949.xml">4957</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning grøftebunn_3949.xml">4957</gml:identifier>
 			<gml:name>Asfalt</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="4955">
 			<gml:description></gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/BelegningGrøftebunn_3949.xml">4955</gml:identifier>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Belegning grøftebunn_3949.xml">4955</gml:identifier>
 			<gml:name>Betong</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>

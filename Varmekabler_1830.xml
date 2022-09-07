@@ -8,5 +8,10 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Varmekabler_1830.xml">3522</gml:identifier>
 			<gml:name>Ja</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="3560">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Varmekabler_1830.xml">3560</gml:identifier>
+			<gml:name>Nei</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

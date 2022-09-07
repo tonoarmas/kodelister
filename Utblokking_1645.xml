@@ -3,15 +3,15 @@
 	<gml:description>Anordning mellom rekkverksskinne og rekkverksstolper for å skape større avstand mellom skinnen og stive stolper (se figur 1.2 i Rekkverksnormal). Kilde: Rekkverksnormal.</gml:description>
 	<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utblokking_1645.xml">Utblokking_1645</gml:identifier>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="13742">
-			<gml:description></gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utblokking_1645.xml">13742</gml:identifier>
-			<gml:name>Bøyle</gml:name>
-		</gml:Definition>
 		<gml:Definition gml:id="13741">
 			<gml:description></gml:description>
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utblokking_1645.xml">13741</gml:identifier>
 			<gml:name>Bakskinne</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="13742">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Utblokking_1645.xml">13742</gml:identifier>
+			<gml:name>Bøyle</gml:name>
 		</gml:Definition>
 		<gml:Definition gml:id="3513">
 			<gml:description></gml:description>

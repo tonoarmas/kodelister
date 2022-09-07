@@ -58,15 +58,15 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4667</gml:identifier>
 			<gml:name>Brukant/stup</gml:name>
 		</gml:Definition>
-		<gml:Definition gml:id="4043">
-			<gml:description></gml:description>
-			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4043</gml:identifier>
-			<gml:name>Utgår_Brufot</gml:name>
-		</gml:Definition>
 		<gml:Definition gml:id="4594">
 			<gml:description></gml:description>
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4594</gml:identifier>
 			<gml:name>Utgår_Undergang</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="4043">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Bruksområde_1248.xml">4043</gml:identifier>
+			<gml:name>Utgår_Brufot</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>

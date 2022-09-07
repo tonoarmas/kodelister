@@ -13,5 +13,20 @@
 			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1139.xml">3890</gml:identifier>
 			<gml:name>Grunn sidegrøft</gml:name>
 		</gml:Definition>
+		<gml:Definition gml:id="17233">
+			<gml:description>Sidegrøft der vann infiltreres og ledes bort . Se HB N200 kap 403.47. Større rensegrøfter defineres som "Lukka rørgrøft" av type "Filter-/rensegrøft" eller "Basseng/magasin" med bruksområde "Rensebasseng, infiltrasjon".</gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1139.xml">17233</gml:identifier>
+			<gml:name>Filtergrøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="2934">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1139.xml">2934</gml:identifier>
+			<gml:name>Terrenggrøft</gml:name>
+		</gml:Definition>
+		<gml:Definition gml:id="11627">
+			<gml:description></gml:description>
+			<gml:identifier codeSpace="https://github.com/tonoarmas/kodelister/blob/main/Type_1139.xml">11627</gml:identifier>
+			<gml:name>Åpent avløp</gml:name>
+		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
